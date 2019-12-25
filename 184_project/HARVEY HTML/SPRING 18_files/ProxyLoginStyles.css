@@ -1,0 +1,382 @@
+﻿div#bcPLDefaultView ul li label
+{
+    display: inline-block;
+    width: 250px !important;
+}
+
+div#bcPLErrorContainer a
+{
+    cursor: pointer;
+}
+
+.ui-autocomplete
+{
+    max-height: 250px;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+    /* add padding to account for vertical scrollbar */
+    padding-right: 20px;
+    z-index: 1000 !important;
+}
+
+/* Failed Login Table */
+
+div#bcPLFailedLoginDiv
+{
+    display: none;
+}
+
+#bcPLFailedLoginTable
+{
+    margin: 0 auto;
+}
+
+#bcPLFailedLoginTable
+{
+    border-collapse: collapse;
+}
+
+    #bcPLFailedLoginTable thead tr:first-child th:first-child
+    {
+        border-bottom: 0 !important;
+    }
+
+    #bcPLFailedLoginTable thead tr:first-child th:nth-child(2)
+    {
+        border-bottom: 1px solid #acacac !important;
+    }
+
+    #bcPLFailedLoginTable thead th
+    {
+        padding-right: 5px;
+        padding-left: 5px;
+        border-bottom: 2px solid #acacac;
+    }
+
+    #bcPLFailedLoginTable thead tr th:first-child
+    {
+        min-width: 150px !important;
+    }
+
+    #bcPLFailedLoginTable tbody td
+    {
+        border-bottom: 1px solid #e4e4e4;
+    }
+
+.plPermGreen
+{
+    min-width: 75px;
+    /*background-color:#B6FABE;   */
+    height: 25px;
+    background-image: url('/ics/UI/Common/Images/PortletImages/Icons/16/tick.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #e4e4e4;
+}
+
+.plPermRed
+{
+    min-width: 75px;
+    /*background-color:#FAB6B6;  */
+    height: 25px;
+    background-image: url('/ICS/UI/Common/Images/PortletImages/Icons/16/cancel.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #e4e4e4;
+}
+
+.plPermGrey
+{
+    min-width: 75px;
+    background-color: #E0E0E0;
+    height: 25px;
+    border: 1px solid #e4e4e4;
+}
+
+.plrightborder
+{
+    border-right: solid 1px #acacac;
+}
+/* Permissions View */
+
+table#tblBCPLPermissions thead th:first-child
+{
+    height: 50px;
+    text-align: left;
+}
+
+table#tblBCPLPermissions thead th
+{
+    height: 50px;
+    text-align: center;
+}
+
+table#tblBCPLPermissions thead th
+{
+    height: 50px;
+    text-align: center;
+}
+
+table#tblBCPLPermissions tbody td
+{
+    min-width: 75px;
+    text-align: center;
+}
+
+    table#tblBCPLPermissions tbody td:nth-child(2)
+    {
+        background-color: #B6FABE;
+    }
+
+    table#tblBCPLPermissions tbody td:nth-child(3)
+    {
+        background-color: #FAB6B6;
+    }
+
+    table#tblBCPLPermissions tbody td:nth-child(4)
+    {
+        background-color: #E0E0E0;
+    }
+
+    table#tblBCPLPermissions tbody td:not(:first-child)
+    {
+        padding-top: 1px;
+        padding-bottom: 4px;
+        border: 1px solid #FFFFFF;
+    }
+
+        table#tblBCPLPermissions tbody td:not(:first-child):hover
+        {
+            border: 1px solid #a3a3a3;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+
+    table#tblBCPLPermissions tbody td:first-child
+    {
+        text-align: left;
+    }
+
+
+/* Setup View */
+
+#bcPLConfigureView
+{
+    min-height: 410px;
+}
+
+#bcPLConfigureView h4 
+{
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+}
+
+#bcPLConfigureView ul
+{
+    margin: 0px;
+    padding-left: 15px;
+}
+
+.ulPLSetup li
+{
+    display: block;
+    margin-bottom: 2px;
+}
+
+.ulPLSetup li>label
+{
+    width: 460px;
+    display: inline-block;
+}
+
+.ulPLSetup li>div
+{
+    display: inline-block;
+}
+
+#bcPLTabBar ul {
+    list-style-type: none !important;
+}
+
+/* Logs View Sytles */
+
+div#bcPLLogsView .logsNote
+{
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+div#bcPLLogsView .fg-toolbar
+{
+    padding: 5px;
+}
+
+div#bcPLLogsView .ui-button
+{
+    padding: 0 7px;
+}
+
+div#bcPLUserSearch
+{
+    margin-right: 5px;
+    float: right;
+}
+
+span#spanSaveMessage
+{
+    display: none;
+    float: left;
+    color: #00FF00;
+    line-height: 25px;
+}
+
+span#spanSavePermissions
+{
+    display: none;
+    color: #00FF00;
+}
+
+table#logList
+{
+    width: 100%;
+}
+
+    table#logList tbody tr
+    {
+        cursor: pointer;
+    }
+
+/* Tab Bar Styles */
+div.ArrowTabBar ul li
+{
+    float: left;
+    padding: 5px;
+    cursor: pointer;
+}
+
+div.ArrowTabBar
+{
+    height: 32px;
+    border-bottom: 1px solid #A2A2A2;
+    border-radius: 4px;
+    margin-top: 5px;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+
+    div.ArrowTabBar ul li.tabSelected:after, div.ArrowTabBar ul li.tabSelected:before
+    {
+        top: 100%;
+        border: solid transparent;
+        content: " ";
+        height: 0;
+        width: 0;
+        position: absolute;
+        pointer-events: none;
+    }
+
+    div.ArrowTabBar ul li.tabSelected:after
+    {
+        border-color: #333333;
+        border-color: rgba(51, 51, 51, 0);
+        border-top-color: #0B4981;
+        border-width: 5px;
+        left: 50%;
+        margin-left: -5px;
+    }
+
+    div.ArrowTabBar ul li.tabSelected:before
+    {
+        border-color: #333333;
+        border-color: rgba(51, 51, 51, 0);
+        border-top-color: #0B4981;
+        border-width: 11px;
+        left: 50%;
+        margin-left: -11px;
+    }
+
+    div.ArrowTabBar ul li.tabSelected
+    {
+        position: relative;
+        background: #0B4981;
+        border: 4px solid #0B4981;
+        border-radius: 4px;
+        color: #FFFFFF;
+        font-weight: bold;
+        margin: 0;
+    }
+
+        div.ArrowTabBar ul li.tabSelected:hover
+        {
+            position: relative;
+            background: #0B4981;
+            border: 4px solid #0B4981;
+            border-radius: 4px;
+            color: #FFFFFF;
+            font-weight: bold;
+            margin: 0;
+        }
+
+    div.ArrowTabBar ul li
+    {
+        position: relative;
+        margin: 4px;
+        border-radius: 4px;
+        font-weight: bold;
+    }
+
+        div.ArrowTabBar ul li:hover
+        {
+            border: 2px solid #0B4981;
+            margin: 2px;
+        }
+
+/* Sidebar Styles */
+
+div.proxySideBar input[type=text], .proxySideBar input[type=password]
+{
+    width: 44% !important;
+}
+
+div.proxySideBar label
+{
+    width: 40% !important;
+    display: inline-block !important;
+}
+
+input#bcPLSidebarLoginBtn
+{
+    width: auto;
+}
+
+.proxySideBar label, input#bcPLSidebarLoginBtn, input#bcPLSidebarResume
+{
+    margin-left: 10px;
+}
+
+#ProxyLoginLinks li
+{
+    height: 15px;
+}
+
+#ProxyLoginLinks li a, #ProxyLoginLinks li a:link
+{
+   color: #000000;
+   margin-left: 18px;
+}
+
+div#sideBar div.proxySideBar #bcPLSidebarError a
+{
+    color: #0000FF;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#lblResumeText {
+    font-weight: bold;
+    margin-left: 12px;
+    width: auto !important;
+}
+

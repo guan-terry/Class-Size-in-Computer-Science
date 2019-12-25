@@ -1,0 +1,277 @@
+
+<!-- saved from url=(0059)https://login.hmc.edu/idp/Authn/External?conversation=e51s1 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+		
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Identity Provider Login</title>
+	<link rel="stylesheet" type="text/css" href="./default.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="./panel.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="./customizations.css" media="screen">
+
+
+	<script language="JavaScript" type="text/javascript">
+
+	var uri = "";
+	var globActionUrl = "";
+	function initControls() {
+		var url = document.location.toString();
+		var lkAuth = "null";
+		if (lkAuth === "true")
+		{
+			document.getElementById( 'spinner').style.display = "";
+			var actionUrl = "/idp/Authn/External?conversation=e51s1";
+			document.getElementById( 'j_username').disabled = true;
+			document.getElementById( 'j_password').disabled = true;
+			document.getElementById( 'loginform:loginBtn').disabled = true;
+			document.getElementById( 'launchKeyWaitTxt').style.display = "";
+
+			(function() {
+				var poll, schedule, processResponse;
+
+				processResponse = function () {
+					if(this.readyState == 4 && this.status == 200)
+					{
+						var resp = JSON.parse(this.responseText);
+						if (resp.timedout) {
+							alert("Authentication has timed out.");
+							location.replace('/idp/login.jsp?actionUrl=' + actionUrl);
+							return;
+						}
+						if (resp.authorized === null) {
+							schedule();
+						} else if (resp.authorized === false) {
+							alert("Authentication was denied.");
+							location.replace('/idp/login.jsp?actionUrl=' + actionUrl);
+							return;
+						} else {
+							document.loginform.launchKeyAuthenticated.value = true;
+							document.loginform.submit();
+						}
+					}
+				};
+
+				poll = function () {
+					var xhttp = new XMLHttpRequest();
+					xhttp.onreadystatechange = processResponse;
+					xhttp.open("POST", actionUrl, true);
+					xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+					xhttp.send("isLaunchKeyAuthenticated=true");
+				};
+
+				schedule = function () {
+					window.setTimeout(poll, 1500)
+				};
+
+				schedule();
+			})();
+		}
+		else if (url.indexOf("&qrCode=") > -1)
+		{
+			uri = getPath(url);
+			document.getElementById( 'j_username').disabled = true;
+			document.getElementById( 'j_password').disabled = true;
+			document.getElementById( 'loginform:loginBtn').disabled = true;
+			document.getElementById( 'loginBtnRow').style.display = "none";
+			document.getElementById( 'qrCode').style.display = "";
+			var endInd = url.indexOf("&actionUrl=");
+			var qrcode = url.substring( url.indexOf( "&qrCode=") + 8, endInd);
+			document.getElementById( 'qrCodeImg').src = qrcode;
+			var idx = qrcode.indexOf( "/qr/");
+			qrcode = qrcode.substring( idx + 4);
+			document.getElementById( 'launchKeyQrCodeTxt').innerHTML = qrcode;
+
+			globActionUrl = url.substring(endInd + 11);
+		}
+		else if(url.indexOf("&actionUrl=") > -1 || url.indexOf("?actionUrl=") > -1) {
+			var ind = url.indexOf("&actionUrl=");
+			if(ind == -1)
+				ind = url.indexOf("?actionUrl=")
+			globActionUrl = url.substring(ind + 11);
+		}
+		setFocus('j_username');
+	}
+
+	function getPath(url) {
+		var parser = document.createElement('a');
+		parser.href = url;
+		var path = parser.pathname;
+		var search = parser.search;
+		path = path + search.substring(0, search.indexOf("&"));
+		return path;
+	}
+
+	function reLogin() {
+		location.replace(uri +"&actionUrl=" + globActionUrl);
+	}
+
+	function login() {
+		if(globActionUrl.length > 0)
+			document.loginform.action = globActionUrl;
+		document.getElementById( 'spinner').style.display = "";
+		document.loginform.submit();
+	}
+
+	function CancelEnterPressed(evt)
+	{
+	  if (evt.keyCode == 13)
+		reLogin();
+	  else if (evt.which == 13)
+		reLogin();
+	}
+
+	function setFocus( elId)
+	{
+		var el;
+		if (elId == null || elId == "null" || elId == "")
+		{
+			var inputs = document.getElementsByTagName( "input")
+			for (var i=0; i < inputs.length; i++)
+			{
+				if (inputs[i].type != "hidden" && ! inputs[i].disabled)
+				{
+					el = inputs[i];
+					break;
+				}
+			}
+		}
+		else
+			el = document.getElementById( elId);
+
+		if (el && el.focus && ! el.disabled)
+			el.focus();
+	}
+
+	</script> 
+
+</head>
+
+<body onload="initControls()">
+		 <div id="spinner" class="progress" style="display:none;">
+	<div class="indeterminate"></div>
+</div>
+
+
+	<div class="containerwrap">
+
+		<div id="header">
+	<header id="j_id14" class="site-header short-header">
+		<table role="presentation" width="100%">
+			<tbody>
+				<tr>
+					<td>
+						<div class="bannerLeft"><img src="./HMC.png" alt="Fischer International" title="Fischer International" class="bannerLogo">
+						</div>
+						<h1 class="bannerMid"><span id="bannertitle" class="bannerText">Identity Provider Login</span>
+						</h1>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</header>
+</div>
+
+
+		<div class="container">
+			<div class="logonbody">
+				<center>
+					<div id="loginPanel" class="logonloc">
+					<div class="logonTitle">
+						<h2 class="boldText">Login</h2>
+					</div>
+					
+						<form action="https://login.hmc.edu/idp/Authn/External?conversation=e51s1" method="post" id="loginform" name="loginform" autocomplete="off">
+					
+
+						<input type="hidden" name="launchKeyAuthenticated">
+						 <div id="loginform" class="loginUserIdArea">
+							<div class="">
+								<table class="sectionbodytext" cellspacing="5">
+									<tbody>
+										
+										<tr>
+											<td class="loginlefthalf">
+												User ID:
+											</td>
+											<td class="right">
+												<input name="j_username" id="j_username" type="text" tabindex="1" class="loginInput">
+											</td>
+										</tr>
+										<tr>
+											<td class="loginlefthalf">
+												Password:
+											</td>
+											<td class="right">                                            	
+												<input name="j_password" id="j_password" type="password" tabindex="2" class="loginInput">
+											</td>
+										</tr>
+
+										<tr>
+											<td></td>
+											<td colspan="2">
+												<div align="right" style="text-align:left;padding-right:5px">
+													<span id="launchKeyWaitTxt" class="resendText" style="display:none;">
+														Please continue authentication on your mobile device.<br>
+													</span>
+												</div>
+											</td>
+										</tr>
+										<tr id="qrCode" style="display:none;">
+											<td colspan="3" align="right">
+											<table class="sectionbodytext floatRight">
+												<tbody><tr>
+													<td>
+														<span class="resendText"><br><br>Please scan the QR Code to pair your device.<br><br></span>
+													</td>
+												</tr>
+												<tr>
+													<td><span><img id="qrCodeImg" class="qrcode"></span></td>
+												</tr>
+												<tr>
+													<td align="center">
+														<span id="launchKeyQrCodeTxt" class=""></span><br><br>
+													</td>
+												</tr>
+												<tr>
+													<td align="center">
+														<input type="button" class="loginButton" onclick="reLogin()" value="Re-Login" title="Login" tabindex="3" onkeydown="CancelEnterPressed(event)">
+													</td>
+												</tr>
+											</tbody></table>
+											</td>
+										</tr>
+
+										<tr id="loginBtnRow">
+											<td></td>
+											<td colspan="2">
+												<input id="loginform:loginBtn" name="loginform:loginBtn" value="Submit" class="loginButton" type="submit" onclick="login()">
+											</td>
+										</tr>
+										<!--Customization-->
+										<tr><td class="loginlefthalf">
+										</td>
+										<td>
+											<a href="https://iam.hmc.edu/identity/self-service/HMC/kiosk.jsf" onclick="return oamSubmitForm(&#39;loginform&#39;,&#39;loginform:forgot&#39;);" id="loginform:forgot" class="italic">Forgot Your Password?</a>
+										</td>                                        
+									</tr></tbody>
+								</table>
+							</div>
+							
+							<div class="bottom-left-corner">&nbsp;</div>
+							<div class="bottom"></div>
+						</div>
+						</form>
+					</div>
+				</center>
+			</div>
+		</div>
+	</div>
+
+		<div class="screenfooter" role="contentinfo">
+		<span class="left">Copyright © 2018 Fischer International Identity LLC. All rights reserved.</span>
+	</div>
+
+
+
+
+</body></html>

@@ -1,0 +1,867 @@
+/* -- Pomona 2018 Theme.  Based upon Aegean theme. */
+/* --- ReLiant Theme --- */
+/*------entire site ----------*/
+body{
+	margin-top:5px;
+}
+a:link {
+	color: #0B4981;
+	outline: none;
+	text-decoration: underline!important;
+ }
+ a:visited {
+	 color: #884488;
+ }
+ a:focus, a:hover, a:active {
+	color: #BB1122;
+ }
+ h1, h2, h3, h4, h5, h6 {
+	color: #0B4981;
+	cursor: default; }
+.fa{
+	color: #0B4981;
+}
+input[type=text]:focus, textarea:focus {
+  @include box-shadow(0 0 5px rgba(81, 203, 238, 1));
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+#PORTLETGRID
+{
+	*width: 99%;
+}
+/*---------------Logo Area--------------------*/
+#siteWrapper
+{
+	margin: 0 auto;
+	min-width: 960px!important;
+	max-width:1200px;
+}
+#masthead
+{
+	background:transparent;
+	height:85px;
+	min-width: 960px!important;
+}
+#masthead h1
+{
+	height:85px;
+	background: transparent url(images/logo.png) left top no-repeat;
+	text-indent: -9999px;
+}
+#masthead a
+{
+    height: 100%;
+	width: 400px;
+	display: block;
+}
+/*---------------Welcome Back (login) bar--------------------*/
+#welcomeBackBar
+{
+	position:relative;
+	margin-top:0px;
+	float:right;
+	background:#fff;
+	color:#0B4981;
+	overflow: visible;
+}
+#welcomeBackBar input
+{
+	border: 1px solid #ccc;
+	color: #666;
+	font-weight:bold;
+}
+#welcomeBackBar input[type=text]:focus {
+  @include box-shadow(0 0 5px rgba(81, 203, 238, 1));
+  padding: 3px 0px 3px 3px;
+  margin: 5px 1px 3px 0px;
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+#welcomeBackBar #btnLogin
+{
+	background: #0B4981;
+	color:#fff;
+	font-weight:normal;
+}
+#welcomeBackBar a, #welcomeBackBar a:link, #welcomeBackBar a:visited
+{
+	color: #666;
+	font-style: italic;
+}
+
+#welcomeBackBar #userLogin,
+#welcomeBackBar #userWelcome 
+{
+    clear: both;
+    display: block;
+    padding-right: 4px;
+    text-align: right;
+}
+
+/*---------------HeaderTabs (main menu)--------------------*/
+
+/*-------Lets reset a few things here -----------------*/
+#headerTabs ul, #headerTabs ul li, #headerTabs ul li.firstTab, #headerTabs ul li.selected, #headerTabs ul li.selected a
+{
+	padding:0;
+	margin:0;
+	border:0;
+	background:transparent;
+	color: #fff;
+}
+#headerTabs
+{
+
+	background:#0B4981;
+	font-size:14px;
+	text-transform:uppercase;
+	height:28px;
+	clear:both;
+	overflow:hidden;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;	
+	
+}
+#headerTabs ul li a
+{
+}
+#headerTabs ul li, #headerTabs ul li.selected,  #headerTabs ul li.firstTab, #headerTabs ul li:hover
+{
+	margin-right:0px;
+	padding: 7px 15px 0 15px;
+	display:block;
+	float:left;
+	height:21px;
+
+}
+#headerTabs ul li:hover, #headerTabs ul li.selected a:hover, #headerTabs ul li a:hover, #headerTabs ul li.firstTab:hover, #headerTabs ul li.selected
+{
+	color:#fff;
+	background:#4579A5;
+	text-decoration:none;
+	height:21px!IMPORTANT;
+}
+#headerTabs li.selected
+{
+	top:0;
+}
+#headerTabs ul li.selected
+{
+	background:#4579A5;
+
+}
+/*---------------More Dropdown--------------*/
+#headerTabs li#more
+{
+	background:url(images/more.png) right no-repeat;
+	padding-right:20px;
+}
+#headerTabs li#more:hover
+{
+	background:#4579A5 url(images/more.png) right no-repeat;
+	padding-right:20px;
+}
+#headerTabs #moreList
+{
+	position:absolute;
+	z-index:50;
+	margin-left:-15px;
+	margin-top: 6px;
+	*margin-left:-54px;
+	*margin-top:20px;
+	clear:both;
+	list-style:none;
+
+	}
+#headerTabs ul li ul li
+{
+	float:left;
+	clear:both;!IMPORTANT
+	display:block;
+	width:100%;
+	*min-width:10%;
+	font-size:12px;
+	border-bottom:1px dashed #ccc;
+	filter: alpha(opacity=75);
+	-moz-opacity:0.75;
+	-khtml-opacity: 0.75;
+	opacity: 0.75;
+	background:#000;
+}
+#headerTabs ul li ul li.selected, #headerTabs ul li ul li:hover
+{
+	background:#4579A5;
+	filter: alpha(opacity=100);
+	border-bottom:1px dashed #ccc;
+	-moz-opacity:1;
+	-khtml-opacity: 1;
+	opacity: 1;
+}
+/*---------------BreadCrumbs---------------*/
+#mainCrumbs
+{
+	background:transparent;
+	border:0;
+	color:#666;
+}
+#mainCrumbs a, #mainCrumbs a:link, #mainCrumbs a:visited
+{
+	color:#666;
+	text-decoration: underline;
+}
+
+.crumbs
+{
+	font-size: 1.2em;
+	font-weight: bold;
+
+}
+
+
+/*---------------The Dreaded Side Bar-------------*/
+/*------------ Reset some things to no backgrounds and no borders --*/
+#pagePortlets  li a, #pagePortlets  li a:link, #pagePortlets  li a:visited { text-decoration: none; } 
+
+#pagePortlets li a:hover {text-decoration: none;}
+
+#pagePortlets .selected {
+  background:transparent;
+  }
+
+
+#pagePortlets li
+{
+	display:block;
+	margin-left:-25px;
+}
+
+#sideBar div.sideSection, #pagePortlets li, #contextPages, #contextPages li, #contextPages li.currentPage, #sideBar li.addPage, #sideBar div#quickLinks
+{
+	background:none;
+	background:transparent;
+	border:0;
+	list-style:none;
+}
+#sideBar h2, #sideBar h2 a, #sideBar h2 a:link, #sideBar h2 a:visited, #sideBar h3, #sideBar h3 a, #sideBar h3 a:link, #sideBar h3 a:visited, #sideBar div#quickLinks h3
+{
+	color: #ffffff;
+	background:transparent;
+	border:0;
+}
+/* Start the styling */
+
+#sideBar div.sideSection, #sideBar div#quickLinks 
+{
+	/*background:#4579A5;*/
+	background: #EEE;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	width:99%;
+	padding-top:1px;
+}
+
+#sideBar div#quickLinks 
+{
+	background:#0B4981;!IMPORTANT
+}
+
+
+#sideBar
+{
+	width:17%;
+	min-height:380px;
+}
+#thisContext a, #thisContext a:link, #thisContext a:visited
+{
+	color:#0B4981!IMPORTANT;
+	text-decoration:none;
+}
+#sideBar a, #sideBar a:link, #sideBar a:visited
+{
+	color:#fff;
+	text-decoration:none;
+}
+#sideBar a:hover
+{
+	text-decoration:underline;
+}
+#sideBar h2, #sideBar div#quickLinks h3
+{
+	margin:10px 10px 5px 10px;
+	font-size:16px;
+	border-bottom: 1px solid #fff;
+}
+
+#contextPages li
+{
+	padding: 5px 0 5px 20px;
+	color:#0B4981;
+	font-size:14px;
+	font-weight: normal;
+}
+
+#contextPages li a, #contextPages li a:link, #contextPages li a:visited, #sideBar .addPage a, #sideBar .addPage a:link, #sideBar .addPage a:visited
+{
+	color:#0B4981;
+	font-weight: normal;
+}
+
+#manageLinks li
+{
+	padding: 5px 0 5px 15px;
+	clear: both;
+}
+#pagePortlets
+{
+	
+}
+/* this looks silly but it's set individually in the base style so we have to override each one */
+#sideBar,
+#sideBar .manageGroup a,
+#sideBar .manageGroup a:link,
+#sideBar .manageGroup a:visited {
+  color: #fff;
+  float: right;
+  }
+
+#sideBar .addPage a,
+#sideBar .addPage a:link,
+#sideBar .addPage a:visited {
+  color: #0B4981;
+  }
+#sideBar .manageContext a,
+#sideBar .manageContext a:link,
+#sideBar .manageContext a:visited {
+  color: #0B4981;
+  }
+  
+#sideBar .usageStats a,
+#sideBar .usageStats a:link,
+#sideBar .usageStats a:visited {
+  color: #0B4981;
+}
+ 
+#sideBar #subContexts li { 
+    padding-left: 15px;
+}
+
+#sideBar #subContexts a {
+	background-position: 0 3px;
+	margin: 0 0 7px;
+	font-weight: normal;
+	font-size: 14px;
+	float: left;
+	clear: both;
+	width: 90%;
+}
+
+#quickLinks dl
+{
+	padding-left:15px;
+}
+#quickLinks li
+{
+	padding-left: 10px;
+}
+#xpndPrtlts{
+	background: url(../../../ICS/UI/Common/images/plus.gif) 2px 2px no-repeat;
+	display: block;
+	float: right!important;
+	height: 12px!important;
+	overflow: hidden!important;
+	text-indent: 1000px;
+	width: 16px!important;
+}
+#xpndPrtlts.expanded {
+	background: url(../../../ICS/UI/Common/images/minus.gif) 2px 2px no-repeat;
+}
+/*--------------Portlet area--------------*/
+#pageTitle {
+    width: 99%;
+    margin: 8px 0 7px; 
+}
+#pageTitle h2 #contextName {
+    font-size: 180%;
+}
+
+#pageTitle h2 a, #pageTitle h2 a:link, #pageTitle h2 a:visited
+{
+	color:#0B4981;
+	font-weight:bold;
+}
+a.imageAndText span
+{
+	text-decoration:none;
+}
+#portlets
+{
+	width:78%;
+}
+.pShortcut {
+    background-color: #F3F3F3; 
+    border: 0 none;
+	float: right;
+	margin-right: 5px;
+}
+.portlet
+{
+	border:0;
+	clear:both;
+}
+.pHead h3{
+	height:auto;
+}
+.pHead
+{
+	background:transparent;
+	color:#0B4981;
+	border-bottom:2px solid #0B4981;
+	font-size:16px;
+	padding:10px 0 5px 0;
+}
+.pHead a, .pHead a:link, .pHead a:visited
+{
+	color:#0B4981;
+	text-decoration:underline;
+}
+.pHead img { 
+    margin-top: 0.7em;
+}
+
+.buttonBar
+{
+	background:#f3f3f3;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	padding:4px;
+	text-align: right; 
+    font-size: 85%;
+}
+.pt_CustomContentPortlet h4
+{
+	background:#f3f3f3;
+	padding:9px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	color:#0B4981;
+	margin: 10px auto 0 auto;
+}
+h4
+{
+	background:#4579A5;
+	padding:9px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	color:#fff;
+	margin: 10px auto 0 auto;
+}
+
+.pToolbar
+{
+	background:#4579A5;
+	height:20px;
+}
+.pToolbar ul li
+{
+	height:20px;
+}
+.pToolbar,
+.pToolbar ul,
+.pToolbar a,
+.pToolbar a:link,
+.pToolbar a:visited,
+.pToolbar .pTool,
+.pToolbar .menu a.hasKids,
+.pToolbar .menu a,
+.pToolbar .menu a:link,
+.pToolbar .menu a:visited {
+  background-color: #4579A5;
+  border-color: #fff;
+  color: #fff;
+  } 
+/*----------------Calendar-----------------*/
+.cal {  }
+ 
+	.cal . {  }
+ 
+	.cal span {  }
+ 
+	.cal img {  }
+ 
+	.cal iframe {  }
+ 
+	.cal .time {  }
+ 
+	.cal select {  }
+ 
+ul.dayOfWeek, ul.dayOfWeek li {  }
+
+div#calSideBar { 
+    background-color: #F3F3F3; 
+    padding: 4px; 
+    border-radius: 4px;
+}
+
+#calSideBar { background: none; }
+ 
+	#calSideBar li {
+		background: none;
+		clear: both;
+		display: block;
+		margin: 10px 0; }
+ 
+	#calSideBar h3 {
+		background: none;
+		border-bottom: 1px solid #d2d2d2;
+		text-align: left; }
+ 
+	#calSideBar hr {
+		border-bottom: 1px solid #d2d2d2;
+		border: none;
+		padding: 0; }
+ 
+#calEventListView p {
+	font-weight: bold
+	padding: 0 10px; }
+ 
+#calWeekView a, #calDayView a, #calMonthView a, #calEventListView a {
+	display: block;
+	font-weight: normal;
+	padding: 0 10px 10px 10px;
+	text-decoration: none!important; }
+ 
+#calWeekView a:hover,  #calDayView a:hover, #calMonthView a:hover, #calEventListView a:hover { text-decoration: underline!important; }
+ 
+#calWeekView table { border: none; }
+ 
+#calWeekView td {
+	border: none;
+	padding: 5px;
+	width: 50%; }
+ 
+#calEventListView a { padding: 0 0 10px 0; }
+ 
+.calDayNumber { background: #CEDBE9; }
+ 
+.calBlankDay { background: none!important; }
+ 
+#calMonthView ul, #calMonthView li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-indent: 0; }
+ 
+.evHeader a {
+	border-bottom: 1px solid #d2d2d2;
+	padding-bottom: 0!important; }
+ 
+.hourHead, .allDayHead {
+	border: none!important;
+	padding: 10px; }
+ 
+.allDay {
+	-khtml-border-radius: 4px!important;
+	-moz-border-radius: 4px!important;
+	-o-border-radius: 4px!important;
+	-webkit-border-radius: 4px!important;
+	background: #CEDBE9;
+	border-radius: 4px!important;
+	border: none!important; }
+ 
+	.allDay a { font-size: 80%; }
+ 
+.topHour { border-top-color: #333333!important; }
+ 
+.bottomHour { border-bottom-color: #333333!important; }
+ 
+#calHeader a { display: inline!important; }
+ 
+#calDefaultView a { padding: 0 }
+ 
+#calDefaultView {
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	background: #ccc;
+	padding: 3px; }
+ 
+table[id*=calMain], #pg0_V_calMain {
+	background: none!important;
+	border: none!important; }
+ 
+td.calDayStyle {
+	background: none;
+	padding: 2px; }
+ 
+.calTitleStyle  td { background: none; }
+/*--------------- End Calendar---------------*/
+
+/*---------------Footer--------------------*/
+#foot
+{
+	background:transparent;
+	border-top: 2px solid #ccc;
+	border-bottom: 2px solid #ccc;
+	padding:5px;
+	margin-bottom:20px;
+}
+#foot a, #foot a:link, #foot a:visited
+{
+	color:#666666;
+	text-decoration:none;
+	padding:0;
+	padding-right:15px;
+}
+#policies, #copyright
+{
+}
+
+/* BEGIN - Pomona Customs */
+.clear {
+	clear: both;
+	height: 0px;
+}
+
+#userWelcome > ul {
+  display: inline;
+}
+
+#userWelcome > ul li {
+  display: inline;
+}
+
+#userWelcome {
+  display: inline;
+  float: left;
+}
+
+.searchPanel {
+  /*float: right;*/
+  display: inline-block;
+}
+
+#userLogin {
+  float: inherit;
+}
+  
+.pobookmark:hover
+{
+	background-color: #cfd2aa;
+}
+.dragList::before
+{
+	content: "Drop Here";
+	font-size: 50%;
+}
+.dragList.empty-List
+{
+	height:800px;
+	width:150px;
+	background-color:#ececec;
+}
+
+#top-box
+{
+	/*background-color: #214293;*/
+	clear: both;
+	float: right;
+}
+
+#top-box a, #top-box a:link, #top-box a:visited
+{
+	/*color: #ffffff;*/
+}
+
+#role-nav li a:link
+{
+	text-decoration: none;
+}
+
+#role-nav li:hover
+{
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #018abb;
+}
+
+#role-nav li
+{
+	height: 29px;
+	line-height: 26px;
+	display: inline;
+	padding-right: 10px;
+	padding-left: 7px;
+	float: none;	
+	background-image: url('images/bkg-hdr-bullet.png');
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position-x: right;
+	background-position-y: center;
+	background-size: auto;
+	background-origin: padding-box;
+	background-clip: border-box;
+	background-color: transparent;
+}
+
+#role-nav li:last-child
+{
+	background-image: none;
+}
+
+#role-nav li.selected 
+{
+	background-color: #ffffff;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #018abb;
+}
+
+body {
+	color: #45484D;
+}
+
+#header {
+	background-color: white;
+	z-index: 100;
+}
+
+#header #logo  a {
+        background-image: url('img/logo.png');
+        display: block;
+        height: 50px;
+        width: 120px;
+        z-index: 100;
+        text-indent: -1000px;
+        background-size: 120px 50px;
+        background-repeat: no-repeat;
+}
+
+#welcomeBackBar div#userWelcome {
+    width: auto;
+}
+
+#sideBar #quickLinks .globalLinks {
+	display: none;
+	visible: hidden;
+}
+
+#sideBar #quickLinks {
+	display: none;
+	visible: hidden;
+}
+#intro  a {
+	margin-left: 9px;
+	font-size: 1em;
+	color: #797944;
+	font-weight: bold;
+}
+
+/* PC Colors
+ * #F2EFE2 #FFC146 #AF74B1 #3FAD70 #028ABC #018ABB #20438F #ffe121
+ */
+ 
+#TargetedMessage {
+	max-width: 800px;
+	/*max-*//*width: 70%;*/
+	margin-left: 50px;
+	margin-right: 50px;
+	float: left;
+	font-weight: bold;
+	padding: 5px;
+	border-radius: 15px;
+	border: 2px solid red;
+	background-color: #F2EFE2;
+	background-repeat: no-repeat;
+	
+}
+
+#errorMessage {
+	clear: both;
+	max-width: 800px;
+	/*max-*//*width: 70%;*/
+	margin-left: 50px;
+	margin-right: 50px;
+	float: left;
+	font-weight: bold;
+	margin-bottom: 15px;
+	padding: 5px;
+	border-radius: 15px;
+	border: 2px solid red;
+	background-color: #F2EFE2;
+	padding-left: 50px;
+    background-image: url(img/error2.png);
+    background-repeat: no-repeat;
+    background-position-y: 0px;
+    background-position-x: 0px;
+}
+
+.tooltip-wrap { position: relative; }
+
+.tooltip-wrap .tooltip-content {
+	background-color: #ffffff;
+	border-color: #aaaaaa;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 2px;
+	bottom: 5%;
+	color: #000000;
+	display: none;
+	left: 5%;
+	margin: 0 0 20px 0;
+	padding: .5em;
+	position: absolute;
+	right: 5%;
+	width: 250px;
+}
+
+.tooltip-wrap:hover .tooltip-content { display: block; }
+
+ul#contextPages li:first-child {
+	display: none;
+}
+
+.pSection {
+	overflow: auto;
+}
+
+.pSection.ccSection {
+	overflow: visible;
+}
+
+.wysiwygtext a:link {
+	text-decoration: underline;
+}
+
+.tab_Home {
+	display: none !important;
+	visibility: hidden;
+}
+
+.portlet .button {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
+.portlet .navbuttons {
+    justify-content: space-between;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+/* END - Pomona Customs */

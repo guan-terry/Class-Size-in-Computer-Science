@@ -1,0 +1,44 @@
+.CS {}
+.CS .RedText { color: #ad0000 }
+.CS .GreenText { color: #008700; }
+.CS .GrayBordered { background-color: #EFEFEF; border: 1px solid #B2B2B2; padding: 10px;   }
+.CS .WhiteBordered { border: 1px solid #B2B2B2; padding: 10px }
+.CS .RedErrorText { color: #AD0000; }
+.CS .TableBorder { border: 1px solid #B2B2B2;  }
+.CS .Bullet { list-style-type: disc;}
+.CS .BorderLeftBottom { border-left:1px solid #B2B2B2; border-bottom: 1px solid #B2B2B2 }
+.CS .BorderTopLeftBottomRight { border-left:1px solid #B2B2B2; border-bottom: 1px solid #B2B2B2; border-top:1px solid #B2B2B2; border-right: 1px solid #B2B2B2 }
+.CS .BorderLeftRightBottom { border-left:1px solid #B2B2B2; border-right:1px solid #B2B2B2; border-bottom:1px solid #B2B2B2 }
+.CS .BorderTopLeftRight { border-left:1px solid #B2B2B2; border-top:1px solid #B2B2B2; border-right: 1px solid #B2B2B2 }
+.CS .BorderBottom { border-bottom: 1px solid #B2B2B2 }
+.CS .BorderRightBottom { border-right:1px solid #B2B2B2; border-bottom: 1px solid #B2B2B2 }
+.CS .BorderRight { border-right:1px solid #B2B2B2; }
+.CS .BorderLeft{ border-right:1px solid #B2B2B2; }
+
+ 
+.CS .BlueGrayBorder
+{
+	background-color: #EFEFEF;
+	border: 1px solid #3A6AB7;
+}
+
+.CS .SetupTable
+{
+	border-style: solid;
+	border-width: 1px;
+	border-top-color: #d8d9d8;
+	border-right-color: #d8d9d8;
+	border-bottom-color: #d8d9d8;
+	border-left-color: #d8d9d8;
+}
+
+.CS .EmailAdvisorDiv
+{
+	background-color: #EFEFEF;
+	border-style: solid;
+	border-width: 1px;
+	border-top-color: #BBBBBB;
+	border-right-color: #BBBBBB;
+	border-bottom-color: #BBBBBB;
+	border-left-color: #BBBBBB;
+}

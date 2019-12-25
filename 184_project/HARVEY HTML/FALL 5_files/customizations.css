@@ -1,0 +1,50 @@
+.site-header {
+	background-color: #EAAA00 !important;
+}
+
+.bannerText {
+	color: black;
+	position: relative;
+	top: 5px;
+	font-weight: bold;
+}
+
+.loginButton {
+	background-color: #EAAA00 !important;
+	color: black;
+}
+
+.loginButton {
+	text-transform: capitalize;
+	height: 2em;
+	line-height: inherit;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-right: 3em;
+
+}
+
+.loginButton:hover {
+	background-color: #0f0f0f !important;
+	color: #fff;
+}
+
+.logonloc {
+	padding: inherit
+}
+
+.logonTitle {
+	position: relative;
+	top: 1em;
+	left: 3em;
+	margin-bottom: 2em;
+	margin-left: inherit
+}
+
+.loginUserIdArea {
+	margin: 3em;
+}
+
+.loginInput {
+	width: 200px
+}

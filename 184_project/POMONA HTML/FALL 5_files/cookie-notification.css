@@ -1,0 +1,84 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* EDIT - YOU MAY HAVE TO SLIGHTLY TWEAK THE #cookie-info STYLING FOR THE PORTAL, BUT I'VE BEEN ABLE TO USE IT A FEW PLACES WITH JUST SLIGHT font-size EDITS. */
+
+#cookie-info {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 15;
+    background-color: #fff;
+    border-top: 6px solid #20438f;
+    padding: 40px 10px;
+    font-size: 1.2em;
+    line-height: 1.8em;
+    font-family: 'futurapt_book',Arial,Verdana,Tahoma,sans-serif;
+    text-align: center;
+    }
+
+#cookie-policy-accepted.button {
+    background: #057db0 !important;
+    color: white !important;
+    padding: 5px 20px 5px 10px;
+}
+
+#cookie-policy-accepted.button:after {
+	color: #ffe121;
+	content: "\f054";
+	font-family: "FontAwesome";
+	margin-top: -12px;
+	position: absolute;
+	top: 50%;
+	margin-left:5px;
+}
+
+#cookie-info a {
+    color: #20438f;
+    border-bottom: 2px solid #cfd2aa;
+	}
+
+#cookie-info a:link {
+    text-decoration: none !important;
+}
+
+#cookie-info a:hover {
+	border-bottom: none !important;
+	}
+
+#cookie-info a#cookie-policy-accepted {
+    border-bottom: none !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: .9em;
+	position: relative;
+}
+
+#cookie-info a#cookie-policy-accepted:hover {
+    background: #3797c0 !important;
+}
+
+/* EDIT - BELOW #footer REFERENCES SHOULD BE CHANGED TO THE ELEMENT AT THE BOTTOM OF YOUR PAGE(S) THAT SHOULD HAVE EXTRA MARGIN TO ACCOUNT FOR THE BOTTOM COOKIE BAR */
+
+body.cookie-policy-notification #foot {
+	margin-bottom: 120px;
+	}
+
+@media (max-width:1080px) {
+  	body.cookie-policy-notification #foot {
+    	margin-bottom: 150px;
+	  	}
+	}
+
+@media (max-width:550px) {
+  	body.cookie-policy-notification #foot {
+    	margin-bottom: 180px;
+	  	}
+	}
+
+@media (max-width:400px) {
+  	body.cookie-policy-notification #foot {
+    	margin-bottom: 210px;
+	  	}
+	}

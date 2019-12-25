@@ -1,0 +1,257 @@
+
+$.fn.showHide_crse_units = function() {
+	if ($(this).val() == "=") {
+		$("#crse_units_exact_div").show();
+		$("#crse_units_between").hide();
+		$("#crse_units_from").val("");
+		$("#crse_units_to").val("");
+	} else {
+		$("#crse_units_between").show();
+		$("#crse_units_exact_div").hide();
+		$("#crse_units_exact").val("");
+	}
+}
+
+function enable_disable_session(term) {
+	if (String(term).charAt(3)!="4") {    // if term isn't summer, set option to 0 ('All Sessions') and disable input
+	 document.getElementById("Session").selectedIndex=0;
+	 document.getElementById("Session").disabled=true;
+	}
+  else {                                // if term is summer, enable the session option
+   document.getElementById("Session").disabled=false;
+  }
+	return true;
+}
+
+
+function validate_input_count() {
+	var input_elements = ["catalog_nbr","title","instructor","crse_units_exact","crse_units_from","crse_units_to","online_only"];
+	var input_count = 0;
+	if ( document.getElementById("reg_status").selectedIndex > 0 ) {
+
+		for ( var id in input_elements) {
+			if ( document.getElementById(input_elements[id]).value != "" ) {
+				input_count++;
+			}
+		}
+
+		if (document.getElementById("Session").selectedIndex > 0) {
+			input_count++;
+		}
+
+		var select_elements = ["subject","ge","Days","Times","acad_career"];
+		for ( var sid in select_elements ) {
+                        //Bug10887 - Hong Nguyen - 02/08/2010 - Fixed inconsistent GE behavior.
+			// if (document.getElementById(select_elements[sid]).selectedIndex > 1) {
+			if (document.getElementById(select_elements[sid]).selectedIndex > 0) {
+				input_count++;
+			}
+		}
+	} else {
+		input_count++;
+	}
+
+	if ( input_count < 1) {
+		alert("Not enough search criteria. Please select at least one.");
+		return false;
+	} else {
+		return true;
+	}
+}
+
+function on_term_init(term) {
+ 	show_hide_links(term);
+ 	enable_disable_session(term);
+}
+
+function on_term_change(term) {
+ 	show_hide_links(term);
+ 	enable_disable_session(term);
+ 	load_meeting_times(term);
+ 	load_meeting_days(term);
+        load_subject_list(term); // hotfix/INC0614751 Add function to load search form subject list
+}
+
+function enable_disable_session(term) {
+	if (String(term).charAt(3)!="4") {    // if term isn't summer, set option to 0 ('All Sessions') and disable input
+	 document.getElementById("Session").selectedIndex=0;
+	 document.getElementById("Session").disabled=true;
+	}
+  else {                                // if term is summer, enable the session option
+   document.getElementById("Session").disabled=false;
+  }
+	return true;
+}
+
+// Load 'Times' select list based on value of Term
+function load_meeting_times(term) {
+
+   removeAllOptions(document.searchForm.Times);
+
+   addOption(document.searchForm.Times, "", " ");   // these load to the 'Times' dropdown for all terms
+   addOption(document.searchForm.Times, "", "All Times");
+   addOption(document.searchForm.Times, "Morning", "Morning");
+   addOption(document.searchForm.Times, "Afternoon", "Afternoon");
+   addOption(document.searchForm.Times, "Evening", "Evening");
+
+   if(String(term).charAt(3)!="4"){                             // these load to the 'Times' dropdown for non-summer only
+      if (term < 2168) {
+        addOption(document.searchForm.Times,"08:00AM09:10AM", "0800AM - 0910AM");
+        addOption(document.searchForm.Times,"08:00AM09:45AM", "0800AM - 0945AM");
+        addOption(document.searchForm.Times,"09:30AM10:40AM", "0930AM - 1040AM");
+        addOption(document.searchForm.Times,"10:00AM11:45AM", "1000AM - 1145AM");
+        addOption(document.searchForm.Times,"11:00AM12:10PM", "1100AM - 1210PM");
+        addOption(document.searchForm.Times,"12:00PM01:45PM", "1200PM - 0145PM");
+        addOption(document.searchForm.Times,"12:30PM01:40PM", "1230PM - 0140PM");
+        addOption(document.searchForm.Times,"02:00PM03:10PM", "0200PM - 0310PM");
+        addOption(document.searchForm.Times,"02:00PM03:45PM", "0200PM - 0345PM");
+        addOption(document.searchForm.Times,"03:30PM04:40PM", "0330PM - 0440PM");
+        addOption(document.searchForm.Times,"04:00PM05:45PM", "0400PM - 05:45PM");
+        addOption(document.searchForm.Times,"05:00PM06:45PM", "0500PM - 06:45PM");
+        addOption(document.searchForm.Times,"06:00PM07:45PM", "0600PM - 07:45PM");
+        addOption(document.searchForm.Times,"07:00PM08:45PM", "0700PM - 08:45PM");
+        addOption(document.searchForm.Times,"08:00PM09:45PM", "0800PM - 09:45PM");
+      } else{
+
+        addOption(document.searchForm.Times,'08:00AM09:05AM', '0800AM - 0905AM');
+        addOption(document.searchForm.Times,'08:00AM09:35AM', '0800AM - 0935AM');
+        addOption(document.searchForm.Times,'09:20AM10:25AM', '0920AM - 1025AM');
+        addOption(document.searchForm.Times,'09:50AM11:25AM', '0950AM - 1125AM');
+        addOption(document.searchForm.Times,'10:40AM11:45AM', '1040AM - 1145AM');
+        addOption(document.searchForm.Times,'11:40AM01:15PM', '1140AM - 0115PM');
+        addOption(document.searchForm.Times,'12:00PM01:05PM', '1200PM - 0105PM');
+        addOption(document.searchForm.Times,'01:20PM02:25PM', '0120PM - 0225PM');
+        addOption(document.searchForm.Times,'01:30PM03:05PM', '0130PM - 0305PM');
+        addOption(document.searchForm.Times,'02:40PM03:45PM', '0240PM - 0345PM');
+        addOption(document.searchForm.Times,'03:20PM04:55PM', '0320PM - 0455PM');
+        addOption(document.searchForm.Times,'04:00PM05:05PM', '0400PM - 0505PM');
+        addOption(document.searchForm.Times,'05:20PM06:55PM', '0520PM - 0655PM');
+        addOption(document.searchForm.Times,'07:10PM08:45PM', '0710PM - 0845PM');
+        addOption(document.searchForm.Times,'08:00PM09:45PM', '0800PM - 0945PM');
+
+      }
+   }
+}
+
+// Load 'Days' select list based on value of Term
+function load_meeting_days(term) {
+
+ 	 removeAllOptions(document.searchForm.Days);
+
+ 	 addOption(document.searchForm.Days, "", " ");     // these load to the 'Days' dropdown for all terms
+ 	 addOption(document.searchForm.Days, "", "All Days");
+
+ 	 if(String(term).charAt(3)=="4"){                             // these load to the 'Days' dropdown for summer only
+     addOption(document.searchForm.Days, "MTWR", "MTuWTh");
+     addOption(document.searchForm.Days, "MTWRF", "MTuWThF");
+   }
+
+ 	 addOption(document.searchForm.Days, "MWF", "MWF");           // these load to the 'Days' dropdown for all terms
+ 	 addOption(document.searchForm.Days, "MW", "MW");
+
+ 	 if(String(term).charAt(3)=="4"){                             // this loads to the 'Days' dropdown for summer only
+ 		  addOption(document.searchForm.Days, "TWR", "TuWTh");
+ 	 }
+
+ 	 addOption(document.searchForm.Days, "TR", "TuTh");           // these load to the 'Days' dropdown for all terms
+ 	 addOption(document.searchForm.Days, "M", "M");
+ 	 addOption(document.searchForm.Days, "T", "Tu");
+ 	 addOption(document.searchForm.Days, "W", "W");
+ 	 addOption(document.searchForm.Days, "R", "Th");
+ 	 addOption(document.searchForm.Days, "F", "F");
+
+}
+
+function show_hide_links(term) {              //  Hide or display table row elements based on term
+
+ 	if(String(term).charAt(3)!="4") {
+ 	   hideElement('SSLink');
+ 	   showElement('RegLink');
+   }
+   else {
+ 	   hideElement('RegLink');
+ 	   showElement('SSLink');
+ 	}
+
+}
+
+function removeAllOptions(selectbox){
+   var i;
+   for(i=selectbox.options.length-1;i>=0;i--) {
+    //selectbox.options.remove(i);
+    selectbox.remove(i);
+   }
+}
+
+function addOption(selectbox, value, text ){
+   var optn = document.createElement("OPTION");
+   optn.text = text;
+   optn.value = value;
+   selectbox.options.add(optn);
+}
+
+function hideElement (elementId) {
+    var element;
+    if (document.all) {
+      element = document.all[elementId];
+    }
+    else {
+       if (document.getElementById) {
+          element = document.getElementById(elementId);
+       }
+    }
+    if (element && element.style) {
+      element.style.display = 'none';
+    }
+}
+
+function showElement (elementId) {
+    var element;
+    if (document.all) {
+      element = document.all[elementId];
+    }
+    else {
+    	  if (document.getElementById) {
+          element = document.getElementById(elementId);
+       }
+    }
+    if (element && element.style) {
+      element.style.display = '';
+    }
+}
+
+
+// Begin - hotfix/INC0614751 Add function to load search form subject list
+
+function load_subject_list(term) {
+
+   $("#subject_term").val(term);
+
+   function showSpinner() {
+     $(function() {
+        $("#spinner").show();
+        return true;
+     });
+   }
+
+   function hideSpinner() {
+      $(function() {
+         $("#spinner").hide();
+      });
+   }
+
+
+   var options = {
+     target:"#admin_subject",
+     beforeSubmit: showSpinner,
+     success: hideSpinner
+   };
+
+   $("#subjectTermForm").ajaxSubmit(options);
+
+   return false;
+
+};
+
+// End   - hotfix/INC0614751 Add function to load search form subject list
+

@@ -1,0 +1,335 @@
+// --- get table header ids ---
+
+$.fn.get_column_ids = function(){
+	var IDs = [];
+	$('thead th',this).each(
+		function(){ 
+			IDs.push(this.id); 
+		}
+	);
+	return IDs;
+}
+
+// --- retrieve checked dialog boxes and translate values to results form
+$.fn.translate_col_select = function() {
+	$(':checkbox',this).each(
+		function(){
+			var colnbr = this.id.replace('dialog_col_','');
+			var selcol = 'sel_col_' + colnbr;
+			if ($(this).attr("checked")) {
+				document.getElementById(selcol).value = 1;
+			} else {
+				document.getElementById(selcol).value = 0;
+			}
+		}
+	);
+}
+
+// --- column display settings dialog config ---
+$.fn.init_settings_dialog = function() {
+	this.dialog({
+					autoOpen: false,
+					modal: true,
+					height: 360,
+					width: 180,
+					closeOnEscape: true,
+					buttons: {
+						'Apply': function() {
+							$('#select_cols_form').translate_col_select();
+							$('#page_action').val('config_cols');
+							$('#resultsForm').submit();
+							return false;
+							$(this).dialog('close');
+						},
+						'Cancel': function() {
+							$(this).dialog('close');
+						}
+					},
+ 					open: function() {
+ 						//focus on the Apply button on open 					
+						$(this).parents('.ui-dialog-buttonpane button:eq(2)').focus();
+					}
+				});
+}
+
+
+// --- search dialog config ---
+$.fn.init_search_dialog = function(page) {
+	this.dialog({
+ 					autoOpen: false,
+ 					modal: false,
+  					closeOnEscape: true,
+ 					buttons: {
+ 						'Search': function() {
+ 							if ( validate_input_count() ) {
+ 								$("#searchForm").submit();
+ 								return false;
+ 							} else {
+ 							  	return false;
+ 							}
+ 						},
+ 						'Cancel': function() {
+ 							$(this).dialog('close');
+ 						}
+ 					},
+ 					open: function() {
+ 						//focus on the Search button on open
+ 						if (page=='results') {
+							$(this).parents('.ui-dialog-buttonpane button:eq(2)').focus();
+						}
+						if (page=='detail') {
+							$(this).parents('.ui-dialog-buttonpane button:eq(0)').focus();
+						}
+					}
+ 				});
+ }
+
+// ------------------------------ Column Drag & Drop -------------------------------------
+
+function dragTable(id) {
+
+	// cell to be dragged
+	this.draggedCell = null
+	
+	// true if ghostTd exists
+	this.ghostCreated = false
+	
+	this.table = document.getElementById(id)
+	
+	// store every row of the table
+	this.tableRows = this.table.getElementsByTagName("tr")
+	
+	// create a handler array, usually the ths in the thead, if not possible the first row of tds
+	this.handler = this.table.getElementsByTagName("th").length > 0 ? this.table.getElementsByTagName("th") : this.table.tBodies[0].rows[0].getElementsByTagName("td")
+	
+	// array of all td cells in table
+	this.cells = this.table.getElementsByTagName("td")
+	
+	// max index of the column when dropped
+	this.maxIndex = this.handler.length
+	
+	// horizontal mouse position
+	this.x;
+	
+	// vertical mouse position
+	this.y;
+	
+	// index of the column being dragged
+	this.oldIndex;
+	
+	// index of the destination column
+	this.newIndex;
+	
+	//custom
+	this.tempIndex;
+	this.newColumnIDList;
+	this.checkColumnList;
+
+    this.td_style_restore = this.makeMultiDimArray(this.tableRows.length,this.handler.length);
+
+	for (x=0; x<this.handler.length; x++) {
+	// associate the object with the cells
+	this.handler[x].dragObj = this
+	this.handler[x].onselectstart = function() { return false }
+	this.handler[x].onmousedown = function(e) { this.dragObj.drag(this,e); return false }
+	this.handler[x].onmouseover = function(e) { this.dragObj.dragEffect(this,e) }
+	this.handler[x].onmouseout = function(e) { this.dragObj.dragEffect(this,e) }
+	this.handler[x].onmouseup = function(e) { this.dragObj.dragEffect(this,e) }
+	}
+ 
+	for (x=0; x<this.cells.length; x++) {
+	this.cells[x].dragObj = this
+	// visual effect
+	this.cells[x].onmouseover = function(e) { this.dragObj.dragEffect(this,e) }
+	this.cells[x].onmouseout = function(e) { this.dragObj.dragEffect(this,e) }
+	this.cells[x].onmouseup = function(e) { this.dragObj.dragEffect(this,e) }
+	}
+}
+
+dragTable.prototype.returnColumnID = function (colid) {
+	$.post("handler.php", { row_order: colid });
+}
+
+dragTable.prototype.makeMultiDimArray = function(rows,cols) {
+var i;
+var j;
+	var a = new Array(rows);
+	for (i=0; i < rows; i++) {
+		a[i] = new Array(cols);
+		for (j=0; j < cols; j++) {
+			a[i][j] = "";
+		}
+	}
+	return(a);
+}
+
+dragTable.prototype.dragEffect = function(cell,e) {
+	// assign event to variable e
+	if (!e) e = window.event	 
+	   // return if the cell being hovered is the same as the one being dragged
+	   if (cell.cellIndex == this.oldIndex) return
+	
+	   else {
+		   // if there is a cell being dragged
+		   if (this.draggedCell) {
+			
+			  if (e.type == "mouseover") {
+				  //apply hover style to column header
+				  this.handler[cell.cellIndex].className = "hovering";
+				  				  
+				  //loop through table and apply hover style to column cells
+				  this.tempIndex = cell.cellIndex
+				  for (x=1; x<this.tableRows.length; x++) {
+					  tds = this.tableRows[x].cells
+					  this.td_style_restore[x][this.tempIndex] = tds[this.tempIndex].className
+					  tds[this.tempIndex].className = "hovering"
+				  }
+			  } else {
+				  //remove hover style from column header
+				  
+				  this.handler[cell.cellIndex].className = "";
+				  				  
+				  //loop through table and remove hover style from column cells
+				  for (x=1; x<this.tableRows.length; x++) {
+					  tds = this.tableRows[x].cells
+					  tds[this.tempIndex].className = this.td_style_restore[x][this.tempIndex]	
+				  }
+			  }//if (e.type == "mouseover")
+				
+		   }// if (this.draggedCell)
+	   } //if (!cell.cellIndex == this.oldIndex)
+}//dragEffect method
+ 
+dragTable.prototype.drag = function(cell,e) {
+	// reference of the cell that is being dragged
+	this.draggedCell = cell
+	 
+	// change class for visual effect
+	this.draggedCell.className = "dragging"
+	 
+	// store the index of the cell that is being dragged
+	this.oldIndex = cell.cellIndex
+	 
+	// create the ghost td
+	this.createGhostTd(e)
+	// start the engine
+	this.dragEngine(true)
+}
+ 
+dragTable.prototype.createGhostTd = function(e) {
+   // if ghost exists return
+   if (this.ghostCreated) return
+   // assign event to variable e
+   if (!e) e = window.event
+   // horizontal position
+   this.x = e.pageX ? e.pageX : e.clientX + document.documentElement.scrollLeft
+   // vertical position
+   this.y = e.pageY ? e.pageY : e.clientY + document.documentElement.scrollTop
+	
+	   // create the ghost td (visual effect)
+	   this.ghostTd = document.createElement("div")
+	   this.ghostTd.className = "ghostTd"
+	   this.ghostTd.style.top = this.y + 5 + "px"
+	   this.ghostTd.style.left = this.x + 10 + "px"
+	   // ghost td receives the content of the dragged cell
+	   this.ghostTd.innerHTML = this.handler[this.oldIndex].innerHTML
+	   document.getElementsByTagName("body")[0].appendChild(this.ghostTd)
+	
+   // assign a flag to see if ghost is created
+   this.ghostCreated = true
+}
+ 
+dragTable.prototype.drop = function(dragObj,e) {
+   // assign event to variable e
+   if (!e) e = window.event
+   // store the target of the event - mouseup
+   e.targElm = e.target ? e.target : e.srcElement
+	
+   // end the engine
+   dragObj.dragEngine(false,dragObj)
+	
+   // remove the ghostTd
+   dragObj.ghostTd.parentNode.removeChild(dragObj.ghostTd)
+	
+   // remove ghost created flag
+   this.ghostCreated = false
+	
+	   // store the index of the target, if it have one
+	   if (e.targElm.cellIndex !="undefined") {
+	   checkTable = e.targElm
+	
+		   // ascend in the dom beggining in the targeted element and ending in a table or the body tag
+		   while (checkTable.tagName.toLowerCase() !="table") {
+		   if (checkTable.tagName.toLowerCase() == "html") break
+		   checkTable = checkTable.parentNode
+		   }
+	
+		   // check if the table where the column was dropped is equal to the object table
+		   checkTable == this.table ? this.newIndex = e.targElm.cellIndex : false
+	   }
+	
+   // start the function to sort the column
+   dragObj.sortColumn(this.oldIndex,this.newIndex)
+	
+   // remove visual effect from column being dragged
+   this.draggedCell.className = ""
+   // clear the variable
+   this.draggedCell = null
+}
+ 
+dragTable.prototype.sortColumn = function(o,d) {
+   // returns if destionation dont have a valid index
+   if (d == null) return
+   // returns if origin is equals to the destination
+   if (o == d) return
+	
+	   // loop through every row
+	   for (x=0; x<this.tableRows.length; x++) {
+		   // array with the cells of the row x
+		   tds = this.tableRows[x].cells
+		   // remove this cell from the row
+		   var cell = this.tableRows[x].removeChild(tds[o])
+		   // insert the cell in the new index
+		   if (d + 1 >= this.maxIndex) {
+		   this.tableRows[x].appendChild(cell)
+		   }
+		   else {
+		   this.tableRows[x].insertBefore(cell, tds[d])
+		   }
+	   }
+	   
+	   //get string of re-sorted column ids to pass to PHP via AJAX
+	   this.checkColumnList = this.table.getElementsByTagName("th")
+	   this.newColumnIDList = ''
+	   for (x=0; x<this.checkColumnList.length; x++) {
+		   nextid = this.checkColumnList[x].id
+		   this.newColumnIDList = this.newColumnIDList + ((x > 0)?',':'') + nextid
+	   }
+	   //$.post("handler.php", { column_order: this.newColumnIDList } , function(data){ alert(data); });
+	   $.post("handler.php", { column_order: this.newColumnIDList }); 
+}
+ 
+dragTable.prototype.dragEngine = function(boolean,dragObj) {
+   var _this = this
+   // fire the drop function
+   document.documentElement.onmouseup = boolean ? function(e) { _this.drop(_this,e) } : null
+   // capture the mouse coords
+   document.documentElement.onmousemove = boolean ? function(e) { _this.getCoords(_this,e) } : null
+}
+ 
+dragTable.prototype.getCoords = function(dragObj,e) {
+   if (!e) e = window.event
+	
+   // horizontal position
+   dragObj.x = e.pageX ? e.pageX : e.clientX + document.documentElement.scrollLeft
+   // vertical position
+   dragObj.y = e.pageY ? e.pageY : e.clientY + document.documentElement.scrollTop
+	
+	   if (dragObj.ghostTd) {
+	   // make the ghostTd follow the mouse
+	   dragObj.ghostTd.style.top = dragObj.y + 5 + "px"
+	   dragObj.ghostTd.style.left = dragObj.x + 10 + "px"
+	   }
+}
+ 
+

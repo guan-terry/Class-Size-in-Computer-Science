@@ -1,0 +1,2576 @@
+,term,class_number,num_people_enrolled,total_class_size,Prof Name
+0,Fall 2005,CSC 203 [01 ],19,30,Katarina Dujmovic
+1,Fall 2005,CSC 210 [01 ],29,40,Katarina Dujmovic
+2,Fall 2005,CSC 210 [02 ],58,75,Katarina Dujmovic
+3,Fall 2005,CSC 211 [01 ],24,45,Chin Wong
+4,Fall 2005,CSC 212 [01 ],55,75,Daniel Tomasevich
+5,Fall 2005,CSC 213 [01 ],41,43,Andrew Swan
+6,Fall 2005,CSC 214 [01 ],20,40,Daniel Tomasevich
+7,Fall 2005,CSC 305 [01 ],42,75,Daniel Tomasevich
+8,Fall 2005,CSC 310 [01 ],61,75,Yonggang Zhao
+9,Fall 2005,CSC 313 [01 ],27,40,Chin Wong
+10,Fall 2005,CSC 313 [02 ],25,40,Chin Wong
+11,Fall 2005,CSC 413 [01 ],21,40,Barry Levine
+12,Fall 2005,CSC 413 [02 ],35,40,Barry Levine
+13,Fall 2005,CSC 415 [01 ],43,40,Andrew Swan
+14,Fall 2005,CSC 510 [01 ],53,75,Robert Wall
+15,Fall 2005,CSC 520 [01 ],47,40,Robert Wall
+16,Fall 2005,CSC 600 [01 ],24,40,Jozo Dujmovic
+17,Fall 2005,CSC 600 [02 ],29,40,Jozo Dujmovic
+18,Fall 2005,CSC 615 [01 ],11,30,Marguerite Murphy
+19,Fall 2005,CSC 630 [01 ],26,35,Ilmi Yoon
+20,Fall 2005,CSC 640 [01 ],28,25,Dragutin Petkovic
+21,Fall 2005,CSC 641 [01 ],10,20,Jozo Dujmovic
+22,Fall 2005,CSC 650 [01 ],38,35,Stanley Osborne
+23,Fall 2005,CSC 664 [01 ],13,20,Rahul Singh
+24,Fall 2005,CSC 668 [01 ],5,20,Barry Levine
+25,Fall 2005,CSC 675 [01 ],15,20,Marguerite Murphy
+26,Fall 2005,CSC 693 [01 ],0,25,Dragutin Petkovic
+27,Fall 2005,CSC 693 [02 ],0,25,Dragutin Petkovic
+28,Fall 2005,CSC 694 [01 ],1,10,Dragutin Petkovic
+29,Fall 2005,CSC 694 [02 ],0,10,Dragutin Petkovic
+30,Fall 2005,CSC 694 [03 ],1,10,Dragutin Petkovic
+31,Fall 2005,CSC 695 [01 ],3,25,Barry Levine
+32,Fall 2005,CSC 697 [01 ],0,0,To be announced
+33,Fall 2005,CSC 699 [01 ],0,0,To be announced
+34,Fall 2005,CSC 699 [02 ],0,0,To be announced
+35,Fall 2005,CSC 699 [03 ],0,0,To be announced
+36,Fall 2005,CSC 730 [01 ],23,30,Marguerite Murphy
+37,Fall 2005,CSC 775 [01 ],6,15,Marguerite Murphy
+38,Fall 2005,CSC 810 [01 ],27,30,Chin Wong
+39,Fall 2005,CSC 835 [01 ],24,25,Arno Puder
+40,Fall 2005,CSC 841 [01 ],11,15,Jozo Dujmovic
+41,Fall 2005,CSC 848 [01 ],29,15,Dragutin Petkovic
+42,Fall 2005,CSC 858 [01 ],14,30,Michael Goldman
+43,Fall 2005,CSC 864 [01 ],18,15,Rahul Singh
+44,Fall 2005,CSC 868 [01 ],9,15,Barry Levine
+45,Fall 2005,CSC 870 [01 ],14,20,Rahul Singh
+46,Fall 2005,CSC 893 [01 ],1,30,Dragutin Petkovic
+47,Fall 2005,CSC 895 [01 ],0,0,To be announced
+48,Fall 2005,CSC 897 [01 ],0,0,To be announced
+49,Fall 2005,CSC 897 [02 ],0,0,To be announced
+50,Fall 2005,CSC 897 [03 ],0,0,To be announced
+51,Fall 2005,CSC 897 [04 ],0,0,To be announced
+52,Fall 2005,CSC 898 [01 ],0,0,To be announced
+53,Fall 2005,CSC 899 [01 ],0,0,To be announced
+54,Fall 2005,CSC 899 [02 ],0,0,To be announced
+55,Fall 2005,CSC 899 [03 ],1,0,To be announced
+56,Fall 2005,CSC 897 [03 ],0,0,To be announced
+57,Fall 2005,CSC 897 [04 ],0,0,To be announced
+58,Fall 2005,CSC 898 [01 ],0,0,To be announced
+59,Fall 2005,CSC 899 [01 ],0,0,To be announced
+60,Fall 2005,CSC 899 [02 ],0,0,To be announced
+61,Fall 2005,CSC 899 [03 ],1,0,To be announced
+62,Fall 2005,CSC 897 [03 ],0,0,To be announced
+63,Fall 2005,CSC 897 [04 ],0,0,To be announced
+64,Fall 2005,CSC 898 [01 ],0,0,To be announced
+65,Fall 2005,CSC 899 [01 ],0,0,To be announced
+66,Fall 2005,CSC 899 [02 ],0,0,To be announced
+67,Fall 2005,CSC 899 [03 ],1,0,To be announced
+68,Fall 2005,CSC 897 [03 ],0,0,To be announced
+69,Fall 2005,CSC 897 [04 ],0,0,To be announced
+70,Fall 2005,CSC 898 [01 ],0,0,To be announced
+71,Fall 2005,CSC 899 [01 ],0,0,To be announced
+72,Fall 2005,CSC 899 [02 ],0,0,To be announced
+73,Fall 2005,CSC 899 [03 ],1,0,To be announced
+74,Spring 2006,CSC 202 [01 ],15,50,Edward Lank
+75,Spring 2006,CSC 203 [01 ],24,30,Katarina Dujmovic
+76,Spring 2006,CSC 205 [01 ],43,50,Lawrence Kroll
+77,Spring 2006,CSC 210 [01 ],48,50,Lawrence Kroll
+78,Spring 2006,CSC 210 [02 ],27,40,Katarina Dujmovic
+79,Spring 2006,CSC 210 [03 ],22,40,Katarina Dujmovic
+80,Spring 2006,CSC 211 [01 ],15,35,Chin Wong
+81,Spring 2006,CSC 212 [01 ],43,60,Daniel Tomasevich
+82,Spring 2006,CSC 213 [01 ],45,40,Andrew Swan
+83,Spring 2006,CSC 305 [01 ],38,60,Daniel Tomasevich
+84,Spring 2006,CSC 310 [01 ],33,75,Yonggang Zhao
+85,Spring 2006,CSC 313 [01 ],17,30,Chin Wong
+86,Spring 2006,CSC 313 [02 ],27,30,Chin Wong
+87,Spring 2006,CSC 413 [01 ],47,40,Barry Levine
+88,Spring 2006,CSC 415 [01 ],46,40,Andrew Swan
+89,Spring 2006,CSC 510 [01 ],39,40,Robert Wall
+90,Spring 2006,CSC 520 [01 ],39,35,Robert Wall
+91,Spring 2006,CSC 600 [01 ],25,30,Jozo Dujmovic
+92,Spring 2006,CSC 600 [02 ],25,30,Jozo Dujmovic
+93,Spring 2006,CSC 630 [01 ],31,35,Lawrence Kroll
+94,Spring 2006,CSC 639 [01 ],14,20,Sam Gill
+95,Spring 2006,CSC 645 [01 ],17,35,Marguerite Murphy
+96,Spring 2006,CSC 650 [01 ],38,35,Stanley Osborne
+97,Spring 2006,CSC 656 [01 ],16,45,Mark Johnson
+98,Spring 2006,CSC 667 [01 ],30,23,Ilmi Yoon
+99,Spring 2006,CSC 668 [01 ],4,20,Barry Levine
+100,Spring 2006,CSC 693 [01 ],0,25,Dragutin Petkovic
+101,Spring 2006,CSC 693 [02 ],0,25,Dragutin Petkovic
+102,Spring 2006,CSC 694 [01 ],0,15,Dragutin Petkovic
+103,Spring 2006,CSC 694 [02 ],0,15,Dragutin Petkovic
+104,Spring 2006,CSC 694 [03 ],0,15,Dragutin Petkovic
+105,Spring 2006,CSC 695 [01 ],2,35,Barry Levine
+106,Spring 2006,CSC 697 [01 ],0,15,To be announced
+107,Spring 2006,CSC 699 [01 ],0,0,To be announced
+108,Spring 2006,CSC 699 [02 ],0,0,To be announced
+109,Spring 2006,CSC 699 [03 ],0,0,To be announced
+110,Spring 2006,CSC 720 [01 ],19,25,Arno Puder
+111,Spring 2006,CSC 745 [01 ],3,25,Marguerite Murphy
+112,Spring 2006,CSC 810 [01 ],14,30,Chin Wong
+113,Spring 2006,CSC 830 [01 ],8,25,Ilmi Yoon
+114,Spring 2006,CSC 840 [01 ],9,35,Jozo Dujmovic
+115,Spring 2006,CSC 842 [01 ],32,30,Edward Lank
+116,Spring 2006,CSC 845 [01 ],10,25,Marguerite Murphy
+117,Spring 2006,CSC 846 [01 ],15,35,Howard Pomerantz
+118,Spring 2006,CSC 857 [01 ],19,35,Rahul Singh
+119,Spring 2006,CSC 867 [01 ],14,17,Ilmi Yoon
+120,Spring 2006,CSC 868 [01 ],9,15,Barry Levine
+121,Spring 2006,CSC 875 [01 ],7,35,Marguerite Murphy
+122,Spring 2006,CSC 893 [01 ],0,35,Dragutin Petkovic
+123,Spring 2006,CSC 895 [01 ],0,0,To be announced
+124,Spring 2006,CSC 897 [01 ],2,0,Jozo Dujmovic
+125,Spring 2006,CSC 897 [02 ],0,0,To be announced
+126,Spring 2006,CSC 897 [03 ],0,0,To be announced
+127,Spring 2006,CSC 897 [04 ],0,0,To be announced
+128,Spring 2006,CSC 898 [01 ],0,0,To be announced
+129,Spring 2006,CSC 899 [01 ],0,0,To be announced
+130,Spring 2006,CSC 899 [02 ],0,0,To be announced
+131,Spring 2006,CSC 899 [03 ],0,0,To be announced
+132,Spring 2006,CSC 897 [01 ],2,0,Jozo Dujmovic
+133,Spring 2006,CSC 897 [02 ],0,0,To be announced
+134,Spring 2006,CSC 897 [03 ],0,0,To be announced
+135,Spring 2006,CSC 897 [04 ],0,0,To be announced
+136,Spring 2006,CSC 898 [01 ],0,0,To be announced
+137,Spring 2006,CSC 899 [01 ],0,0,To be announced
+138,Spring 2006,CSC 899 [02 ],0,0,To be announced
+139,Spring 2006,CSC 899 [03 ],0,0,To be announced
+140,Spring 2006,CSC 897 [01 ],2,0,Jozo Dujmovic
+141,Spring 2006,CSC 897 [02 ],0,0,To be announced
+142,Spring 2006,CSC 897 [03 ],0,0,To be announced
+143,Spring 2006,CSC 897 [04 ],0,0,To be announced
+144,Spring 2006,CSC 898 [01 ],0,0,To be announced
+145,Spring 2006,CSC 899 [01 ],0,0,To be announced
+146,Spring 2006,CSC 899 [02 ],0,0,To be announced
+147,Spring 2006,CSC 899 [03 ],0,0,To be announced
+148,Spring 2006,CSC 897 [01 ],2,0,Jozo Dujmovic
+149,Spring 2006,CSC 897 [02 ],0,0,To be announced
+150,Spring 2006,CSC 897 [03 ],0,0,To be announced
+151,Spring 2006,CSC 897 [04 ],0,0,To be announced
+152,Spring 2006,CSC 898 [01 ],0,0,To be announced
+153,Spring 2006,CSC 899 [01 ],0,0,To be announced
+154,Spring 2006,CSC 899 [02 ],0,0,To be announced
+155,Spring 2006,CSC 899 [03 ],0,0,To be announced
+156,Fall 2006,CSC 101 [01 ],46,75,Kazunori Okada
+157,Fall 2006,CSC 203 [01 ],20,30,Katarina Dujmovic
+158,Fall 2006,CSC 209 [01 ],24,40,Tsun-Yuk Hsu
+159,Fall 2006,CSC 210 [01 ],23,40,Katarina Dujmovic
+160,Fall 2006,CSC 210 [02 ],30,40,Katarina Dujmovic
+161,Fall 2006,CSC 210 [03 ],28,40,Katarina Dujmovic
+162,Fall 2006,CSC 211 [01 ],26,40,Tsun-Yuk Hsu
+163,Fall 2006,CSC 212 [01 ],36,75,Daniel Tomasevich
+164,Fall 2006,CSC 213 [01 ],39,60,Robert Bierman
+165,Fall 2006,CSC 217 [01 ],13,40,Daniel Tomasevich
+166,Fall 2006,CSC 305 [01 ],31,75,Daniel Tomasevich
+167,Fall 2006,CSC 310 [01 ],34,75,Tsun-Yuk Hsu
+168,Fall 2006,CSC 313 [01 ],30,40,Ilmi Yoon
+169,Fall 2006,CSC 313 [02 ],21,40,Ilmi Yoon
+170,Fall 2006,CSC 338 [01 ],3,20,Lik Mui
+171,Fall 2006,CSC 413 [01 ],19,30,Barry Levine
+172,Fall 2006,CSC 413 [02 ],28,30,Barry Levine
+173,Fall 2006,CSC 415 [01 ],31,35,Edward Cheng
+174,Fall 2006,CSC 510 [01 ],35,35,Hui Yang
+175,Fall 2006,CSC 520 [01 ],34,30,Robert Wall
+176,Fall 2006,CSC 600 [01 ],21,30,Jozo Dujmovic
+177,Fall 2006,CSC 600 [02 ],25,30,Jozo Dujmovic
+178,Fall 2006,CSC 615 [01 ],10,30,Marguerite Murphy
+179,Fall 2006,CSC 631 [01 ],16,35,Ilmi Yoon
+180,Fall 2006,CSC 637 [01 ],11,35,Tsun-Yuk Hsu
+181,Fall 2006,CSC 639 [01 ],13,20,Sam Gill
+182,Fall 2006,CSC 640 [01 ],21,25,Dragutin Petkovic
+183,Fall 2006,CSC 641 [01 ],7,20,Jozo Dujmovic
+184,Fall 2006,CSC 650 [01 ],11,35,Stanley Osborne
+185,Fall 2006,CSC 664 [01 ],7,15,Jonathan Dinerstein
+186,Fall 2006,CSC 667 [Q500 ],1,20,Null
+187,Fall 2006,CSC 668 [01 ],4,20,Barry Levine
+188,Fall 2006,CSC 675 [01 ],16,20,Marguerite Murphy
+189,Fall 2006,CSC 693 [01 ],0,25,Dragutin Petkovic
+190,Fall 2006,CSC 693 [02 ],0,25,Dragutin Petkovic
+191,Fall 2006,CSC 694 [01 ],1,10,Dragutin Petkovic
+192,Fall 2006,CSC 694 [02 ],1,10,Dragutin Petkovic
+193,Fall 2006,CSC 694 [03 ],0,10,Dragutin Petkovic
+194,Fall 2006,CSC 697 [01 ],0,0,To be announced
+195,Fall 2006,CSC 699 [01 ],0,0,To be announced
+196,Fall 2006,CSC 699 [02 ],0,0,To be announced
+197,Fall 2006,CSC 699 [03 ],0,0,To be announced
+198,Fall 2006,CSC 730 [01 ],25,25,Marguerite Murphy
+199,Fall 2006,CSC 775 [01 ],3,15,Marguerite Murphy
+200,Fall 2006,CSC 810 [01 ],21,30,Robert Wall
+201,Fall 2006,CSC 835 [01 ],33,30,Howard Pomerantz
+202,Fall 2006,CSC 841 [01 ],5,15,Jozo Dujmovic
+203,Fall 2006,CSC 848 [01 ],19,20,Dragutin Petkovic
+204,Fall 2006,CSC 858 [01 ],13,25,Scott Weitze
+205,Fall 2006,CSC 864 [01 ],11,15,Jonathan Dinerstein
+206,Fall 2006,CSC 868 [01 ],7,15,Barry Levine
+207,Fall 2006,CSC 893 [01 ],7,30,Dragutin Petkovic
+208,Fall 2006,CSC 895 [01 ],0,0,To be announced
+209,Fall 2006,CSC 897 [01 ],0,0,To be announced
+210,Fall 2006,CSC 897 [02 ],0,0,To be announced
+211,Fall 2006,CSC 897 [03 ],0,0,To be announced
+212,Fall 2006,CSC 897 [04 ],0,0,To be announced
+213,Fall 2006,CSC 898 [01 ],0,0,To be announced
+214,Fall 2006,CSC 899 [01 ],0,0,To be announced
+215,Fall 2006,CSC 899 [02 ],0,0,To be announced
+216,Fall 2006,CSC 899 [03 ],0,0,To be announced
+217,Fall 2006,CSC 868 [01 ],7,15,Barry Levine
+218,Fall 2006,CSC 893 [01 ],7,30,Dragutin Petkovic
+219,Fall 2006,CSC 895 [01 ],0,0,To be announced
+220,Fall 2006,CSC 897 [01 ],0,0,To be announced
+221,Fall 2006,CSC 897 [02 ],0,0,To be announced
+222,Fall 2006,CSC 897 [03 ],0,0,To be announced
+223,Fall 2006,CSC 897 [04 ],0,0,To be announced
+224,Fall 2006,CSC 898 [01 ],0,0,To be announced
+225,Fall 2006,CSC 899 [01 ],0,0,To be announced
+226,Fall 2006,CSC 899 [02 ],0,0,To be announced
+227,Fall 2006,CSC 899 [03 ],0,0,To be announced
+228,Fall 2006,CSC 868 [01 ],7,15,Barry Levine
+229,Fall 2006,CSC 893 [01 ],7,30,Dragutin Petkovic
+230,Fall 2006,CSC 895 [01 ],0,0,To be announced
+231,Fall 2006,CSC 897 [01 ],0,0,To be announced
+232,Fall 2006,CSC 897 [02 ],0,0,To be announced
+233,Fall 2006,CSC 897 [03 ],0,0,To be announced
+234,Fall 2006,CSC 897 [04 ],0,0,To be announced
+235,Fall 2006,CSC 898 [01 ],0,0,To be announced
+236,Fall 2006,CSC 899 [01 ],0,0,To be announced
+237,Fall 2006,CSC 899 [02 ],0,0,To be announced
+238,Fall 2006,CSC 899 [03 ],0,0,To be announced
+239,Fall 2006,CSC 868 [01 ],7,15,Barry Levine
+240,Fall 2006,CSC 893 [01 ],7,30,Dragutin Petkovic
+241,Fall 2006,CSC 895 [01 ],0,0,To be announced
+242,Fall 2006,CSC 897 [01 ],0,0,To be announced
+243,Fall 2006,CSC 897 [02 ],0,0,To be announced
+244,Fall 2006,CSC 897 [03 ],0,0,To be announced
+245,Fall 2006,CSC 897 [04 ],0,0,To be announced
+246,Fall 2006,CSC 898 [01 ],0,0,To be announced
+247,Fall 2006,CSC 899 [01 ],0,0,To be announced
+248,Fall 2006,CSC 899 [02 ],0,0,To be announced
+249,Fall 2006,CSC 899 [03 ],0,0,To be announced
+250,Spring 2007,CSC 101 [01 ],42,75,Kazunori Okada
+251,Spring 2007,CSC 203 [01 ],19,30,Katarina Dujmovic
+252,Spring 2007,CSC 205 [01 ],37,50,Lawrence Kroll
+253,Spring 2007,CSC 209 [01 ],26,40,Tsun-Yuk Hsu
+254,Spring 2007,CSC 210 [01 ],40,40,Lawrence Kroll
+255,Spring 2007,CSC 210 [02 ],24,40,Katarina Dujmovic
+256,Spring 2007,CSC 210 [03 ],18,40,Katarina Dujmovic
+257,Spring 2007,CSC 210 [04 ],24,40,Katarina Dujmovic
+258,Spring 2007,CSC 211 [01 ],22,40,Tsun-Yuk Hsu
+259,Spring 2007,CSC 212 [01 ],53,60,Daniel Tomasevich
+260,Spring 2007,CSC 213 [01 ],26,40,Gary Thompson
+261,Spring 2007,CSC 305 [01 ],22,60,Daniel Tomasevich
+262,Spring 2007,CSC 310 [01 ],32,75,Tsun-Yuk Hsu
+263,Spring 2007,CSC 313 [01 ],20,30,Ilmi Yoon
+264,Spring 2007,CSC 313 [02 ],19,30,Ilmi Yoon
+265,Spring 2007,CSC 338 [01 ],8,20,Lik Mui
+266,Spring 2007,CSC 413 [01 ],21,30,Barry Levine
+267,Spring 2007,CSC 413 [02 ],32,30,Barry Levine
+268,Spring 2007,CSC 415 [01 ],14,30,Arno Puder
+269,Spring 2007,CSC 415 [02 ],18,30,Arno Puder
+270,Spring 2007,CSC 510 [01 ],31,40,Robert Wall
+271,Spring 2007,CSC 520 [01 ],27,40,Robert Wall
+272,Spring 2007,CSC 600 [01 ],15,30,Jozo Dujmovic
+273,Spring 2007,CSC 600 [02 ],18,30,Jozo Dujmovic
+274,Spring 2007,CSC 630 [01 ],27,35,Lawrence Kroll
+275,Spring 2007,CSC 645 [01 ],12,20,Marguerite Murphy
+276,Spring 2007,CSC 650 [01 ],17,35,Stanley Osborne
+277,Spring 2007,CSC 656 [01 ],12,35,Tsun-Yuk Hsu
+278,Spring 2007,CSC 667 [01 ],22,20,Ilmi Yoon
+279,Spring 2007,CSC 668 [01 ],4,20,Barry Levine
+280,Spring 2007,CSC 693 [01 ],0,25,Dragutin Petkovic
+281,Spring 2007,CSC 693 [02 ],0,25,Dragutin Petkovic
+282,Spring 2007,CSC 694 [01 ],0,15,Dragutin Petkovic
+283,Spring 2007,CSC 694 [02 ],0,15,Dragutin Petkovic
+284,Spring 2007,CSC 694 [03 ],0,15,Dragutin Petkovic
+285,Spring 2007,CSC 695 [01 ],4,30,Barry Levine
+286,Spring 2007,CSC 697 [01 ],0,15,Jozo Dujmovic
+287,Spring 2007,CSC 699 [01 ],0,5,To be announced
+288,Spring 2007,CSC 699 [02 ],0,5,To be announced
+289,Spring 2007,CSC 699 [03 ],0,5,To be announced
+290,Spring 2007,CSC 745 [01 ],4,15,Marguerite Murphy
+291,Spring 2007,CSC 810 [01 ],21,30,Robert Wall
+292,Spring 2007,CSC 835 [01 ],20,20,Arno Puder
+293,Spring 2007,CSC 840 [01 ],6,30,Jozo Dujmovic
+294,Spring 2007,CSC 842 [01 ],20,30,Jd Roberts
+295,Spring 2007,CSC 845 [01 ],15,30,Marguerite Murphy
+296,Spring 2007,CSC 857 [01 ],12,30,Rahul Singh
+297,Spring 2007,CSC 867 [01 ],8,15,Ilmi Yoon
+298,Spring 2007,CSC 868 [01 ],11,15,Barry Levine
+299,Spring 2007,CSC 869 [01 ],8,30,Hui Yang
+300,Spring 2007,CSC 870 [01 ],5,15,Rahul Singh
+301,Spring 2007,CSC 875 [01 ],6,30,Marguerite Murphy
+302,Spring 2007,CSC 893 [01 ],1,35,Dragutin Petkovic
+303,Spring 2007,CSC 895 [01 ],0,5,To be announced
+304,Spring 2007,CSC 897 [01 ],1,5,Jozo Dujmovic
+305,Spring 2007,CSC 897 [02 ],0,5,To be announced
+306,Spring 2007,CSC 897 [03 ],0,5,To be announced
+307,Spring 2007,CSC 897 [04 ],0,5,To be announced
+308,Spring 2007,CSC 898 [01 ],1,0,Hui Yang
+309,Spring 2007,CSC 899 [01 ],0,0,To be announced
+310,Spring 2007,CSC 899 [02 ],0,0,To be announced
+311,Spring 2007,CSC 899 [03 ],2,0,Hui Yang
+312,Spring 2007,CSC 870 [01 ],5,15,Rahul Singh
+313,Spring 2007,CSC 875 [01 ],6,30,Marguerite Murphy
+314,Spring 2007,CSC 893 [01 ],1,35,Dragutin Petkovic
+315,Spring 2007,CSC 895 [01 ],0,5,To be announced
+316,Spring 2007,CSC 897 [01 ],1,5,Jozo Dujmovic
+317,Spring 2007,CSC 897 [02 ],0,5,To be announced
+318,Spring 2007,CSC 897 [03 ],0,5,To be announced
+319,Spring 2007,CSC 897 [04 ],0,5,To be announced
+320,Spring 2007,CSC 898 [01 ],1,0,Hui Yang
+321,Spring 2007,CSC 899 [01 ],0,0,To be announced
+322,Spring 2007,CSC 899 [02 ],0,0,To be announced
+323,Spring 2007,CSC 899 [03 ],2,0,Hui Yang
+324,Spring 2007,CSC 870 [01 ],5,15,Rahul Singh
+325,Spring 2007,CSC 875 [01 ],6,30,Marguerite Murphy
+326,Spring 2007,CSC 893 [01 ],1,35,Dragutin Petkovic
+327,Spring 2007,CSC 895 [01 ],0,5,To be announced
+328,Spring 2007,CSC 897 [01 ],1,5,Jozo Dujmovic
+329,Spring 2007,CSC 897 [02 ],0,5,To be announced
+330,Spring 2007,CSC 897 [03 ],0,5,To be announced
+331,Spring 2007,CSC 897 [04 ],0,5,To be announced
+332,Spring 2007,CSC 898 [01 ],1,0,Hui Yang
+333,Spring 2007,CSC 899 [01 ],0,0,To be announced
+334,Spring 2007,CSC 899 [02 ],0,0,To be announced
+335,Spring 2007,CSC 899 [03 ],2,0,Hui Yang
+336,Spring 2007,CSC 870 [01 ],5,15,Rahul Singh
+337,Spring 2007,CSC 875 [01 ],6,30,Marguerite Murphy
+338,Spring 2007,CSC 893 [01 ],1,35,Dragutin Petkovic
+339,Spring 2007,CSC 895 [01 ],0,5,To be announced
+340,Spring 2007,CSC 897 [01 ],1,5,Jozo Dujmovic
+341,Spring 2007,CSC 897 [02 ],0,5,To be announced
+342,Spring 2007,CSC 897 [03 ],0,5,To be announced
+343,Spring 2007,CSC 897 [04 ],0,5,To be announced
+344,Spring 2007,CSC 898 [01 ],1,0,Hui Yang
+345,Spring 2007,CSC 899 [01 ],0,0,To be announced
+346,Spring 2007,CSC 899 [02 ],0,0,To be announced
+347,Spring 2007,CSC 899 [03 ],2,0,Hui Yang
+348,Fall 2007,CSC 101 [01 ],45,50,Kazunori Okada
+349,Fall 2007,CSC 203 [01 ],22,30,Katarina Dujmovic
+350,Fall 2007,CSC 209 [01 ],15,30,Tsun-Yuk Hsu
+351,Fall 2007,CSC 210 [01 ],23,30,Ilmi Yoon
+352,Fall 2007,CSC 210 [02 ],24,30,Ilmi Yoon
+353,Fall 2007,CSC 210 [03 ],18,30,Katarina Dujmovic
+354,Fall 2007,CSC 210 [04 ],19,30,Katarina Dujmovic
+355,Fall 2007,CSC 211 [01 ],21,40,Tsun-Yuk Hsu
+356,Fall 2007,CSC 212 [01 ],52,50,Daniel Tomasevich
+357,Fall 2007,CSC 213 [01 ],27,30,Hui Yang
+358,Fall 2007,CSC 213 [02 ],26,20,Robert Bierman
+359,Fall 2007,CSC 217 [01 ],27,30,Daniel Tomasevich
+360,Fall 2007,CSC 305 [01 ],28,30,Daniel Tomasevich
+361,Fall 2007,CSC 310 [01 ],28,45,Tsun-Yuk Hsu
+362,Fall 2007,CSC 313 [01 ],15,30,Chin Wong
+363,Fall 2007,CSC 313 [02 ],19,30,Chin Wong
+364,Fall 2007,CSC 338 [01 ],6,15,Lik Mui
+365,Fall 2007,CSC 413 [01 ],18,30,Barry Levine
+366,Fall 2007,CSC 413 [02 ],25,30,Barry Levine
+367,Fall 2007,CSC 415 [01 ],22,30,Jd Roberts
+368,Fall 2007,CSC 440 [01 ],11,30,Barry Levine
+369,Fall 2007,CSC 510 [01 ],20,30,Hui Yang
+370,Fall 2007,CSC 520 [01 ],25,30,Robert Wall
+371,Fall 2007,CSC 600 [01 ],35,30,Igor Pavlin
+372,Fall 2007,CSC 615 [01 ],14,30,Marguerite Murphy
+373,Fall 2007,CSC 631 [01 ],15,20,Ilmi Yoon
+374,Fall 2007,CSC 639 [01 ],22,17,Sam Gill
+375,Fall 2007,CSC 640 [01 ],14,25,Dragutin Petkovic
+376,Fall 2007,CSC 651 [01 ],23,30,Stanley Osborne
+377,Fall 2007,CSC 664 [01 ],7,15,Rahul Singh
+378,Fall 2007,CSC 675 [01 ],14,15,Marguerite Murphy
+379,Fall 2007,CSC 693 [01 ],0,25,Dragutin Petkovic
+380,Fall 2007,CSC 693 [02 ],0,25,Dragutin Petkovic
+381,Fall 2007,CSC 694 [01 ],0,10,Dragutin Petkovic
+382,Fall 2007,CSC 694 [02 ],1,10,Dragutin Petkovic
+383,Fall 2007,CSC 694 [03 ],0,10,Dragutin Petkovic
+384,Fall 2007,CSC 697 [01 ],0,0,To be announced
+385,Fall 2007,CSC 699 [01 ],0,0,To be announced
+386,Fall 2007,CSC 699 [02 ],0,0,To be announced
+387,Fall 2007,CSC 699 [03 ],0,0,To be announced
+388,Fall 2007,CSC 730 [01 ],20,20,Marguerite Murphy
+389,Fall 2007,CSC 775 [01 ],6,15,Marguerite Murphy
+390,Fall 2007,CSC 810 [01 ],20,30,Chin Wong
+391,Fall 2007,CSC 831 [01 ],4,10,Ilmi Yoon
+392,Fall 2007,CSC 835 [01 ],19,25,Arno Puder
+393,Fall 2007,CSC 848 [01 ],23,15,Dragutin Petkovic
+394,Fall 2007,CSC 858 [01 ],5,30,Scott Weitze
+395,Fall 2007,CSC 864 [01 ],14,15,Rahul Singh
+396,Fall 2007,CSC 872 [01 ],15,20,Kazunori Okada
+397,Fall 2007,CSC 893 [01 ],8,30,Dragutin Petkovic
+398,Fall 2007,CSC 895 [01 ],0,0,To be announced
+399,Fall 2007,CSC 897 [01 ],0,0,To be announced
+400,Fall 2007,CSC 897 [02 ],0,0,To be announced
+401,Fall 2007,CSC 897 [03 ],0,0,To be announced
+402,Fall 2007,CSC 897 [04 ],0,0,To be announced
+403,Fall 2007,CSC 898 [01 ],0,0,To be announced
+404,Fall 2007,CSC 899 [01 ],0,0,To be announced
+405,Fall 2007,CSC 899 [02 ],0,0,To be announced
+406,Fall 2007,CSC 899 [03 ],0,0,To be announced
+407,Fall 2007,CSC 895 [01 ],0,0,To be announced
+408,Fall 2007,CSC 897 [01 ],0,0,To be announced
+409,Fall 2007,CSC 897 [02 ],0,0,To be announced
+410,Fall 2007,CSC 897 [03 ],0,0,To be announced
+411,Fall 2007,CSC 897 [04 ],0,0,To be announced
+412,Fall 2007,CSC 898 [01 ],0,0,To be announced
+413,Fall 2007,CSC 899 [01 ],0,0,To be announced
+414,Fall 2007,CSC 899 [02 ],0,0,To be announced
+415,Fall 2007,CSC 899 [03 ],0,0,To be announced
+416,Fall 2007,CSC 895 [01 ],0,0,To be announced
+417,Fall 2007,CSC 897 [01 ],0,0,To be announced
+418,Fall 2007,CSC 897 [02 ],0,0,To be announced
+419,Fall 2007,CSC 897 [03 ],0,0,To be announced
+420,Fall 2007,CSC 897 [04 ],0,0,To be announced
+421,Fall 2007,CSC 898 [01 ],0,0,To be announced
+422,Fall 2007,CSC 899 [01 ],0,0,To be announced
+423,Fall 2007,CSC 899 [02 ],0,0,To be announced
+424,Fall 2007,CSC 899 [03 ],0,0,To be announced
+425,Fall 2007,CSC 895 [01 ],0,0,To be announced
+426,Fall 2007,CSC 897 [01 ],0,0,To be announced
+427,Fall 2007,CSC 897 [02 ],0,0,To be announced
+428,Fall 2007,CSC 897 [03 ],0,0,To be announced
+429,Fall 2007,CSC 897 [04 ],0,0,To be announced
+430,Fall 2007,CSC 898 [01 ],0,0,To be announced
+431,Fall 2007,CSC 899 [01 ],0,0,To be announced
+432,Fall 2007,CSC 899 [02 ],0,0,To be announced
+433,Fall 2007,CSC 899 [03 ],0,0,To be announced
+434,Spring 2008,CSC 101 [01 ],44,50,Lawrence Kroll
+435,Spring 2008,CSC 203 [01 ],25,30,Katarina Dujmovic
+436,Spring 2008,CSC 206 [01 ],15,30,Brian Zambrano
+437,Spring 2008,CSC 210 [01 ],27,30,Lawrence Kroll
+438,Spring 2008,CSC 210 [02 ],16,30,Katarina Dujmovic
+439,Spring 2008,CSC 210 [03 ],18,30,Katarina Dujmovic
+440,Spring 2008,CSC 210 [04 ],20,30,Katarina Dujmovic
+441,Spring 2008,CSC 211 [01 ],18,40,Tsun-Yuk Hsu
+442,Spring 2008,CSC 212 [01 ],54,50,Daniel Tomasevich
+443,Spring 2008,CSC 213 [01 ],36,30,Gary Thompson
+444,Spring 2008,CSC 305 [01 ],33,30,Daniel Tomasevich
+445,Spring 2008,CSC 310 [01 ],47,45,Tsun-Yuk Hsu
+446,Spring 2008,CSC 313 [01 ],18,30,Chin Wong
+447,Spring 2008,CSC 313 [02 ],28,30,Chin Wong
+448,Spring 2008,CSC 338 [01 ],5,15,Lik Mui
+449,Spring 2008,CSC 413 [01 ],20,30,Barry Levine
+450,Spring 2008,CSC 413 [02 ],32,30,Barry Levine
+451,Spring 2008,CSC 415 [01 ],19,30,Arno Puder
+452,Spring 2008,CSC 510 [01 ],32,30,Hui Yang
+453,Spring 2008,CSC 520 [01 ],40,30,Robert Wall
+454,Spring 2008,CSC 600 [01 ],19,30,Jd Roberts
+455,Spring 2008,CSC 630 [01 ],21,30,Lawrence Kroll
+456,Spring 2008,CSC 645 [01 ],4,15,Marguerite Murphy
+457,Spring 2008,CSC 650 [01 ],15,30,Stanley Osborne
+458,Spring 2008,CSC 667 [01 ],18,20,Ilmi Yoon
+459,Spring 2008,CSC 668 [01 ],2,15,Barry Levine
+460,Spring 2008,CSC 693 [01 ],0,25,Dragutin Petkovic
+461,Spring 2008,CSC 693 [02 ],0,25,Dragutin Petkovic
+462,Spring 2008,CSC 694 [01 ],0,15,Dragutin Petkovic
+463,Spring 2008,CSC 694 [02 ],0,15,Dragutin Petkovic
+464,Spring 2008,CSC 694 [03 ],0,15,Dragutin Petkovic
+465,Spring 2008,CSC 695 [01 ],2,25,Barry Levine
+466,Spring 2008,CSC 697 [01 ],0,15,To be announced
+467,Spring 2008,CSC 699 [01 ],0,5,To be announced
+468,Spring 2008,CSC 699 [02 ],0,5,To be announced
+469,Spring 2008,CSC 699 [03 ],0,5,To be announced
+470,Spring 2008,CSC 720 [01 ],8,25,Arno Puder
+471,Spring 2008,CSC 745 [01 ],5,15,Marguerite Murphy
+472,Spring 2008,CSC 810 [01 ],12,30,Chin Wong
+473,Spring 2008,CSC 842 [01 ],37,30,Jd Roberts
+474,Spring 2008,CSC 845 [01 ],13,30,Marguerite Murphy
+475,Spring 2008,CSC 846 [01 ],5,30,Tsun-Yuk Hsu
+476,Spring 2008,CSC 857 [01 ],5,30,Rahul Singh
+477,Spring 2008,CSC 867 [01 ],10,10,Ilmi Yoon
+478,Spring 2008,CSC 868 [01 ],6,15,Barry Levine
+479,Spring 2008,CSC 869 [01 ],15,30,Hui Yang
+480,Spring 2008,CSC 875 [01 ],10,30,Marguerite Murphy
+481,Spring 2008,CSC 893 [01 ],2,35,Dragutin Petkovic
+482,Spring 2008,CSC 895 [01 ],0,5,To be announced
+483,Spring 2008,CSC 897 [01 ],0,5,To be announced
+484,Spring 2008,CSC 897 [02 ],0,5,To be announced
+485,Spring 2008,CSC 897 [03 ],0,5,To be announced
+486,Spring 2008,CSC 897 [04 ],0,5,To be announced
+487,Spring 2008,CSC 898 [01 ],0,0,To be announced
+488,Spring 2008,CSC 899 [01 ],0,0,To be announced
+489,Spring 2008,CSC 899 [02 ],0,0,To be announced
+490,Spring 2008,CSC 899 [03 ],0,0,To be announced
+491,Spring 2008,CSC 897 [02 ],0,5,To be announced
+492,Spring 2008,CSC 897 [03 ],0,5,To be announced
+493,Spring 2008,CSC 897 [04 ],0,5,To be announced
+494,Spring 2008,CSC 898 [01 ],0,0,To be announced
+495,Spring 2008,CSC 899 [01 ],0,0,To be announced
+496,Spring 2008,CSC 899 [02 ],0,0,To be announced
+497,Spring 2008,CSC 899 [03 ],0,0,To be announced
+498,Spring 2008,CSC 897 [02 ],0,5,To be announced
+499,Spring 2008,CSC 897 [03 ],0,5,To be announced
+500,Spring 2008,CSC 897 [04 ],0,5,To be announced
+501,Spring 2008,CSC 898 [01 ],0,0,To be announced
+502,Spring 2008,CSC 899 [01 ],0,0,To be announced
+503,Spring 2008,CSC 899 [02 ],0,0,To be announced
+504,Spring 2008,CSC 899 [03 ],0,0,To be announced
+505,Spring 2008,CSC 897 [02 ],0,5,To be announced
+506,Spring 2008,CSC 897 [03 ],0,5,To be announced
+507,Spring 2008,CSC 897 [04 ],0,5,To be announced
+508,Spring 2008,CSC 898 [01 ],0,0,To be announced
+509,Spring 2008,CSC 899 [01 ],0,0,To be announced
+510,Spring 2008,CSC 899 [02 ],0,0,To be announced
+511,Spring 2008,CSC 899 [03 ],0,0,To be announced
+512,Fall 2008,CSC 101 [01 ],49,50,Kazunori Okada
+513,Fall 2008,CSC 203 [01 ],19,30,Katarina Dujmovic
+514,Fall 2008,CSC 210 [01 ],29,30,Jozo Dujmovic
+515,Fall 2008,CSC 210 [02 ],28,30,Tsun-Yuk Hsu
+516,Fall 2008,CSC 210 [03 ],25,30,Katarina Dujmovic
+517,Fall 2008,CSC 210 [04 ],16,30,Katarina Dujmovic
+518,Fall 2008,CSC 211 [01 ],22,40,Tsun-Yuk Hsu
+519,Fall 2008,CSC 212 [01 ],61,50,Daniel Tomasevich
+520,Fall 2008,CSC 213 [01 ],28,30,Hui Yang
+521,Fall 2008,CSC 213 [02 ],22,30,Hui Yang
+522,Fall 2008,CSC 305 [01 ],28,50,Daniel Tomasevich
+523,Fall 2008,CSC 309 [01 ],21,30,Tsun-Yuk Hsu
+524,Fall 2008,CSC 310 [01 ],32,50,Tsun-Yuk Hsu
+525,Fall 2008,CSC 313 [01 ],21,30,Chin Wong
+526,Fall 2008,CSC 313 [02 ],21,30,Chin Wong
+527,Fall 2008,CSC 317 [01 ],22,30,Daniel Tomasevich
+528,Fall 2008,CSC 330 [01 ],25,30,Chin Wong
+529,Fall 2008,CSC 413 [01 ],23,30,Barry Levine
+530,Fall 2008,CSC 413 [02 ],29,30,Barry Levine
+531,Fall 2008,CSC 415 [01 ],27,30,Stanley Osborne
+532,Fall 2008,CSC 510 [01 ],40,30,Robert Wall
+533,Fall 2008,CSC 520 [01 ],37,30,Robert Wall
+534,Fall 2008,CSC 600 [01 ],26,30,Jozo Dujmovic
+535,Fall 2008,CSC 615 [01 ],17,30,Marguerite Murphy
+536,Fall 2008,CSC 640 [01 ],10,20,Dragutin Petkovic
+537,Fall 2008,CSC 641 [01 ],7,15,Jozo Dujmovic
+538,Fall 2008,CSC 658 [01 ],10,30,Barry Levine
+539,Fall 2008,CSC 664 [01 ],10,15,Rahul Singh
+540,Fall 2008,CSC 675 [01 ],16,15,Marguerite Murphy
+541,Fall 2008,CSC 693 [01 ],0,25,Dragutin Petkovic
+542,Fall 2008,CSC 693 [02 ],0,25,Dragutin Petkovic
+543,Fall 2008,CSC 694 [01 ],1,10,Dragutin Petkovic
+544,Fall 2008,CSC 694 [02 ],0,10,Dragutin Petkovic
+545,Fall 2008,CSC 694 [03 ],0,10,Dragutin Petkovic
+546,Fall 2008,CSC 695 [01 ],4,25,Barry Levine
+547,Fall 2008,CSC 697 [01 ],0,0,To be announced
+548,Fall 2008,CSC 699 [01 ],0,0,To be announced
+549,Fall 2008,CSC 699 [02 ],0,0,To be announced
+550,Fall 2008,CSC 699 [03 ],0,0,To be announced
+551,Fall 2008,CSC 730 [01 ],24,20,Marguerite Murphy
+552,Fall 2008,CSC 775 [01 ],11,15,Marguerite Murphy
+553,Fall 2008,CSC 825 [01 ],31,30,Robert Wall
+554,Fall 2008,CSC 835 [01 ],15,25,Arno Puder
+555,Fall 2008,CSC 841 [01 ],4,15,Jozo Dujmovic
+556,Fall 2008,CSC 848 [01 ],36,35,Dragutin Petkovic
+557,Fall 2008,CSC 858 [01 ],8,30,Scott Weitze
+558,Fall 2008,CSC 864 [01 ],13,15,Rahul Singh
+559,Fall 2008,CSC 872 [01 ],17,20,Kazunori Okada
+560,Fall 2008,CSC 893 [01 ],4,30,Dragutin Petkovic
+561,Fall 2008,CSC 895 [01 ],0,0,To be announced
+562,Fall 2008,CSC 897 [01 ],0,0,To be announced
+563,Fall 2008,CSC 897 [02 ],0,0,To be announced
+564,Fall 2008,CSC 897 [03 ],0,0,To be announced
+565,Fall 2008,CSC 897 [04 ],0,0,To be announced
+566,Fall 2008,CSC 898 [01 ],0,0,To be announced
+567,Fall 2008,CSC 899 [01 ],0,0,To be announced
+568,Fall 2008,CSC 899 [02 ],0,0,To be announced
+569,Fall 2008,CSC 899 [03 ],0,0,To be announced
+570,Fall 2008,CSC 897 [01 ],0,0,To be announced
+571,Fall 2008,CSC 897 [02 ],0,0,To be announced
+572,Fall 2008,CSC 897 [03 ],0,0,To be announced
+573,Fall 2008,CSC 897 [04 ],0,0,To be announced
+574,Fall 2008,CSC 898 [01 ],0,0,To be announced
+575,Fall 2008,CSC 899 [01 ],0,0,To be announced
+576,Fall 2008,CSC 899 [02 ],0,0,To be announced
+577,Fall 2008,CSC 899 [03 ],0,0,To be announced
+578,Fall 2008,CSC 897 [01 ],0,0,To be announced
+579,Fall 2008,CSC 897 [02 ],0,0,To be announced
+580,Fall 2008,CSC 897 [03 ],0,0,To be announced
+581,Fall 2008,CSC 897 [04 ],0,0,To be announced
+582,Fall 2008,CSC 898 [01 ],0,0,To be announced
+583,Fall 2008,CSC 899 [01 ],0,0,To be announced
+584,Fall 2008,CSC 899 [02 ],0,0,To be announced
+585,Fall 2008,CSC 899 [03 ],0,0,To be announced
+586,Fall 2008,CSC 897 [01 ],0,0,To be announced
+587,Fall 2008,CSC 897 [02 ],0,0,To be announced
+588,Fall 2008,CSC 897 [03 ],0,0,To be announced
+589,Fall 2008,CSC 897 [04 ],0,0,To be announced
+590,Fall 2008,CSC 898 [01 ],0,0,To be announced
+591,Fall 2008,CSC 899 [01 ],0,0,To be announced
+592,Fall 2008,CSC 899 [02 ],0,0,To be announced
+593,Fall 2008,CSC 899 [03 ],0,0,To be announced
+594,Spring 2009,CSC 101 [01 ],54,50,Kazunori Okada
+595,Spring 2009,CSC 210 [01 ],30,30,Jozo Dujmovic
+596,Spring 2009,CSC 210 [02 ],31,30,Katarina Dujmovic
+597,Spring 2009,CSC 210 [03 ],26,30,Katarina Dujmovic
+598,Spring 2009,CSC 210 [04 ],22,30,Katarina Dujmovic
+599,Spring 2009,CSC 211 [01 ],16,40,Tsun-Yuk Hsu
+600,Spring 2009,CSC 212 [01 ],70,60,Daniel Tomasevich
+601,Spring 2009,CSC 213 [01 ],17,30,Hui Yang
+602,Spring 2009,CSC 213 [02 ],22,30,Gary Thompson
+603,Spring 2009,CSC 305 [01 ],23,30,Daniel Tomasevich
+604,Spring 2009,CSC 310 [01 ],25,30,Tsun-Yuk Hsu
+605,Spring 2009,CSC 313 [01 ],18,30,Chin Wong
+606,Spring 2009,CSC 313 [02 ],28,30,Chin Wong
+607,Spring 2009,CSC 330 [01 ],35,30,Chin Wong
+608,Spring 2009,CSC 413 [01 ],16,30,Barry Levine
+609,Spring 2009,CSC 413 [02 ],21,30,Barry Levine
+610,Spring 2009,CSC 415 [01 ],22,30,Tsun-Yuk Hsu
+611,Spring 2009,CSC 510 [01 ],23,30,Robert Wall
+612,Spring 2009,CSC 520 [01 ],25,30,Robert Wall
+613,Spring 2009,CSC 600 [01 ],39,30,Jozo Dujmovic
+614,Spring 2009,CSC 630 [01 ],24,30,Lawrence Kroll
+615,Spring 2009,CSC 650 [01 ],35,30,Stanley Osborne
+616,Spring 2009,CSC 667 [01 ],28,20,Jd Roberts
+617,Spring 2009,CSC 668 [01 ],10,15,Barry Levine
+618,Spring 2009,CSC 693 [01 ],0,25,Dragutin Petkovic
+619,Spring 2009,CSC 693 [02 ],0,25,Dragutin Petkovic
+620,Spring 2009,CSC 694 [01 ],1,15,Dragutin Petkovic
+621,Spring 2009,CSC 694 [02 ],0,15,Dragutin Petkovic
+622,Spring 2009,CSC 694 [03 ],0,15,Dragutin Petkovic
+623,Spring 2009,CSC 695 [01 ],8,25,Barry Levine
+624,Spring 2009,CSC 697 [01 ],0,15,To be announced
+625,Spring 2009,CSC 699 [01 ],0,5,To be announced
+626,Spring 2009,CSC 699 [02 ],0,5,To be announced
+627,Spring 2009,CSC 699 [03 ],0,5,To be announced
+628,Spring 2009,CSC 720 [01 ],12,15,Arno Puder
+629,Spring 2009,CSC 840 [01 ],16,30,Jozo Dujmovic
+630,Spring 2009,CSC 842 [01 ],26,30,Jd Roberts
+631,Spring 2009,CSC 845 [01 ],13,30,Marguerite Murphy
+632,Spring 2009,CSC 857 [01 ],6,30,Rahul Singh
+633,Spring 2009,CSC 867 [01 ],17,20,Jd Roberts
+634,Spring 2009,CSC 868 [01 ],11,15,Barry Levine
+635,Spring 2009,CSC 869 [01 ],26,30,Hui Yang
+636,Spring 2009,CSC 875 [01 ],6,30,Marguerite Murphy
+637,Spring 2009,CSC 893 [01 ],2,35,Dragutin Petkovic
+638,Spring 2009,CSC 895 [01 ],0,5,To be announced
+639,Spring 2009,CSC 897 [01 ],0,5,To be announced
+640,Spring 2009,CSC 897 [02 ],0,5,To be announced
+641,Spring 2009,CSC 897 [03 ],0,5,To be announced
+642,Spring 2009,CSC 897 [04 ],0,5,To be announced
+643,Spring 2009,CSC 898 [01 ],0,0,To be announced
+644,Spring 2009,CSC 899 [01 ],0,0,To be announced
+645,Spring 2009,CSC 899 [02 ],0,0,To be announced
+646,Spring 2009,CSC 899 [03 ],0,0,To be announced
+647,Spring 2009,CSC 899 [01 ],0,0,To be announced
+648,Spring 2009,CSC 899 [02 ],0,0,To be announced
+649,Spring 2009,CSC 899 [03 ],0,0,To be announced
+650,Spring 2009,CSC 899 [01 ],0,0,To be announced
+651,Spring 2009,CSC 899 [02 ],0,0,To be announced
+652,Spring 2009,CSC 899 [03 ],0,0,To be announced
+653,Spring 2009,CSC 899 [01 ],0,0,To be announced
+654,Spring 2009,CSC 899 [02 ],0,0,To be announced
+655,Spring 2009,CSC 899 [03 ],0,0,To be announced
+656,Fall 2009,CSC 101 [01 ],68,65,Kazunori Okada
+657,Fall 2009,CSC 210 [01 ],41,35,Ilmi Yoon
+658,Fall 2009,CSC 210 [02 ],38,35,Ilmi Yoon
+659,Fall 2009,CSC 210 [03 ],24,30,Katarina Dujmovic
+660,Fall 2009,CSC 210 [04 ],25,30,Katarina Dujmovic
+661,Fall 2009,CSC 211 [01 ],24,35,Chin Wong
+662,Fall 2009,CSC 212 [01 ],65,65,Daniel Tomasevich
+663,Fall 2009,CSC 213 [01 ],17,35,Hui Yang
+664,Fall 2009,CSC 213 [02 ],26,35,Hui Yang
+665,Fall 2009,CSC 305 [01 ],39,45,Daniel Tomasevich
+666,Fall 2009,CSC 307 [01 ],13,35,Gabriele Scheler
+667,Fall 2009,CSC 309 [01 ],33,35,Daniel Tomasevich
+668,Fall 2009,CSC 310 [01 ],40,55,Serge Volkoff
+669,Fall 2009,CSC 313 [01 ],17,30,Chin Wong
+670,Fall 2009,CSC 313 [02 ],17,30,Chin Wong
+671,Fall 2009,CSC 330 [01 ],37,35,Kazunori Okada
+672,Fall 2009,CSC 413 [01 ],25,30,Barry Levine
+673,Fall 2009,CSC 413 [02 ],26,30,Barry Levine
+674,Fall 2009,CSC 415 [01 ],32,30,Ming Mao
+675,Fall 2009,CSC 510 [01 ],35,35,Hui Yang
+676,Fall 2009,CSC 520 [01 ],28,35,Robert Wall
+677,Fall 2009,CSC 600 [01 ],13,30,Jozo Dujmovic
+678,Fall 2009,CSC 600 [02 ],16,30,Jozo Dujmovic
+679,Fall 2009,CSC 615 [01 ],10,25,Marguerite Murphy
+680,Fall 2009,CSC 631 [01 ],13,20,Ilmi Yoon
+681,Fall 2009,CSC 640 [01 ],15,22,Gary Thompson
+682,Fall 2009,CSC 641 [01 ],4,20,Jozo Dujmovic
+683,Fall 2009,CSC 658 [01 ],11,30,Barry Levine
+684,Fall 2009,CSC 664 [01 ],6,20,Rahul Singh
+685,Fall 2009,CSC 675 [01 ],18,20,Marguerite Murphy
+686,Fall 2009,CSC 693 [01 ],0,25,Dragutin Petkovic
+687,Fall 2009,CSC 693 [02 ],0,25,Dragutin Petkovic
+688,Fall 2009,CSC 694 [01 ],0,10,Dragutin Petkovic
+689,Fall 2009,CSC 694 [02 ],0,10,Dragutin Petkovic
+690,Fall 2009,CSC 694 [03 ],0,10,Dragutin Petkovic
+691,Fall 2009,CSC 695 [01 ],8,20,Barry Levine
+692,Fall 2009,CSC 697 [01 ],0,0,To be announced
+693,Fall 2009,CSC 699 [01 ],0,0,To be announced
+694,Fall 2009,CSC 699 [02 ],0,0,To be announced
+695,Fall 2009,CSC 699 [03 ],0,0,To be announced
+696,Fall 2009,CSC 720 [01 ],31,25,Marguerite Murphy
+697,Fall 2009,CSC 775 [01 ],4,20,Marguerite Murphy
+698,Fall 2009,CSC 810 [01 ],38,35,Chin Wong
+699,Fall 2009,CSC 831 [01 ],7,20,Ilmi Yoon
+700,Fall 2009,CSC 841 [01 ],7,20,Jozo Dujmovic
+701,Fall 2009,CSC 848 [01 ],18,38,Gary Thompson
+702,Fall 2009,CSC 864 [01 ],10,20,Rahul Singh
+703,Fall 2009,CSC 872 [01 ],7,25,Kazunori Okada
+704,Fall 2009,CSC 893 [01 ],4,30,Dragutin Petkovic
+705,Fall 2009,CSC 895 [01 ],0,0,To be announced
+706,Fall 2009,CSC 897 [01 ],0,0,To be announced
+707,Fall 2009,CSC 897 [02 ],0,0,To be announced
+708,Fall 2009,CSC 897 [03 ],0,0,To be announced
+709,Fall 2009,CSC 897 [04 ],0,0,To be announced
+710,Fall 2009,CSC 898 [01 ],0,0,To be announced
+711,Fall 2009,CSC 899 [01 ],0,0,To be announced
+712,Fall 2009,CSC 899 [02 ],0,0,To be announced
+713,Fall 2009,CSC 899 [03 ],0,0,To be announced
+714,Fall 2009,CSC 897 [01 ],0,0,To be announced
+715,Fall 2009,CSC 897 [02 ],0,0,To be announced
+716,Fall 2009,CSC 897 [03 ],0,0,To be announced
+717,Fall 2009,CSC 897 [04 ],0,0,To be announced
+718,Fall 2009,CSC 898 [01 ],0,0,To be announced
+719,Fall 2009,CSC 899 [01 ],0,0,To be announced
+720,Fall 2009,CSC 899 [02 ],0,0,To be announced
+721,Fall 2009,CSC 899 [03 ],0,0,To be announced
+722,Fall 2009,CSC 897 [01 ],0,0,To be announced
+723,Fall 2009,CSC 897 [02 ],0,0,To be announced
+724,Fall 2009,CSC 897 [03 ],0,0,To be announced
+725,Fall 2009,CSC 897 [04 ],0,0,To be announced
+726,Fall 2009,CSC 898 [01 ],0,0,To be announced
+727,Fall 2009,CSC 899 [01 ],0,0,To be announced
+728,Fall 2009,CSC 899 [02 ],0,0,To be announced
+729,Fall 2009,CSC 899 [03 ],0,0,To be announced
+730,Fall 2009,CSC 897 [01 ],0,0,To be announced
+731,Fall 2009,CSC 897 [02 ],0,0,To be announced
+732,Fall 2009,CSC 897 [03 ],0,0,To be announced
+733,Fall 2009,CSC 897 [04 ],0,0,To be announced
+734,Fall 2009,CSC 898 [01 ],0,0,To be announced
+735,Fall 2009,CSC 899 [01 ],0,0,To be announced
+736,Fall 2009,CSC 899 [02 ],0,0,To be announced
+737,Fall 2009,CSC 899 [03 ],0,0,To be announced
+738,Spring 2010,CSC 101 [01 ],69,70,Gary Thompson
+739,Spring 2010,CSC 203 [01 ],30,25,Katarina Dujmovic
+740,Spring 2010,CSC 210 [01 ],23,25,Ilmi Yoon
+741,Spring 2010,CSC 210 [02 ],27,25,Ilmi Yoon
+742,Spring 2010,CSC 210 [03 ],24,20,Katarina Dujmovic
+743,Spring 2010,CSC 211 [01 ],15,40,Chin Wong
+744,Spring 2010,CSC 213 [01 ],29,25,Gary Thompson
+745,Spring 2010,CSC 213 [02 ],25,25,Hui Yang
+746,Spring 2010,CSC 305 [01 ],45,45,Daniel Tomasevich
+747,Spring 2010,CSC 310 [01 ],21,25,Serge Volkoff
+748,Spring 2010,CSC 313 [01 ],17,25,Chin Wong
+749,Spring 2010,CSC 313 [02 ],20,25,Chin Wong
+750,Spring 2010,CSC 330 [01 ],44,25,Robert Wall
+751,Spring 2010,CSC 413 [01 ],12,25,Barry Levine
+752,Spring 2010,CSC 413 [02 ],15,25,Barry Levine
+753,Spring 2010,CSC 415 [01 ],41,25,Marguerite Murphy
+754,Spring 2010,CSC 510 [01 ],36,25,Robert Wall
+755,Spring 2010,CSC 520 [01 ],24,25,Robert Wall
+756,Spring 2010,CSC 600 [01 ],16,15,Jozo Dujmovic
+757,Spring 2010,CSC 600 [02 ],19,15,Jozo Dujmovic
+758,Spring 2010,CSC 621 [01 ],17,15,Kazunori Okada
+759,Spring 2010,CSC 667 [01 ],17,15,Ilmi Yoon
+760,Spring 2010,CSC 668 [01 ],16,15,Barry Levine
+761,Spring 2010,CSC 693 [01 ],0,25,Dragutin Petkovic
+762,Spring 2010,CSC 693 [02 ],0,25,Dragutin Petkovic
+763,Spring 2010,CSC 694 [01 ],0,15,Dragutin Petkovic
+764,Spring 2010,CSC 694 [02 ],0,15,Dragutin Petkovic
+765,Spring 2010,CSC 694 [03 ],0,15,Dragutin Petkovic
+766,Spring 2010,CSC 695 [01 ],20,25,Barry Levine
+767,Spring 2010,CSC 697 [01 ],0,15,To be announced
+768,Spring 2010,CSC 699 [01 ],0,5,To be announced
+769,Spring 2010,CSC 699 [02 ],0,5,To be announced
+770,Spring 2010,CSC 699 [03 ],0,5,To be announced
+771,Spring 2010,CSC 720 [01 ],13,15,Marguerite Murphy
+772,Spring 2010,CSC 810 [01 ],14,20,Chin Wong
+773,Spring 2010,CSC 821 [01 ],6,10,Kazunori Okada
+774,Spring 2010,CSC 840 [01 ],16,10,Jozo Dujmovic
+775,Spring 2010,CSC 842 [01 ],7,10,Edward Lank
+776,Spring 2010,CSC 845 [01 ],9,10,Marguerite Murphy
+777,Spring 2010,CSC 857 [01 ],11,12,Rahul Singh
+778,Spring 2010,CSC 858 [01 ],12,10,Scott Weitze
+779,Spring 2010,CSC 867 [01 ],10,10,Ilmi Yoon
+780,Spring 2010,CSC 868 [01 ],12,12,Barry Levine
+781,Spring 2010,CSC 869 [01 ],11,10,Hui Yang
+782,Spring 2010,CSC 890 [01 ],8,8,Rahul Singh
+783,Spring 2010,CSC 893 [01 ],3,35,Dragutin Petkovic
+784,Spring 2010,CSC 895 [01 ],0,5,To be announced
+785,Spring 2010,CSC 897 [01 ],0,5,To be announced
+786,Spring 2010,CSC 897 [02 ],0,5,To be announced
+787,Spring 2010,CSC 897 [03 ],0,5,To be announced
+788,Spring 2010,CSC 897 [04 ],0,5,To be announced
+789,Spring 2010,CSC 898 [01 ],0,0,To be announced
+790,Spring 2010,CSC 899 [01 ],0,0,To be announced
+791,Spring 2010,CSC 899 [02 ],0,0,To be announced
+792,Spring 2010,CSC 899 [03 ],0,0,To be announced
+793,Spring 2010,CSC 897 [04 ],0,5,To be announced
+794,Spring 2010,CSC 898 [01 ],0,0,To be announced
+795,Spring 2010,CSC 899 [01 ],0,0,To be announced
+796,Spring 2010,CSC 899 [02 ],0,0,To be announced
+797,Spring 2010,CSC 899 [03 ],0,0,To be announced
+798,Spring 2010,CSC 897 [04 ],0,5,To be announced
+799,Spring 2010,CSC 898 [01 ],0,0,To be announced
+800,Spring 2010,CSC 899 [01 ],0,0,To be announced
+801,Spring 2010,CSC 899 [02 ],0,0,To be announced
+802,Spring 2010,CSC 899 [03 ],0,0,To be announced
+803,Spring 2010,CSC 897 [04 ],0,5,To be announced
+804,Spring 2010,CSC 898 [01 ],0,0,To be announced
+805,Spring 2010,CSC 899 [01 ],0,0,To be announced
+806,Spring 2010,CSC 899 [02 ],0,0,To be announced
+807,Spring 2010,CSC 899 [03 ],0,0,To be announced
+808,Fall 2010,CSC 101 [02 ],69,70,Jd Roberts
+809,Fall 2010,CSC 210 [01 ],26,33,Ilmi Yoon
+810,Fall 2010,CSC 210 [02 ],34,40,Ilmi Yoon
+811,Fall 2010,CSC 210 [03 ],34,30,Tsun-Yuk Hsu
+812,Fall 2010,CSC 210 [04 ],29,33,Marc Sosnick
+813,Fall 2010,CSC 211 [01 ],30,35,Hui Yang
+814,Fall 2010,CSC 213 [01 ],6,20,Hui Yang
+815,Fall 2010,CSC 220 [01 ],37,35,Chin Wong
+816,Fall 2010,CSC 220 [02 ],35,30,Chin Wong
+817,Fall 2010,CSC 230 [01 ],42,45,Kazunori Okada
+818,Fall 2010,CSC 256 [01 ],34,30,Tsun-Yuk Hsu
+819,Fall 2010,CSC 300GW [01 ],25,25,Daniel Tomasevich
+820,Fall 2010,CSC 300GW [02 ],24,25,Daniel Tomasevich
+821,Fall 2010,CSC 309 [01 ],30,30,Tsun-Yuk Hsu
+822,Fall 2010,CSC 340 [01 ],23,25,Hui Yang
+823,Fall 2010,CSC 412 [01 ],13,25,Chin Wong
+824,Fall 2010,CSC 413 [01 ],18,25,Barry Levine
+825,Fall 2010,CSC 413 [02 ],21,25,Barry Levine
+826,Fall 2010,CSC 415 [01 ],28,30,Marguerite Murphy
+827,Fall 2010,CSC 510 [01 ],23,30,Robert Wall
+828,Fall 2010,CSC 520 [01 ],18,20,Barry Levine
+829,Fall 2010,CSC 600 [01 ],11,15,Jozo Dujmovic
+830,Fall 2010,CSC 600 [02 ],12,15,Jozo Dujmovic
+831,Fall 2010,CSC 631 [01 ],12,20,Ilmi Yoon
+832,Fall 2010,CSC 640 [01 ],21,30,Gary Thompson
+833,Fall 2010,CSC 641 [01 ],5,15,Jozo Dujmovic
+834,Fall 2010,CSC 675 [01 ],21,20,Marguerite Murphy
+835,Fall 2010,CSC 693 [01 ],0,25,Dragutin Petkovic
+836,Fall 2010,CSC 693 [02 ],0,25,Dragutin Petkovic
+837,Fall 2010,CSC 694 [01 ],0,10,Dragutin Petkovic
+838,Fall 2010,CSC 694 [02 ],0,10,Dragutin Petkovic
+839,Fall 2010,CSC 694 [03 ],0,10,Dragutin Petkovic
+840,Fall 2010,CSC 695 [01 ],12,20,Barry Levine
+841,Fall 2010,CSC 697 [01 ],0,0,To be announced
+842,Fall 2010,CSC 699 [01 ],0,0,To be announced
+843,Fall 2010,CSC 699 [02 ],0,0,To be announced
+844,Fall 2010,CSC 699 [03 ],0,0,To be announced
+845,Fall 2010,CSC 730 [01 ],14,15,Marguerite Murphy
+846,Fall 2010,CSC 775 [01 ],14,15,Marguerite Murphy
+847,Fall 2010,CSC 810 [01 ],24,25,Chin Wong
+848,Fall 2010,CSC 831 [01 ],5,10,Ilmi Yoon
+849,Fall 2010,CSC 835 [01 ],19,20,Arno Puder
+850,Fall 2010,CSC 841 [01 ],8,10,Jozo Dujmovic
+851,Fall 2010,CSC 848 [01 ],30,25,Gary Thompson
+852,Fall 2010,CSC 857 [01 ],9,10,Rahul Singh
+853,Fall 2010,CSC 872 [01 ],10,10,Kazunori Okada
+854,Fall 2010,CSC 893 [01 ],1,30,Dragutin Petkovic
+855,Fall 2010,CSC 895 [01 ],0,0,To be announced
+856,Fall 2010,CSC 897 [01 ],0,0,To be announced
+857,Fall 2010,CSC 897 [02 ],0,0,To be announced
+858,Fall 2010,CSC 897 [03 ],0,0,To be announced
+859,Fall 2010,CSC 897 [04 ],0,0,To be announced
+860,Fall 2010,CSC 898 [01 ],0,0,To be announced
+861,Fall 2010,CSC 899 [01 ],0,0,To be announced
+862,Fall 2010,CSC 899 [02 ],0,0,To be announced
+863,Fall 2010,CSC 899 [03 ],0,0,To be announced
+864,Fall 2010,CSC 897 [03 ],0,0,To be announced
+865,Fall 2010,CSC 897 [04 ],0,0,To be announced
+866,Fall 2010,CSC 898 [01 ],0,0,To be announced
+867,Fall 2010,CSC 899 [01 ],0,0,To be announced
+868,Fall 2010,CSC 899 [02 ],0,0,To be announced
+869,Fall 2010,CSC 899 [03 ],0,0,To be announced
+870,Fall 2010,CSC 897 [03 ],0,0,To be announced
+871,Fall 2010,CSC 897 [04 ],0,0,To be announced
+872,Fall 2010,CSC 898 [01 ],0,0,To be announced
+873,Fall 2010,CSC 899 [01 ],0,0,To be announced
+874,Fall 2010,CSC 899 [02 ],0,0,To be announced
+875,Fall 2010,CSC 899 [03 ],0,0,To be announced
+876,Fall 2010,CSC 897 [03 ],0,0,To be announced
+877,Fall 2010,CSC 897 [04 ],0,0,To be announced
+878,Fall 2010,CSC 898 [01 ],0,0,To be announced
+879,Fall 2010,CSC 899 [01 ],0,0,To be announced
+880,Fall 2010,CSC 899 [02 ],0,0,To be announced
+881,Fall 2010,CSC 899 [03 ],0,0,To be announced
+882,Spring 2011,CSC 101 [01 ],65,70,Jd Roberts
+883,Spring 2011,CSC 210 [01 ],41,35,Tsun-Yuk Hsu
+884,Spring 2011,CSC 210 [02 ],34,30,Marc Sosnick
+885,Spring 2011,CSC 210 [03 ],35,30,Marc Sosnick
+886,Spring 2011,CSC 211 [01 ],26,40,Chin Wong
+887,Spring 2011,CSC 220 [01 ],31,35,Chin Wong
+888,Spring 2011,CSC 220 [02 ],30,30,Chin Wong
+889,Spring 2011,CSC 230 [01 ],46,45,Robert Wall
+890,Spring 2011,CSC 256 [01 ],40,35,Tsun-Yuk Hsu
+891,Spring 2011,CSC 300GW [01 ],8,25,Neal Lewis
+892,Spring 2011,CSC 300GW [02 ],26,25,Daniel Tomasevich
+893,Spring 2011,CSC 313 [01 ],11,16,Serge Volkoff
+894,Spring 2011,CSC 330 [01 ],16,30,Robert Wall
+895,Spring 2011,CSC 340 [01 ],24,25,Serge Volkoff
+896,Spring 2011,CSC 340 [02 ],29,25,Serge Volkoff
+897,Spring 2011,CSC 412 [01 ],8,25,Neal Lewis
+898,Spring 2011,CSC 413 [01 ],19,20,Barry Levine
+899,Spring 2011,CSC 413 [02 ],22,20,Barry Levine
+900,Spring 2011,CSC 415 [01 ],29,30,Marguerite Murphy
+901,Spring 2011,CSC 510 [01 ],29,30,Robert Wall
+902,Spring 2011,CSC 600 [01 ],15,20,Jozo Dujmovic
+903,Spring 2011,CSC 600 [02 ],16,20,Jozo Dujmovic
+904,Spring 2011,CSC 615 [01 ],24,25,Marguerite Murphy
+905,Spring 2011,CSC 621 [01 ],11,15,Kazunori Okada
+906,Spring 2011,CSC 656 [01 ],29,30,Tsun-Yuk Hsu
+907,Spring 2011,CSC 667 [01 ],16,20,Ilmi Yoon
+908,Spring 2011,CSC 668 [01 ],6,15,Barry Levine
+909,Spring 2011,CSC 693 [01 ],0,25,Dragutin Petkovic
+910,Spring 2011,CSC 693 [02 ],0,25,Dragutin Petkovic
+911,Spring 2011,CSC 694 [01 ],0,15,Dragutin Petkovic
+912,Spring 2011,CSC 694 [02 ],0,15,Dragutin Petkovic
+913,Spring 2011,CSC 694 [03 ],0,15,Dragutin Petkovic
+914,Spring 2011,CSC 695 [01 ],11,25,Barry Levine
+915,Spring 2011,CSC 697 [01 ],0,15,To be announced
+916,Spring 2011,CSC 699 [01 ],0,5,Jozo Dujmovic
+917,Spring 2011,CSC 699 [02 ],0,5,Jozo Dujmovic
+918,Spring 2011,CSC 699 [03 ],0,5,Tsun-Yuk Hsu
+919,Spring 2011,CSC 720 [01 ],15,15,Arno Puder
+920,Spring 2011,CSC 810 [01 ],21,25,Chin Wong
+921,Spring 2011,CSC 821 [01 ],9,10,Kazunori Okada
+922,Spring 2011,CSC 840 [01 ],16,15,Jozo Dujmovic
+923,Spring 2011,CSC 867 [01 ],18,20,Ilmi Yoon
+924,Spring 2011,CSC 868 [01 ],15,15,Barry Levine
+925,Spring 2011,CSC 869 [01 ],17,15,Hui Yang
+926,Spring 2011,CSC 875 [01 ],9,10,Marguerite Murphy
+927,Spring 2011,CSC 893 [01 ],1,35,Dragutin Petkovic
+928,Spring 2011,CSC 895 [01 ],0,5,To be announced
+929,Spring 2011,CSC 897 [01 ],0,5,To be announced
+930,Spring 2011,CSC 897 [02 ],1,5,Kazunori Okada
+931,Spring 2011,CSC 897 [03 ],0,5,To be announced
+932,Spring 2011,CSC 897 [04 ],0,5,To be announced
+933,Spring 2011,CSC 898 [01 ],0,5,To be announced
+934,Spring 2011,CSC 899 [01 ],1,0,To be announced
+935,Spring 2011,CSC 899 [02 ],0,0,To be announced
+936,Spring 2011,CSC 899 [03 ],0,0,To be announced
+937,Spring 2011,CSC 897 [04 ],0,5,To be announced
+938,Spring 2011,CSC 898 [01 ],0,5,To be announced
+939,Spring 2011,CSC 899 [01 ],1,0,To be announced
+940,Spring 2011,CSC 899 [02 ],0,0,To be announced
+941,Spring 2011,CSC 899 [03 ],0,0,To be announced
+942,Spring 2011,CSC 897 [04 ],0,5,To be announced
+943,Spring 2011,CSC 898 [01 ],0,5,To be announced
+944,Spring 2011,CSC 899 [01 ],1,0,To be announced
+945,Spring 2011,CSC 899 [02 ],0,0,To be announced
+946,Spring 2011,CSC 899 [03 ],0,0,To be announced
+947,Spring 2011,CSC 897 [04 ],0,5,To be announced
+948,Spring 2011,CSC 898 [01 ],0,5,To be announced
+949,Spring 2011,CSC 899 [01 ],1,0,To be announced
+950,Spring 2011,CSC 899 [02 ],0,0,To be announced
+951,Spring 2011,CSC 899 [03 ],0,0,To be announced
+952,Fall 2011,CSC 101 [01 ],65,70,Jd Roberts
+953,Fall 2011,CSC 210 [01 ],30,30,Ilmi Yoon
+954,Fall 2011,CSC 210 [02 ],36,35,Robert Theis
+955,Fall 2011,CSC 210 [03 ],44,35,Marc Sosnick
+956,Fall 2011,CSC 210 [04 ],38,35,Marc Sosnick
+957,Fall 2011,CSC 211 [01 ],35,35,Chin Wong
+958,Fall 2011,CSC 220 [01 ],32,30,Chin Wong
+959,Fall 2011,CSC 220 [02 ],25,25,Chin Wong
+960,Fall 2011,CSC 230 [01 ],44,40,Kazunori Okada
+961,Fall 2011,CSC 256 [01 ],39,30,Tsun-Yuk Hsu
+962,Fall 2011,CSC 300GW [01 ],25,25,Daniel Tomasevich
+963,Fall 2011,CSC 300GW [02 ],12,25,Daniel Tomasevich
+964,Fall 2011,CSC 309 [01 ],31,30,Tsun-Yuk Hsu
+965,Fall 2011,CSC 340 [01 ],23,30,Hui Yang
+966,Fall 2011,CSC 340 [02 ],31,30,Hui Yang
+967,Fall 2011,CSC 412 [01 ],9,30,Chin Wong
+968,Fall 2011,CSC 413 [01 ],29,30,Barry Levine
+969,Fall 2011,CSC 413 [02 ],30,30,Barry Levine
+970,Fall 2011,CSC 415 [01 ],31,30,Marguerite Murphy
+971,Fall 2011,CSC 510 [01 ],37,30,Robert Wall
+972,Fall 2011,CSC 520 [01 ],22,30,Barry Levine
+973,Fall 2011,CSC 520 [02 ],43,35,Robert Wall
+974,Fall 2011,CSC 600 [01 ],14,20,Jozo Dujmovic
+975,Fall 2011,CSC 631 [01 ],14,15,Ilmi Yoon
+976,Fall 2011,CSC 640 [01 ],29,30,Marc Sosnick
+977,Fall 2011,CSC 641 [01 ],2,15,Jozo Dujmovic
+978,Fall 2011,CSC 675 [01 ],15,15,Marguerite Murphy
+979,Fall 2011,CSC 694 [01 ],1,10,Dragutin Petkovic
+980,Fall 2011,CSC 694 [02 ],0,10,Dragutin Petkovic
+981,Fall 2011,CSC 694 [03 ],0,10,Dragutin Petkovic
+982,Fall 2011,CSC 695 [01 ],10,20,Barry Levine
+983,Fall 2011,CSC 697 [01 ],0,0,To be announced
+984,Fall 2011,CSC 699 [01 ],0,0,To be announced
+985,Fall 2011,CSC 699 [02 ],0,0,To be announced
+986,Fall 2011,CSC 699 [03 ],0,0,To be announced
+987,Fall 2011,CSC 730 [01 ],9,25,Marguerite Murphy
+988,Fall 2011,CSC 775 [01 ],8,10,Marguerite Murphy
+989,Fall 2011,CSC 780 [01 ],23,25,Arno Puder
+990,Fall 2011,CSC 810 [01 ],14,30,Chin Wong
+991,Fall 2011,CSC 831 [01 ],7,10,Ilmi Yoon
+992,Fall 2011,CSC 841 [01 ],7,10,Jozo Dujmovic
+993,Fall 2011,CSC 846 [01 ],16,20,Tsun-Yuk Hsu
+994,Fall 2011,CSC 848 [01 ],21,25,Marc Sosnick
+995,Fall 2011,CSC 857 [01 ],9,15,Rahul Singh
+996,Fall 2011,CSC 872 [01 ],8,15,Kazunori Okada
+997,Fall 2011,CSC 893 [01 ],8,30,Dragutin Petkovic
+998,Fall 2011,CSC 895 [01 ],0,0,To be announced
+999,Fall 2011,CSC 897 [01 ],0,0,Rahul Singh
+1000,Fall 2011,CSC 897 [02 ],0,0,To be announced
+1001,Fall 2011,CSC 897 [03 ],0,0,To be announced
+1002,Fall 2011,CSC 898 [01 ],0,0,To be announced
+1003,Fall 2011,CSC 899 [01 ],0,0,To be announced
+1004,Fall 2011,CSC 899 [02 ],0,0,To be announced
+1005,Fall 2011,CSC 899 [03 ],1,0,To be announced
+1006,Fall 2011,CSC 898 [01 ],0,0,To be announced
+1007,Fall 2011,CSC 899 [01 ],0,0,To be announced
+1008,Fall 2011,CSC 899 [02 ],0,0,To be announced
+1009,Fall 2011,CSC 899 [03 ],1,0,To be announced
+1010,Fall 2011,CSC 898 [01 ],0,0,To be announced
+1011,Fall 2011,CSC 899 [01 ],0,0,To be announced
+1012,Fall 2011,CSC 899 [02 ],0,0,To be announced
+1013,Fall 2011,CSC 899 [03 ],1,0,To be announced
+1014,Fall 2011,CSC 898 [01 ],0,0,To be announced
+1015,Fall 2011,CSC 899 [01 ],0,0,To be announced
+1016,Fall 2011,CSC 899 [02 ],0,0,To be announced
+1017,Fall 2011,CSC 899 [03 ],1,0,To be announced
+1018,Spring 2012,CSC 101 [01 ],71,70,Jd Roberts
+1019,Spring 2012,CSC 210 [01 ],43,35,Marc Sosnick
+1020,Spring 2012,CSC 210 [02 ],34,35,Ilmi Yoon
+1021,Spring 2012,CSC 210 [03 ],39,35,Tsun-Yuk Hsu
+1022,Spring 2012,CSC 210 [04 ],35,35,Cassidy Kelly
+1023,Spring 2012,CSC 211 [01 ],36,40,Chin Wong
+1024,Spring 2012,CSC 220 [01 ],36,30,Chin Wong
+1025,Spring 2012,CSC 220 [02 ],31,25,Chin Wong
+1026,Spring 2012,CSC 230 [01 ],14,30,Daniel Tomasevich
+1027,Spring 2012,CSC 230 [02 ],42,40,Marc Sosnick
+1028,Spring 2012,CSC 256 [01 ],43,35,Tsun-Yuk Hsu
+1029,Spring 2012,CSC 300GW [01 ],24,25,Daniel Tomasevich
+1030,Spring 2012,CSC 300GW [02 ],20,25,Daniel Tomasevich
+1031,Spring 2012,CSC 340 [01 ],26,30,Jozo Dujmovic
+1032,Spring 2012,CSC 340 [02 ],30,30,Jozo Dujmovic
+1033,Spring 2012,CSC 413 [01 ],24,25,Barry Levine
+1034,Spring 2012,CSC 413 [02 ],25,25,Barry Levine
+1035,Spring 2012,CSC 415 [01 ],40,30,Marguerite Murphy
+1036,Spring 2012,CSC 510 [01 ],48,35,Robert Wall
+1037,Spring 2012,CSC 520 [01 ],40,35,Robert Wall
+1038,Spring 2012,CSC 600 [01 ],38,30,Jozo Dujmovic
+1039,Spring 2012,CSC 615 [01 ],14,25,Marguerite Murphy
+1040,Spring 2012,CSC 621 [01 ],10,15,Kazunori Okada
+1041,Spring 2012,CSC 656 [01 ],16,30,Tsun-Yuk Hsu
+1042,Spring 2012,CSC 667 [01 ],21,20,Ilmi Yoon
+1043,Spring 2012,CSC 668 [01 ],15,15,Barry Levine
+1044,Spring 2012,CSC 693 [01 ],0,25,Dragutin Petkovic
+1045,Spring 2012,CSC 693 [02 ],0,25,Dragutin Petkovic
+1046,Spring 2012,CSC 694 [01 ],0,15,Dragutin Petkovic
+1047,Spring 2012,CSC 694 [02 ],0,15,Dragutin Petkovic
+1048,Spring 2012,CSC 694 [03 ],0,15,Dragutin Petkovic
+1049,Spring 2012,CSC 695 [01 ],20,25,Barry Levine
+1050,Spring 2012,CSC 697 [01 ],0,15,To be announced
+1051,Spring 2012,CSC 699 [01 ],0,5,Jozo Dujmovic
+1052,Spring 2012,CSC 699 [02 ],0,5,Jozo Dujmovic
+1053,Spring 2012,CSC 699 [03 ],0,5,Tsun-Yuk Hsu
+1054,Spring 2012,CSC 720 [01 ],22,12,Marguerite Murphy
+1055,Spring 2012,CSC 780 [01 ],16,15,Arno Puder
+1056,Spring 2012,CSC 810 [01 ],9,25,Chin Wong
+1057,Spring 2012,CSC 821 [01 ],6,10,Kazunori Okada
+1058,Spring 2012,CSC 840 [01 ],12,15,Jozo Dujmovic
+1059,Spring 2012,CSC 867 [01 ],11,20,Ilmi Yoon
+1060,Spring 2012,CSC 868 [01 ],9,15,Barry Levine
+1061,Spring 2012,CSC 869 [01 ],11,15,Hui Yang
+1062,Spring 2012,CSC 890 [01 ],8,10,Rahul Singh
+1063,Spring 2012,CSC 893 [01 ],4,35,Dragutin Petkovic
+1064,Spring 2012,CSC 895 [01 ],0,5,To be announced
+1065,Spring 2012,CSC 897 [01 ],0,5,To be announced
+1066,Spring 2012,CSC 897 [02 ],0,5,To be announced
+1067,Spring 2012,CSC 897 [03 ],0,5,To be announced
+1068,Spring 2012,CSC 897 [04 ],0,5,To be announced
+1069,Spring 2012,CSC 898 [01 ],0,5,To be announced
+1070,Spring 2012,CSC 899 [01 ],0,0,Rahul Singh
+1071,Spring 2012,CSC 899 [02 ],0,0,To be announced
+1072,Spring 2012,CSC 899 [03 ],0,0,To be announced
+1073,Spring 2012,CSC 897 [04 ],0,5,To be announced
+1074,Spring 2012,CSC 898 [01 ],0,5,To be announced
+1075,Spring 2012,CSC 899 [01 ],0,0,Rahul Singh
+1076,Spring 2012,CSC 899 [02 ],0,0,To be announced
+1077,Spring 2012,CSC 899 [03 ],0,0,To be announced
+1078,Spring 2012,CSC 897 [04 ],0,5,To be announced
+1079,Spring 2012,CSC 898 [01 ],0,5,To be announced
+1080,Spring 2012,CSC 899 [01 ],0,0,Rahul Singh
+1081,Spring 2012,CSC 899 [02 ],0,0,To be announced
+1082,Spring 2012,CSC 899 [03 ],0,0,To be announced
+1083,Spring 2012,CSC 897 [04 ],0,5,To be announced
+1084,Spring 2012,CSC 898 [01 ],0,5,To be announced
+1085,Spring 2012,CSC 899 [01 ],0,0,Rahul Singh
+1086,Spring 2012,CSC 899 [02 ],0,0,To be announced
+1087,Spring 2012,CSC 899 [03 ],0,0,To be announced
+1088,Fall 2012,CSC 101 [01 ],40,70,Jd Roberts
+1089,Fall 2012,CSC 206 [01 ],34,35,Teague Sterling
+1090,Fall 2012,CSC 210 [01 ],33,30,Victor Woeltjen
+1091,Fall 2012,CSC 210 [02 ],41,35,Tsun-Yuk Hsu
+1092,Fall 2012,CSC 210 [03 ],43,35,Marc Sosnick
+1093,Fall 2012,CSC 210 [04 ],43,35,Marc Sosnick
+1094,Fall 2012,CSC 210 [05 ],43,35,Cassidy Kelly
+1095,Fall 2012,CSC 211 [01 ],33,35,Chin Wong
+1096,Fall 2012,CSC 220 [01 ],30,30,Chin Wong
+1097,Fall 2012,CSC 220 [02 ],27,25,Chin Wong
+1098,Fall 2012,CSC 220 [03 ],26,35,Jd Roberts
+1099,Fall 2012,CSC 230 [01 ],33,30,Daniel Tomasevich
+1100,Fall 2012,CSC 230 [02 ],45,30,Kazunori Okada
+1101,Fall 2012,CSC 256 [01 ],43,35,Tsun-Yuk Hsu
+1102,Fall 2012,CSC 300GW [01 ],23,25,Daniel Tomasevich
+1103,Fall 2012,CSC 300GW [02 ],22,25,Daniel Tomasevich
+1104,Fall 2012,CSC 340 [01 ],40,30,Jozo Dujmovic
+1105,Fall 2012,CSC 340 [02 ],39,30,Hui Yang
+1106,Fall 2012,CSC 413 [01 ],53,55,Barry Levine
+1107,Fall 2012,CSC 415 [01 ],40,40,Marguerite Murphy
+1108,Fall 2012,CSC 510 [01 ],48,45,Robert Wall
+1109,Fall 2012,CSC 520 [01 ],30,35,Robert Wall
+1110,Fall 2012,CSC 520 [02 ],18,35,Robert Wall
+1111,Fall 2012,CSC 600 [01 ],33,30,Jozo Dujmovic
+1112,Fall 2012,CSC 640 [01 ],45,35,Marc Sosnick
+1113,Fall 2012,CSC 641 [01 ],15,15,Jozo Dujmovic
+1114,Fall 2012,CSC 675 [01 ],22,15,Marguerite Murphy
+1115,Fall 2012,CSC 690 [01 ],25,30,Tsun-Yuk Hsu
+1116,Fall 2012,CSC 694 [01 ],1,10,Dragutin Petkovic
+1117,Fall 2012,CSC 694 [02 ],0,10,Dragutin Petkovic
+1118,Fall 2012,CSC 694 [03 ],0,10,Dragutin Petkovic
+1119,Fall 2012,CSC 695 [01 ],6,20,Barry Levine
+1120,Fall 2012,CSC 697 [01 ],0,0,To be announced
+1121,Fall 2012,CSC 699 [01 ],0,0,To be announced
+1122,Fall 2012,CSC 699 [02 ],0,0,To be announced
+1123,Fall 2012,CSC 699 [03 ],1,0,Tsun-Yuk Hsu
+1124,Fall 2012,CSC 720 [01 ],5,15,Arno Puder
+1125,Fall 2012,CSC 775 [01 ],10,10,Marguerite Murphy
+1126,Fall 2012,CSC 810 [01 ],19,20,Chin Wong
+1127,Fall 2012,CSC 841 [01 ],5,10,Jozo Dujmovic
+1128,Fall 2012,CSC 848 [01 ],11,25,Marc Sosnick
+1129,Fall 2012,CSC 858 [01 ],13,15,Tianyun Liu
+1130,Fall 2012,CSC 872 [01 ],13,15,Kazunori Okada
+1131,Fall 2012,CSC 875 [01 ],12,10,Marguerite Murphy
+1132,Fall 2012,CSC 890 [01 ],14,15,Hui Yang
+1133,Fall 2012,CSC 893 [01 ],1,30,Dragutin Petkovic
+1134,Fall 2012,CSC 895 [01 ],0,0,To be announced
+1135,Fall 2012,CSC 897 [01 ],0,0,Rahul Singh
+1136,Fall 2012,CSC 897 [02 ],0,0,To be announced
+1137,Fall 2012,CSC 897 [03 ],0,0,To be announced
+1138,Fall 2012,CSC 898 [01 ],0,0,To be announced
+1139,Fall 2012,CSC 899 [01 ],0,0,To be announced
+1140,Fall 2012,CSC 899 [02 ],0,0,To be announced
+1141,Fall 2012,CSC 899 [03 ],0,0,To be announced
+1142,Fall 2012,CSC 898 [01 ],0,0,To be announced
+1143,Fall 2012,CSC 899 [01 ],0,0,To be announced
+1144,Fall 2012,CSC 899 [02 ],0,0,To be announced
+1145,Fall 2012,CSC 899 [03 ],0,0,To be announced
+1146,Fall 2012,CSC 898 [01 ],0,0,To be announced
+1147,Fall 2012,CSC 899 [01 ],0,0,To be announced
+1148,Fall 2012,CSC 899 [02 ],0,0,To be announced
+1149,Fall 2012,CSC 899 [03 ],0,0,To be announced
+1150,Fall 2012,CSC 898 [01 ],0,0,To be announced
+1151,Fall 2012,CSC 899 [01 ],0,0,To be announced
+1152,Fall 2012,CSC 899 [02 ],0,0,To be announced
+1153,Fall 2012,CSC 899 [03 ],0,0,To be announced
+1154,Spring 2013,CSC 210 [01 ],41,40,Teague Sterling
+1155,Spring 2013,CSC 210 [02 ],40,40,Jd Roberts
+1156,Spring 2013,CSC 210 [03 ],39,40,Marc Sosnick
+1157,Spring 2013,CSC 210 [04 ],41,40,Marc Sosnick
+1158,Spring 2013,CSC 211 [01 ],41,40,Chin Wong
+1159,Spring 2013,CSC 220 [01 ],46,40,Chin Wong
+1160,Spring 2013,CSC 220 [02 ],46,40,Chin Wong
+1161,Spring 2013,CSC 230 [01 ],46,40,Kazunori Okada
+1162,Spring 2013,CSC 230 [02 ],41,40,Daniel Tomasevich
+1163,Spring 2013,CSC 256 [01 ],47,40,Serge Volkoff
+1164,Spring 2013,CSC 300GW [01 ],25,25,Daniel Tomasevich
+1165,Spring 2013,CSC 300GW [02 ],28,25,Daniel Tomasevich
+1166,Spring 2013,CSC 309 [01 ],41,40,Jd Roberts
+1167,Spring 2013,CSC 340 [01 ],37,40,Jozo Dujmovic
+1168,Spring 2013,CSC 340 [02 ],21,40,Jozo Dujmovic
+1169,Spring 2013,CSC 413 [01 ],35,40,Ilmi Yoon
+1170,Spring 2013,CSC 413 [02 ],34,40,Ilmi Yoon
+1171,Spring 2013,CSC 415 [01 ],46,40,Marguerite Murphy
+1172,Spring 2013,CSC 510 [01 ],39,40,Robert Wall
+1173,Spring 2013,CSC 520 [01 ],37,40,Robert Wall
+1174,Spring 2013,CSC 600 [01 ],38,40,Jozo Dujmovic
+1175,Spring 2013,CSC 615 [01 ],19,25,Marguerite Murphy
+1176,Spring 2013,CSC 621 [01 ],20,15,Kazunori Okada
+1177,Spring 2013,CSC 631 [01 ],18,15,Ilmi Yoon
+1178,Spring 2013,CSC 640 [01 ],23,25,Marc Sosnick
+1179,Spring 2013,CSC 668 [01 ],9,15,Barry Levine
+1180,Spring 2013,CSC 693 [01 ],0,25,Dragutin Petkovic
+1181,Spring 2013,CSC 693 [02 ],0,25,Dragutin Petkovic
+1182,Spring 2013,CSC 694 [01 ],1,15,Dragutin Petkovic
+1183,Spring 2013,CSC 694 [02 ],0,15,Dragutin Petkovic
+1184,Spring 2013,CSC 694 [03 ],0,15,Dragutin Petkovic
+1185,Spring 2013,CSC 695 [01 ],18,25,Barry Levine
+1186,Spring 2013,CSC 699 [01 ],0,5,To be announced
+1187,Spring 2013,CSC 699 [02 ],2,5,Dragutin Petkovic
+1188,Spring 2013,CSC 730 [01 ],16,15,Marguerite Murphy
+1189,Spring 2013,CSC 746 [01 ],17,15,Tsun-Yuk Hsu
+1190,Spring 2013,CSC 780 [01 ],15,15,Arno Puder
+1191,Spring 2013,CSC 810 [01 ],15,25,Chin Wong
+1192,Spring 2013,CSC 821 [01 ],5,10,Kazunori Okada
+1193,Spring 2013,CSC 831 [01 ],9,10,Ilmi Yoon
+1194,Spring 2013,CSC 848 [01 ],11,10,Marc Sosnick
+1195,Spring 2013,CSC 868 [01 ],12,15,Barry Levine
+1196,Spring 2013,CSC 893 [01 ],2,35,Dragutin Petkovic
+1197,Spring 2013,CSC 895 [01 ],0,5,To be announced
+1198,Spring 2013,CSC 897 [01 ],0,5,To be announced
+1199,Spring 2013,CSC 897 [02 ],0,5,To be announced
+1200,Spring 2013,CSC 897 [03 ],0,5,To be announced
+1201,Spring 2013,CSC 897 [04 ],0,5,To be announced
+1202,Spring 2013,CSC 898 [01 ],0,5,To be announced
+1203,Spring 2013,CSC 899 [01 ],0,0,To be announced
+1204,Spring 2013,CSC 899 [02 ],1,0,Chin Wong
+1205,Spring 2013,CSC 899 [03 ],0,0,To be announced
+1206,Spring 2013,CSC 899 [02 ],1,0,Chin Wong
+1207,Spring 2013,CSC 899 [03 ],0,0,To be announced
+1208,Spring 2013,CSC 899 [02 ],1,0,Chin Wong
+1209,Spring 2013,CSC 899 [03 ],0,0,To be announced
+1210,Spring 2013,CSC 899 [02 ],1,0,Chin Wong
+1211,Spring 2013,CSC 899 [03 ],0,0,To be announced
+1212,Fall 2013,CSC 210 [01 ],45,40,Marc Sosnick
+1213,Fall 2013,CSC 210 [02 ],43,40,Marc Sosnick
+1214,Fall 2013,CSC 210 [03 ],39,40,Anagha Kulkarni
+1215,Fall 2013,CSC 210 [04 ],43,40,Teague Sterling
+1216,Fall 2013,CSC 210 [05 ],52,50,David Webster
+1217,Fall 2013,CSC 211 [01 ],38,35,Chin Wong
+1218,Fall 2013,CSC 220 [01 ],50,50,Chin Wong
+1219,Fall 2013,CSC 220 [02 ],41,40,Chin Wong
+1220,Fall 2013,CSC 220 [03 ],22,40,Cassidy Kelly
+1221,Fall 2013,CSC 230 [01 ],46,40,Anagha Kulkarni
+1222,Fall 2013,CSC 230 [02 ],63,50,Daniel Tomasevich
+1223,Fall 2013,CSC 256 [01 ],67,70,Marc Sosnick
+1224,Fall 2013,CSC 300GW [01 ],32,25,Daniel Tomasevich
+1225,Fall 2013,CSC 300GW [02 ],30,25,Daniel Tomasevich
+1226,Fall 2013,CSC 340 [01 ],35,60,Jozo Dujmovic
+1227,Fall 2013,CSC 340 [02 ],44,40,Hui Yang
+1228,Fall 2013,CSC 412 [01 ],25,45,Marc Sosnick
+1229,Fall 2013,CSC 412 [02 ],37,45,Marc Sosnick
+1230,Fall 2013,CSC 413 [01 ],23,33,Ilmi Yoon
+1231,Fall 2013,CSC 413 [02 ],41,45,Ilmi Yoon
+1232,Fall 2013,CSC 415 [01 ],56,60,Cassidy Kelly
+1233,Fall 2013,CSC 510 [01 ],41,55,Robert Wall
+1234,Fall 2013,CSC 520 [01 ],53,55,Robert Wall
+1235,Fall 2013,CSC 600 [01 ],40,60,Jozo Dujmovic
+1236,Fall 2013,CSC 640 [01 ],48,45,Marc Sosnick
+1237,Fall 2013,CSC 641 [01 ],15,15,Jozo Dujmovic
+1238,Fall 2013,CSC 667 [01 ],44,40,Jd Roberts
+1239,Fall 2013,CSC 675 [01 ],29,15,Marguerite Murphy
+1240,Fall 2013,CSC 694 [01 ],1,10,Dragutin Petkovic
+1241,Fall 2013,CSC 694 [02 ],0,10,Dragutin Petkovic
+1242,Fall 2013,CSC 694 [03 ],0,10,Dragutin Petkovic
+1243,Fall 2013,CSC 699 [01 ],0,0,To be announced
+1244,Fall 2013,CSC 699 [02 ],0,0,To be announced
+1245,Fall 2013,CSC 699 [03 ],1,0,Jd Roberts
+1246,Fall 2013,CSC 699 [05 ],0,5,Jozo Dujmovic
+1247,Fall 2013,CSC 699 [06 ],0,5,Marguerite Murphy
+1248,Fall 2013,CSC 699 [07 ],1,5,Dragutin Petkovic
+1249,Fall 2013,CSC 699 [08 ],1,5,Arno Puder
+1250,Fall 2013,CSC 699 [09 ],0,5,Rahul Singh
+1251,Fall 2013,CSC 699 [10 ],0,5,Chin Wong
+1252,Fall 2013,CSC 699 [11 ],1,5,Hui Yang
+1253,Fall 2013,CSC 699 [12 ],1,5,Ilmi Yoon
+1254,Fall 2013,CSC 699 [13 ],2,5,Tsun-Yuk Hsu
+1255,Fall 2013,CSC 699 [14 ],1,5,Marc Sosnick
+1256,Fall 2013,CSC 699 [15 ],0,5,To be announced
+1257,Fall 2013,CSC 720 [01 ],9,20,Arno Puder
+1258,Fall 2013,CSC 775 [01 ],7,10,Marguerite Murphy
+1259,Fall 2013,CSC 810 [01 ],14,20,Chin Wong
+1260,Fall 2013,CSC 841 [01 ],5,10,Jozo Dujmovic
+1261,Fall 2013,CSC 848 [01 ],9,25,Marc Sosnick
+1262,Fall 2013,CSC 857 [01 ],15,15,Rahul Singh
+1263,Fall 2013,CSC 867 [01 ],22,20,Jd Roberts
+1264,Fall 2013,CSC 875 [01 ],10,10,Marguerite Murphy
+1265,Fall 2013,CSC 890 [01 ],16,15,Hui Yang
+1266,Fall 2013,CSC 893 [01 ],4,30,Dragutin Petkovic
+1267,Fall 2013,CSC 895 [01 ],0,0,To be announced
+1268,Fall 2013,CSC 897 [01 ],0,0,Rahul Singh
+1269,Fall 2013,CSC 897 [02 ],1,0,Kazunori Okada
+1270,Fall 2013,CSC 897 [03 ],0,0,To be announced
+1271,Fall 2013,CSC 898 [01 ],0,0,To be announced
+1272,Fall 2013,CSC 899 [01 ],0,0,To be announced
+1273,Fall 2013,CSC 899 [02 ],0,0,To be announced
+1274,Fall 2013,CSC 899 [03 ],0,0,To be announced
+1275,Fall 2013,CSC 857 [01 ],15,15,Rahul Singh
+1276,Fall 2013,CSC 867 [01 ],22,20,Jd Roberts
+1277,Fall 2013,CSC 875 [01 ],10,10,Marguerite Murphy
+1278,Fall 2013,CSC 890 [01 ],16,15,Hui Yang
+1279,Fall 2013,CSC 893 [01 ],4,30,Dragutin Petkovic
+1280,Fall 2013,CSC 895 [01 ],0,0,To be announced
+1281,Fall 2013,CSC 897 [01 ],0,0,Rahul Singh
+1282,Fall 2013,CSC 897 [02 ],1,0,Kazunori Okada
+1283,Fall 2013,CSC 897 [03 ],0,0,To be announced
+1284,Fall 2013,CSC 898 [01 ],0,0,To be announced
+1285,Fall 2013,CSC 899 [01 ],0,0,To be announced
+1286,Fall 2013,CSC 899 [02 ],0,0,To be announced
+1287,Fall 2013,CSC 899 [03 ],0,0,To be announced
+1288,Fall 2013,CSC 857 [01 ],15,15,Rahul Singh
+1289,Fall 2013,CSC 867 [01 ],22,20,Jd Roberts
+1290,Fall 2013,CSC 875 [01 ],10,10,Marguerite Murphy
+1291,Fall 2013,CSC 890 [01 ],16,15,Hui Yang
+1292,Fall 2013,CSC 893 [01 ],4,30,Dragutin Petkovic
+1293,Fall 2013,CSC 895 [01 ],0,0,To be announced
+1294,Fall 2013,CSC 897 [01 ],0,0,Rahul Singh
+1295,Fall 2013,CSC 897 [02 ],1,0,Kazunori Okada
+1296,Fall 2013,CSC 897 [03 ],0,0,To be announced
+1297,Fall 2013,CSC 898 [01 ],0,0,To be announced
+1298,Fall 2013,CSC 899 [01 ],0,0,To be announced
+1299,Fall 2013,CSC 899 [02 ],0,0,To be announced
+1300,Fall 2013,CSC 899 [03 ],0,0,To be announced
+1301,Fall 2013,CSC 857 [01 ],15,15,Rahul Singh
+1302,Fall 2013,CSC 867 [01 ],22,20,Jd Roberts
+1303,Fall 2013,CSC 875 [01 ],10,10,Marguerite Murphy
+1304,Fall 2013,CSC 890 [01 ],16,15,Hui Yang
+1305,Fall 2013,CSC 893 [01 ],4,30,Dragutin Petkovic
+1306,Fall 2013,CSC 895 [01 ],0,0,To be announced
+1307,Fall 2013,CSC 897 [01 ],0,0,Rahul Singh
+1308,Fall 2013,CSC 897 [02 ],1,0,Kazunori Okada
+1309,Fall 2013,CSC 897 [03 ],0,0,To be announced
+1310,Fall 2013,CSC 898 [01 ],0,0,To be announced
+1311,Fall 2013,CSC 899 [01 ],0,0,To be announced
+1312,Fall 2013,CSC 899 [02 ],0,0,To be announced
+1313,Fall 2013,CSC 899 [03 ],0,0,To be announced
+1314,Spring 2014,CSC 210 [01 ],45,40,Anagha Kulkarni
+1315,Spring 2014,CSC 210 [02 ],61,60,Anagha Kulkarni
+1316,Spring 2014,CSC 210 [03 ],57,60,Ilmi Yoon
+1317,Spring 2014,CSC 210 [04 ],49,50,Arthur Vigil
+1318,Spring 2014,CSC 211 [01 ],41,40,Chin Wong
+1319,Spring 2014,CSC 220 [01 ],39,40,Chin Wong
+1320,Spring 2014,CSC 220 [02 ],42,40,Chin Wong
+1321,Spring 2014,CSC 220 [03 ],42,40,Arthur Vigil
+1322,Spring 2014,CSC 230 [01 ],53,50,Daniel Tomasevich
+1323,Spring 2014,CSC 230 [02 ],64,50,Daniel Tomasevich
+1324,Spring 2014,CSC 256 [01 ],64,70,Marc Sosnick
+1325,Spring 2014,CSC 256 [02 ],18,40,Marc Sosnick
+1326,Spring 2014,CSC 300GW [01 ],38,25,Daniel Tomasevich
+1327,Spring 2014,CSC 300GW [02 ],25,25,Daniel Tomasevich
+1328,Spring 2014,CSC 309 [01 ],37,40,Cassidy Kelly
+1329,Spring 2014,CSC 340 [01 ],64,60,Jozo Dujmovic
+1330,Spring 2014,CSC 340 [02 ],46,40,Hui Yang
+1331,Spring 2014,CSC 412 [01 ],27,40,Marc Sosnick
+1332,Spring 2014,CSC 412 [02 ],26,40,Marc Sosnick
+1333,Spring 2014,CSC 413 [01 ],40,50,Barry Levine
+1334,Spring 2014,CSC 413 [02 ],26,50,Barry Levine
+1335,Spring 2014,CSC 415 [01 ],50,60,Cassidy Kelly
+1336,Spring 2014,CSC 510 [01 ],43,40,Robert Wall
+1337,Spring 2014,CSC 520 [01 ],43,55,Robert Wall
+1338,Spring 2014,CSC 600 [01 ],43,40,Jozo Dujmovic
+1339,Spring 2014,CSC 631 [01 ],29,30,Ilmi Yoon
+1340,Spring 2014,CSC 640 [01 ],36,45,Marc Sosnick
+1341,Spring 2014,CSC 667 [01 ],25,25,Jd Roberts
+1342,Spring 2014,CSC 668 [01 ],24,25,Barry Levine
+1343,Spring 2014,CSC 693 [01 ],0,25,Dragutin Petkovic
+1344,Spring 2014,CSC 693 [01 ],0,25,Dragutin Petkovic
+1345,Spring 2014,CSC 694 [01 ],0,15,Dragutin Petkovic
+1346,Spring 2014,CSC 694 [01 ],0,15,Dragutin Petkovic
+1347,Spring 2014,CSC 694 [01 ],1,15,Dragutin Petkovic
+1348,Spring 2014,CSC 695 [01 ],9,25,Barry Levine
+1349,Spring 2014,CSC 699 [01 ],1,5,Dragutin Petkovic
+1350,Spring 2014,CSC 699 [01 ],0,5,To be announced
+1351,Spring 2014,CSC 730 [01 ],13,10,Marguerite Murphy
+1352,Spring 2014,CSC 746 [01 ],14,15,Marc Sosnick
+1353,Spring 2014,CSC 780 [01 ],20,20,Arno Puder
+1354,Spring 2014,CSC 810 [01 ],14,15,Chin Wong
+1355,Spring 2014,CSC 831 [01 ],6,10,Ilmi Yoon
+1356,Spring 2014,CSC 840 [01 ],9,10,Jozo Dujmovic
+1357,Spring 2014,CSC 848 [01 ],10,15,Marc Sosnick
+1358,Spring 2014,CSC 867 [01 ],5,5,Jd Roberts
+1359,Spring 2014,CSC 868 [01 ],14,15,Barry Levine
+1360,Spring 2014,CSC 869 [01 ],15,15,Hui Yang
+1361,Spring 2014,CSC 890 [01 ],7,10,Rahul Singh
+1362,Spring 2014,CSC 893 [01 ],3,35,Dragutin Petkovic
+1363,Spring 2014,CSC 895 [01 ],0,5,To be announced
+1364,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1365,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1366,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1367,Spring 2014,CSC 897 [01 ],1,5,Tsun-Yuk Hsu
+1368,Spring 2014,CSC 898 [01 ],0,5,To be announced
+1369,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1370,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1371,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1372,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1373,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1374,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1375,Spring 2014,CSC 897 [01 ],1,5,Tsun-Yuk Hsu
+1376,Spring 2014,CSC 898 [01 ],0,5,To be announced
+1377,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1378,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1379,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1380,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1381,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1382,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1383,Spring 2014,CSC 897 [01 ],1,5,Tsun-Yuk Hsu
+1384,Spring 2014,CSC 898 [01 ],0,5,To be announced
+1385,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1386,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1387,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1388,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1389,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1390,Spring 2014,CSC 897 [01 ],0,5,To be announced
+1391,Spring 2014,CSC 897 [01 ],1,5,Tsun-Yuk Hsu
+1392,Spring 2014,CSC 898 [01 ],0,5,To be announced
+1393,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1394,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1395,Spring 2014,CSC 899 [01 ],0,0,To be announced
+1396,Fall 2014,CSC 210 [01 ],67,70,$150.00 
+1397,Fall 2014,CSC 210 [02 ],69,70,$150.00 
+1398,Fall 2014,CSC 210 [03 ],67,70,Teague Sterling
+1399,Fall 2014,CSC 210 [04 ],67,70,Arthur Vigil
+1400,Fall 2014,CSC 210 [05 ],33,70,$150.00 
+1401,Fall 2014,CSC 211 [01 ],43,45,Chin Wong
+1402,Fall 2014,CSC 220 [01 ],32,40,$165.75 
+1403,Fall 2014,CSC 220 [02 ],44,45,$83.00 
+1404,Fall 2014,CSC 220 [03 ],44,40,$83.00 
+1405,Fall 2014,CSC 230 [01 ],57,50,$157.75 
+1406,Fall 2014,CSC 230 [02 ],45,45,$178.00 
+1407,Fall 2014,CSC 230 [03 ],34,50,$157.75 
+1408,Fall 2014,CSC 256 [01 ],46,45,$89.95 
+1409,Fall 2014,CSC 256 [02 ],55,60,$89.95 
+1410,Fall 2014,CSC 300GW [01 ],26,25,$117.25 
+1411,Fall 2014,CSC 300GW [02 ],26,25,$58.75 
+1412,Fall 2014,CSC 300GW [03 ],27,25,Daniel Tomasevich
+1413,Fall 2014,CSC 340 [01 ],61,60,$163.75 
+1414,Fall 2014,CSC 340 [02 ],41,40,$161.00 
+1415,Fall 2014,CSC 340 [03 ],39,40,Jozo Dujmovic
+1416,Fall 2014,CSC 412 [01 ],26,45,Anthony Souza
+1417,Fall 2014,CSC 412 [03 ],34,45,Anthony Souza
+1418,Fall 2014,CSC 413 [01 ],43,45,$37.75 
+1419,Fall 2014,CSC 413 [02 ],61,65,$39.99 
+1420,Fall 2014,CSC 415 [01 ],66,70,$52.00 
+1421,Fall 2014,CSC 510 [01 ],52,61,$182.95 
+1422,Fall 2014,CSC 510 [02 ],38,40,Robert Wall
+1423,Fall 2014,CSC 520 [01 ],64,66,$236.00 
+1424,Fall 2014,CSC 600 [01 ],21,45,$77.00 
+1425,Fall 2014,CSC 600 [02 ],20,60,$60.00 
+1426,Fall 2014,CSC 648 [01 ],20,45,Marc Sosnick
+1427,Fall 2014,CSC 650 [01 ],25,50,$79.99 
+1428,Fall 2014,CSC 667 [01 ],26,30,Jd Roberts
+1429,Fall 2014,CSC 675 [01 ],17,15,$215.50 
+1430,Fall 2014,CSC 690 [01 ],29,45,Tsun-Yuk Hsu
+1431,Fall 2014,CSC 694 [01 ],0,10,Dragutin Petkovic
+1432,Fall 2014,CSC 746 [01 ],13,45,$74.95 
+1433,Fall 2014,CSC 775 [01 ],11,10,$87.75 
+1434,Fall 2014,CSC 780 [01 ],19,20,Arno Puder
+1435,Fall 2014,CSC 810 [01 ],22,20,Chin Wong
+1436,Fall 2014,CSC 848 [01 ],14,25,Marc Sosnick
+1437,Fall 2014,CSC 849 [01 ],10,20,Anagha Kulkarni
+1438,Fall 2014,CSC 857 [01 ],8,15,Rahul Singh
+1439,Fall 2014,CSC 867 [01 ],7,20,Jd Roberts
+1440,Fall 2014,CSC 872 [01 ],26,20,$192.00 
+1441,Fall 2014,CSC 890 [01 ],14,15,$89.95 
+1442,Fall 2014,CSC 893 [01 ],0,10,Dragutin Petkovic
+1443,Fall 2014,CSC 895 [01 ],0,0,To be announced
+1444,Fall 2014,CSC 897 [01 ],0,0,To be announced
+1445,Fall 2014,CSC 898 [01 ],0,0,To be announced
+1446,Fall 2014,CSC 899 [03 ],0,0,To be announced
+1447,Fall 2014,CSC 899 [03 ],0,0,To be announced
+1448,Fall 2014,CSC 899 [03 ],0,0,To be announced
+1449,Fall 2014,CSC 899 [03 ],0,0,To be announced
+1450,Spring 2015,CSC 210 [01 ],49,40,Anthony Souza
+1451,Spring 2015,CSC 210 [02 ],43,40,Marc Sosnick
+1452,Spring 2015,CSC 210 [03 ],47,40,Anthony Souza
+1453,Spring 2015,CSC 210 [04 ],76,70,Teague Sterling
+1454,Spring 2015,CSC 211 [01 ],42,40,Chin Wong
+1455,Spring 2015,CSC 220 [01 ],63,75,Chin Wong
+1456,Spring 2015,CSC 220 [02 ],36,40,Chin Wong
+1457,Spring 2015,CSC 220 [03 ],42,75,Jonathan Olson
+1458,Spring 2015,CSC 230 [01 ],64,60,Daniel Tomasevich
+1459,Spring 2015,CSC 230 [02 ],59,60,Kazunori Okada
+1460,Spring 2015,CSC 256 [01 ],37,70,Marc Sosnick
+1461,Spring 2015,CSC 256 [02 ],42,40,Marc Sosnick
+1462,Spring 2015,CSC 300GW [01 ],25,25,Daniel Tomasevich
+1463,Spring 2015,CSC 300GW [02 ],25,25,Daniel Tomasevich
+1464,Spring 2015,CSC 300GW [03 ],25,25,Daniel Tomasevich
+1465,Spring 2015,CSC 300GW [04 ],25,25,Daniel Tomasevich
+1466,Spring 2015,CSC 309 [01 ],37,40,Ryan Eshleman
+1467,Spring 2015,CSC 340 [01 ],61,60,Hui Yang
+1468,Spring 2015,CSC 340 [02 ],64,60,Hui Yang
+1469,Spring 2015,CSC 340 [03 ],27,60,Jd Roberts
+1470,Spring 2015,CSC 412 [01 ],41,40,Anthony Souza
+1471,Spring 2015,CSC 412 [02 ],39,40,Anthony Souza
+1472,Spring 2015,CSC 412 [03 ],43,40,Anthony Souza
+1473,Spring 2015,CSC 413 [01 ],39,45,Ilmi Yoon
+1474,Spring 2015,CSC 413 [02 ],12,70,Barry Levine
+1475,Spring 2015,CSC 413 [03 ],70,70,Marc Sosnick
+1476,Spring 2015,CSC 415 [01 ],64,70,Cassidy Kelly
+1477,Spring 2015,CSC 415 [02 ],24,40,Cassidy Kelly
+1478,Spring 2015,CSC 510 [01 ],62,65,Robert Wall
+1479,Spring 2015,CSC 510 [03 ],18,40,Robert Wall
+1480,Spring 2015,CSC 520 [01 ],66,65,Marc Sosnick
+1481,Spring 2015,CSC 600 [01 ],62,60,Jd Roberts
+1482,Spring 2015,CSC 621 [01 ],27,25,Kazunori Okada
+1483,Spring 2015,CSC 631 [01 ],24,25,Ilmi Yoon
+1484,Spring 2015,CSC 648 [01 ],54,45,Marc Sosnick
+1485,Spring 2015,CSC 656 [01 ],35,70,Tsun-Yuk Hsu
+1486,Spring 2015,CSC 668 [01 ],16,25,Barry Levine
+1487,Spring 2015,CSC 690 [01 ],25,20,Tsun-Yuk Hsu
+1488,Spring 2015,CSC 694 [01 ],0,15,Dragutin Petkovic
+1489,Spring 2015,CSC 699 [01 ],0,15,To be announced
+1490,Spring 2015,CSC 720 [01 ],17,20,Arno Puder
+1491,Spring 2015,CSC 810 [01 ],20,20,Chin Wong
+1492,Spring 2015,CSC 821 [01 ],12,15,Kazunori Okada
+1493,Spring 2015,CSC 831 [01 ],13,15,Ilmi Yoon
+1494,Spring 2015,CSC 848 [01 ],12,15,Marc Sosnick
+1495,Spring 2015,CSC 868 [01 ],13,15,Barry Levine
+1496,Spring 2015,CSC 869 [01 ],13,15,Hui Yang
+1497,Spring 2015,CSC 890 [01 ],5,15,Rahul Singh
+1498,Spring 2015,CSC 890 [02 ],13,15,Barry Levine
+1499,Spring 2015,CSC 893 [01 ],1,15,Dragutin Petkovic
+1500,Spring 2015,CSC 895 [01 ],0,5,To be announced
+1501,Spring 2015,CSC 897 [01 ],0,5,To be announced
+1502,Spring 2015,CSC 898 [01 ],0,5,To be announced
+1503,Spring 2015,CSC 899 [01 ],0,10,To be announced
+1504,Spring 2015,CSC 895 [01 ],0,5,To be announced
+1505,Spring 2015,CSC 897 [01 ],0,5,To be announced
+1506,Spring 2015,CSC 898 [01 ],0,5,To be announced
+1507,Spring 2015,CSC 899 [01 ],0,10,To be announced
+1508,Spring 2015,CSC 895 [01 ],0,5,To be announced
+1509,Spring 2015,CSC 897 [01 ],0,5,To be announced
+1510,Spring 2015,CSC 898 [01 ],0,5,To be announced
+1511,Spring 2015,CSC 899 [01 ],0,10,To be announced
+1512,Spring 2015,CSC 895 [01 ],0,5,To be announced
+1513,Spring 2015,CSC 897 [01 ],0,5,To be announced
+1514,Spring 2015,CSC 898 [01 ],0,5,To be announced
+1515,Spring 2015,CSC 899 [01 ],0,10,To be announced
+1516,Fall 2015,CSC 210 [01 ],77,70,Anthony Souza
+1517,Fall 2015,CSC 210 [02 ],77,70,Anthony Souza
+1518,Fall 2015,CSC 210 [03 ],64,70,Lowell Milliken
+1519,Fall 2015,CSC 210 [04 ],79,70,Benjamin Saylor
+1520,Fall 2015,CSC 211 [01 ],41,40,Chin Wong
+1521,Fall 2015,CSC 220 [01 ],44,40,Chin Wong
+1522,Fall 2015,CSC 220 [02 ],44,40,Chin Wong
+1523,Fall 2015,CSC 220 [03 ],55,55,Denzil Sikka
+1524,Fall 2015,CSC 230 [01 ],43,40,Kazunori Okada
+1525,Fall 2015,CSC 230 [02 ],41,40,Kazunori Okada
+1526,Fall 2015,CSC 230 [03 ],43,49,Daniel Tomasevich
+1527,Fall 2015,CSC 256 [01 ],67,70,Marc Sosnick
+1528,Fall 2015,CSC 256 [02 ],47,70,Marc Sosnick
+1529,Fall 2015,CSC 300GW [01 ],25,25,Daniel Tomasevich
+1530,Fall 2015,CSC 300GW [02 ],24,25,Daniel Tomasevich
+1531,Fall 2015,CSC 300GW [03 ],25,25,Daniel Tomasevich
+1532,Fall 2015,CSC 300GW [04 ],25,25,Daniel Tomasevich
+1533,Fall 2015,CSC 340 [01 ],75,60,Jonathan Potter
+1534,Fall 2015,CSC 340 [02 ],58,55,Jd Roberts
+1535,Fall 2015,CSC 412 [01 ],35,40,Anthony Souza
+1536,Fall 2015,CSC 412 [02 ],23,40,Anthony Souza
+1537,Fall 2015,CSC 412 [03 ],47,40,Anthony Souza
+1538,Fall 2015,CSC 413 [01 ],14,40,Ilmi Yoon
+1539,Fall 2015,CSC 413 [02 ],26,55,Ilmi Yoon
+1540,Fall 2015,CSC 413 [03 ],67,70,Marc Sosnick
+1541,Fall 2015,CSC 415 [01 ],53,55,Hao Yue
+1542,Fall 2015,CSC 415 [02 ],40,40,Jonathan Potter
+1543,Fall 2015,CSC 510 [01 ],45,40,Robert Wall
+1544,Fall 2015,CSC 510 [02 ],53,55,Robert Wall
+1545,Fall 2015,CSC 520 [01 ],64,55,Marc Sosnick
+1546,Fall 2015,CSC 520 [02 ],34,55,Matthew Pico
+1547,Fall 2015,CSC 600 [01 ],41,40,Jozo Dujmovic
+1548,Fall 2015,CSC 600 [02 ],54,55,Jozo Dujmovic
+1549,Fall 2015,CSC 641 [01 ],12,20,Jozo Dujmovic
+1550,Fall 2015,CSC 648 [01 ],37,25,Marc Sosnick
+1551,Fall 2015,CSC 648 [02 ],23,25,Marc Sosnick
+1552,Fall 2015,CSC 650 [01 ],48,50,Hao Yue
+1553,Fall 2015,CSC 667 [01 ],47,30,Jd Roberts
+1554,Fall 2015,CSC 675 [01 ],38,20,Anagha Kulkarni
+1555,Fall 2015,CSC 675 [02 ],17,20,Courtney Brown
+1556,Fall 2015,CSC 693 [01 ],0,10,To be announced
+1557,Fall 2015,CSC 694 [01 ],0,36,To be announced
+1558,Fall 2015,CSC 699 [01 ],0,15,To be announced
+1559,Fall 2015,CSC 720 [01 ],17,20,Oum-El-Kheir Benkahla
+1560,Fall 2015,CSC 746 [01 ],14,20,Tsun-Yuk Hsu
+1561,Fall 2015,CSC 775 [01 ],6,15,Anagha Kulkarni
+1562,Fall 2015,CSC 775 [02 ],6,15,Courtney Brown
+1563,Fall 2015,CSC 780 [01 ],21,19,Arno Puder
+1564,Fall 2015,CSC 810 [01 ],29,20,Chin Wong
+1565,Fall 2015,CSC 841 [01 ],1,15,Jozo Dujmovic
+1566,Fall 2015,CSC 848 [01 ],12,15,Marc Sosnick
+1567,Fall 2015,CSC 848 [02 ],15,15,Marc Sosnick
+1568,Fall 2015,CSC 849 [01 ],6,20,Anagha Kulkarni
+1569,Fall 2015,CSC 857 [01 ],8,15,Rahul Singh
+1570,Fall 2015,CSC 867 [01 ],21,20,Jd Roberts
+1571,Fall 2015,CSC 872 [01 ],23,20,Kazunori Okada
+1572,Fall 2015,CSC 893 [01 ],1,10,Dragutin Petkovic
+1573,Fall 2015,CSC 895 [01 ],0,0,To be announced
+1574,Fall 2015,CSC 897 [01 ],0,24,To be announced
+1575,Fall 2015,CSC 898 [01 ],0,0,To be announced
+1576,Fall 2015,CSC 899 [01 ],0,15,To be announced
+1577,Fall 2015,CSC 848 [01 ],12,15,Marc Sosnick
+1578,Fall 2015,CSC 848 [02 ],15,15,Marc Sosnick
+1579,Fall 2015,CSC 849 [01 ],6,20,Anagha Kulkarni
+1580,Fall 2015,CSC 857 [01 ],8,15,Rahul Singh
+1581,Fall 2015,CSC 867 [01 ],21,20,Jd Roberts
+1582,Fall 2015,CSC 872 [01 ],23,20,Kazunori Okada
+1583,Fall 2015,CSC 893 [01 ],1,10,Dragutin Petkovic
+1584,Fall 2015,CSC 895 [01 ],0,0,To be announced
+1585,Fall 2015,CSC 897 [01 ],0,24,To be announced
+1586,Fall 2015,CSC 898 [01 ],0,0,To be announced
+1587,Fall 2015,CSC 899 [01 ],0,15,To be announced
+1588,Fall 2015,CSC 848 [01 ],12,15,Marc Sosnick
+1589,Fall 2015,CSC 848 [02 ],15,15,Marc Sosnick
+1590,Fall 2015,CSC 849 [01 ],6,20,Anagha Kulkarni
+1591,Fall 2015,CSC 857 [01 ],8,15,Rahul Singh
+1592,Fall 2015,CSC 867 [01 ],21,20,Jd Roberts
+1593,Fall 2015,CSC 872 [01 ],23,20,Kazunori Okada
+1594,Fall 2015,CSC 893 [01 ],1,10,Dragutin Petkovic
+1595,Fall 2015,CSC 895 [01 ],0,0,To be announced
+1596,Fall 2015,CSC 897 [01 ],0,24,To be announced
+1597,Fall 2015,CSC 898 [01 ],0,0,To be announced
+1598,Fall 2015,CSC 899 [01 ],0,15,To be announced
+1599,Fall 2015,CSC 848 [01 ],12,15,Marc Sosnick
+1600,Fall 2015,CSC 848 [02 ],15,15,Marc Sosnick
+1601,Fall 2015,CSC 849 [01 ],6,20,Anagha Kulkarni
+1602,Fall 2015,CSC 857 [01 ],8,15,Rahul Singh
+1603,Fall 2015,CSC 867 [01 ],21,20,Jd Roberts
+1604,Fall 2015,CSC 872 [01 ],23,20,Kazunori Okada
+1605,Fall 2015,CSC 893 [01 ],1,10,Dragutin Petkovic
+1606,Fall 2015,CSC 895 [01 ],0,0,To be announced
+1607,Fall 2015,CSC 897 [01 ],0,24,To be announced
+1608,Fall 2015,CSC 898 [01 ],0,0,To be announced
+1609,Fall 2015,CSC 899 [01 ],0,15,To be announced
+1610,Spring 2016,CSC 210 [01 ],65,55,Anagha Kulkarni
+1611,Spring 2016,CSC 210 [02 ],69,60,Anthony Souza
+1612,Spring 2016,CSC 210 [03 ],71,60,Anthony Souza
+1613,Spring 2016,CSC 210 [04 ],59,55,Lowell Milliken
+1614,Spring 2016,CSC 210 [05 ],57,55,Benjamin Saylor
+1615,Spring 2016,CSC 211 [01 ],38,40,Chin Wong
+1616,Spring 2016,CSC 220 [01 ],40,40,Chin Wong
+1617,Spring 2016,CSC 220 [02 ],38,40,Chin Wong
+1618,Spring 2016,CSC 220 [03 ],56,55,Veronica Yuen
+1619,Spring 2016,CSC 220 [04 ],23,40,Jie Dong
+1620,Spring 2016,CSC 230 [01 ],38,40,Kazunori Okada
+1621,Spring 2016,CSC 230 [02 ],34,40,Kazunori Okada
+1622,Spring 2016,CSC 230 [03 ],53,55,Daniel Tomasevich
+1623,Spring 2016,CSC 256 [01 ],39,40,Marc Sosnick
+1624,Spring 2016,CSC 256 [02 ],49,55,Marc Sosnick
+1625,Spring 2016,CSC 300GW [01 ],24,25,Daniel Tomasevich
+1626,Spring 2016,CSC 300GW [02 ],25,25,Daniel Tomasevich
+1627,Spring 2016,CSC 300GW [03 ],25,25,Daniel Tomasevich
+1628,Spring 2016,CSC 300GW [04 ],25,25,Daniel Tomasevich
+1629,Spring 2016,CSC 309 [01 ],30,55,Andrew Scott
+1630,Spring 2016,CSC 340 [01 ],61,55,Jonathan Potter
+1631,Spring 2016,CSC 340 [02 ],34,55,Jd Roberts
+1632,Spring 2016,CSC 340 [03 ],54,55,Omar Shaikh
+1633,Spring 2016,CSC 412 [01 ],33,40,Anthony Souza
+1634,Spring 2016,CSC 412 [02 ],40,40,Anthony Souza
+1635,Spring 2016,CSC 412 [03 ],43,40,Anthony Souza
+1636,Spring 2016,CSC 413 [01 ],42,40,Ilmi Yoon
+1637,Spring 2016,CSC 413 [02 ],21,40,Barry Levine
+1638,Spring 2016,CSC 413 [03 ],51,55,Marc Sosnick
+1639,Spring 2016,CSC 415 [01 ],58,50,John Baldwin
+1640,Spring 2016,CSC 415 [02 ],46,50,Michael Fuhrman
+1641,Spring 2016,CSC 510 [01 ],45,40,Robert Wall
+1642,Spring 2016,CSC 510 [02 ],68,55,Robert Wall
+1643,Spring 2016,CSC 520 [01 ],66,55,Matthew Pico
+1644,Spring 2016,CSC 600 [01 ],40,55,Jozo Dujmovic
+1645,Spring 2016,CSC 600 [02 ],41,40,Jozo Dujmovic
+1646,Spring 2016,CSC 621 [01 ],18,25,Kazunori Okada
+1647,Spring 2016,CSC 631 [01 ],27,25,Ilmi Yoon
+1648,Spring 2016,CSC 645 [01 ],25,25,Hao Yue
+1649,Spring 2016,CSC 648 [01 ],48,40,Marc Sosnick
+1650,Spring 2016,CSC 650 [01 ],36,50,Hao Yue
+1651,Spring 2016,CSC 656 [01 ],39,50,Tsun-Yuk Hsu
+1652,Spring 2016,CSC 667 [01 ],37,30,Jd Roberts
+1653,Spring 2016,CSC 668 [01 ],26,35,Barry Levine
+1654,Spring 2016,CSC 675 [01 ],33,30,Anagha Kulkarni
+1655,Spring 2016,CSC 675 [02 ],28,20,JoAnne Strickland
+1656,Spring 2016,CSC 694 [01 ],1,15,Tsun-Yuk Hsu
+1657,Spring 2016,CSC 699 [01 ],0,15,To be announced
+1658,Spring 2016,CSC 720 [01 ],30,20,Arno Puder
+1659,Spring 2016,CSC 745 [01 ],9,15,Hao Yue
+1660,Spring 2016,CSC 775 [01 ],8,10,Anagha Kulkarni
+1661,Spring 2016,CSC 775 [02 ],15,15,JoAnne Strickland
+1662,Spring 2016,CSC 810 [01 ],12,20,Chin Wong
+1663,Spring 2016,CSC 821 [01 ],11,15,Kazunori Okada
+1664,Spring 2016,CSC 831 [01 ],9,15,Ilmi Yoon
+1665,Spring 2016,CSC 840 [01 ],9,20,Jozo Dujmovic
+1666,Spring 2016,CSC 848 [01 ],9,15,Marc Sosnick
+1667,Spring 2016,CSC 867 [01 ],4,10,Jd Roberts
+1668,Spring 2016,CSC 868 [01 ],21,20,Barry Levine
+1669,Spring 2016,CSC 890 [01 ],8,40,Rahul Singh
+1670,Spring 2016,CSC 890 [02 ],6,20,Barry Levine
+1671,Spring 2016,CSC 893 [01 ],0,15,To be announced
+1672,Spring 2016,CSC 895 [01 ],0,5,To be announced
+1673,Spring 2016,CSC 897 [01 ],0,5,To be announced
+1674,Spring 2016,CSC 898 [01 ],0,5,To be announced
+1675,Spring 2016,CSC 899 [01 ],0,10,To be announced
+1676,Spring 2016,CSC 775 [01 ],8,10,Anagha Kulkarni
+1677,Spring 2016,CSC 775 [02 ],15,15,JoAnne Strickland
+1678,Spring 2016,CSC 810 [01 ],12,20,Chin Wong
+1679,Spring 2016,CSC 821 [01 ],11,15,Kazunori Okada
+1680,Spring 2016,CSC 831 [01 ],9,15,Ilmi Yoon
+1681,Spring 2016,CSC 840 [01 ],9,20,Jozo Dujmovic
+1682,Spring 2016,CSC 848 [01 ],9,15,Marc Sosnick
+1683,Spring 2016,CSC 867 [01 ],4,10,Jd Roberts
+1684,Spring 2016,CSC 868 [01 ],21,20,Barry Levine
+1685,Spring 2016,CSC 890 [01 ],8,40,Rahul Singh
+1686,Spring 2016,CSC 890 [02 ],6,20,Barry Levine
+1687,Spring 2016,CSC 893 [01 ],0,15,To be announced
+1688,Spring 2016,CSC 895 [01 ],0,5,To be announced
+1689,Spring 2016,CSC 897 [01 ],0,5,To be announced
+1690,Spring 2016,CSC 898 [01 ],0,5,To be announced
+1691,Spring 2016,CSC 899 [01 ],0,10,To be announced
+1692,Spring 2016,CSC 775 [01 ],8,10,Anagha Kulkarni
+1693,Spring 2016,CSC 775 [02 ],15,15,JoAnne Strickland
+1694,Spring 2016,CSC 810 [01 ],12,20,Chin Wong
+1695,Spring 2016,CSC 821 [01 ],11,15,Kazunori Okada
+1696,Spring 2016,CSC 831 [01 ],9,15,Ilmi Yoon
+1697,Spring 2016,CSC 840 [01 ],9,20,Jozo Dujmovic
+1698,Spring 2016,CSC 848 [01 ],9,15,Marc Sosnick
+1699,Spring 2016,CSC 867 [01 ],4,10,Jd Roberts
+1700,Spring 2016,CSC 868 [01 ],21,20,Barry Levine
+1701,Spring 2016,CSC 890 [01 ],8,40,Rahul Singh
+1702,Spring 2016,CSC 890 [02 ],6,20,Barry Levine
+1703,Spring 2016,CSC 893 [01 ],0,15,To be announced
+1704,Spring 2016,CSC 895 [01 ],0,5,To be announced
+1705,Spring 2016,CSC 897 [01 ],0,5,To be announced
+1706,Spring 2016,CSC 898 [01 ],0,5,To be announced
+1707,Spring 2016,CSC 899 [01 ],0,10,To be announced
+1708,Spring 2016,CSC 775 [01 ],8,10,Anagha Kulkarni
+1709,Spring 2016,CSC 775 [02 ],15,15,JoAnne Strickland
+1710,Spring 2016,CSC 810 [01 ],12,20,Chin Wong
+1711,Spring 2016,CSC 821 [01 ],11,15,Kazunori Okada
+1712,Spring 2016,CSC 831 [01 ],9,15,Ilmi Yoon
+1713,Spring 2016,CSC 840 [01 ],9,20,Jozo Dujmovic
+1714,Spring 2016,CSC 848 [01 ],9,15,Marc Sosnick
+1715,Spring 2016,CSC 867 [01 ],4,10,Jd Roberts
+1716,Spring 2016,CSC 868 [01 ],21,20,Barry Levine
+1717,Spring 2016,CSC 890 [01 ],8,40,Rahul Singh
+1718,Spring 2016,CSC 890 [02 ],6,20,Barry Levine
+1719,Spring 2016,CSC 893 [01 ],0,15,To be announced
+1720,Spring 2016,CSC 895 [01 ],0,5,To be announced
+1721,Spring 2016,CSC 897 [01 ],0,5,To be announced
+1722,Spring 2016,CSC 898 [01 ],0,5,To be announced
+1723,Spring 2016,CSC 899 [01 ],0,10,To be announced
+1724,Fall 2017,CSC 210 [01 ],70,50,Duc Ta
+1725,Fall 2017,CSC 210 [02 ],58,50,Yordanos Mogos
+1726,Fall 2017,CSC 210 [03 ],68,50,Trevor Gokey
+1727,Fall 2017,CSC 210 [04 ],49,50,Christopher Erwin
+1728,Fall 2017,CSC 211 [01 ],31,40,Chin Wong
+1729,Fall 2017,CSC 220 [01 ],45,40,Chin Wong
+1730,Fall 2017,CSC 220 [02 ],43,40,Chin Wong
+1731,Fall 2017,CSC 220 [03 ],49,45,Duc Ta
+1732,Fall 2017,CSC 220 [04 ],51,50,Premdeep Amudala
+1733,Fall 2017,CSC 230 [01 ],52,45,Kazunori Okada
+1734,Fall 2017,CSC 230 [02 ],47,40,Kazunori Okada
+1735,Fall 2017,CSC 230 [03 ],42,40,Daniel Tomasevich
+1736,Fall 2017,CSC 256 [01 ],59,60,Premdeep Amudala
+1737,Fall 2017,CSC 256 [02 ],61,60,Premdeep Amudala
+1738,Fall 2017,CSC 300GW [01 ],31,25,Daniel Tomasevich
+1739,Fall 2017,CSC 300GW [02 ],30,25,Daniel Tomasevich
+1740,Fall 2017,CSC 300GW [03 ],30,25,Daniel Tomasevich
+1741,Fall 2017,CSC 300GW [04 ],29,25,Daniel Tomasevich
+1742,Fall 2017,CSC 340 [01 ],44,45,Hui Yang
+1743,Fall 2017,CSC 340 [02 ],44,45,Hui Yang
+1744,Fall 2017,CSC 340 [03 ],51,50,Brook Thomas
+1745,Fall 2017,CSC 340 [04 ],56,40,Brook Thomas
+1746,Fall 2017,CSC 340 [05 ],39,50,Premdeep Amudala
+1747,Fall 2017,CSC 412 [01 ],43,40,Tsun-Yuk Hsu
+1748,Fall 2017,CSC 412 [02 ],45,40,Tsun-Yuk Hsu
+1749,Fall 2017,CSC 412 [03 ],43,40,Tsun-Yuk Hsu
+1750,Fall 2017,CSC 412 [04 ],44,40,Tsun-Yuk Hsu
+1751,Fall 2017,CSC 413 [01 ],38,40,Anthony Souza
+1752,Fall 2017,CSC 413 [02 ],46,45,Anthony Souza
+1753,Fall 2017,CSC 413 [03 ],18,45,Jd Roberts
+1754,Fall 2017,CSC 413 [04 ],30,45,Brian Parra
+1755,Fall 2017,CSC 415 [01 ],41,50,Hao Yue
+1756,Fall 2017,CSC 415 [02 ],53,50,Anthony Souza
+1757,Fall 2017,CSC 510 [01 ],38,45,Robert Wall
+1758,Fall 2017,CSC 510 [02 ],47,60,Robert Wall
+1759,Fall 2017,CSC 510 [03 ],11,40,Trevor Gokey
+1760,Fall 2017,CSC 520 [01 ],59,60,Matthew Pico
+1761,Fall 2017,CSC 600 [01 ],33,40,Jozo Dujmovic
+1762,Fall 2017,CSC 600 [02 ],43,60,Jozo Dujmovic
+1763,Fall 2017,CSC 600 [03 ],43,40,Anthony Souza
+1764,Fall 2017,CSC 641 [01 ],27,30,Jozo Dujmovic
+1765,Fall 2017,CSC 645 [01 ],29,35,Hao Yue
+1766,Fall 2017,CSC 648 [01 ],35,35,Anthony Souza
+1767,Fall 2017,CSC 648 [02 ],41,35,Anthony Souza
+1768,Fall 2017,CSC 667 [01 ],40,45,Jd Roberts
+1769,Fall 2017,CSC 675 [01 ],46,40,Anagha Kulkarni
+1770,Fall 2017,CSC 675 [02 ],38,40,Maryam Hasan
+1771,Fall 2017,CSC 690 [01 ],32,50,Tsun-Yuk Hsu
+1772,Fall 2017,CSC 694 [01 ],0,36,To be announced
+1773,Fall 2017,CSC 699 [01 ],0,15,To be announced
+1774,Fall 2017,CSC 720 [01 ],12,20,Arno Puder
+1775,Fall 2017,CSC 745 [01 ],7,10,Hao Yue
+1776,Fall 2017,CSC 775 [01 ],5,10,Anagha Kulkarni
+1777,Fall 2017,CSC 775 [02 ],1,10,Maryam Hasan
+1778,Fall 2017,CSC 780 [01 ],13,20,Christopher Kriese
+1779,Fall 2017,CSC 810 [01 ],29,40,Chin Wong
+1780,Fall 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+1781,Fall 2017,CSC 848 [01 ],3,5,Anthony Souza
+1782,Fall 2017,CSC 848 [02 ],7,10,Anthony Souza
+1783,Fall 2017,CSC 857 [01 ],6,20,Rahul Singh
+1784,Fall 2017,CSC 867 [01 ],12,10,Jd Roberts
+1785,Fall 2017,CSC 872 [01 ],19,20,Kazunori Okada
+1786,Fall 2017,CSC 877 [01 ],8,20,Rahul Singh
+1787,Fall 2017,CSC 890 [01 ],13,20,Hui Yang
+1788,Fall 2017,CSC 893 [01 ],0,10,To be announced
+1789,Fall 2017,CSC 895 [01 ],0,0,To be announced
+1790,Fall 2017,CSC 897 [01 ],0,24,To be announced
+1791,Fall 2017,CSC 898 [01 ],0,0,To be announced
+1792,Fall 2017,CSC 899 [01 ],0,15,To be announced
+1793,Fall 2017,CSC 720 [01 ],12,20,Arno Puder
+1794,Fall 2017,CSC 745 [01 ],7,10,Hao Yue
+1795,Fall 2017,CSC 775 [01 ],5,10,Anagha Kulkarni
+1796,Fall 2017,CSC 775 [02 ],1,10,Maryam Hasan
+1797,Fall 2017,CSC 780 [01 ],13,20,Christopher Kriese
+1798,Fall 2017,CSC 810 [01 ],29,40,Chin Wong
+1799,Fall 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+1800,Fall 2017,CSC 848 [01 ],3,5,Anthony Souza
+1801,Fall 2017,CSC 848 [02 ],7,10,Anthony Souza
+1802,Fall 2017,CSC 857 [01 ],6,20,Rahul Singh
+1803,Fall 2017,CSC 867 [01 ],12,10,Jd Roberts
+1804,Fall 2017,CSC 872 [01 ],19,20,Kazunori Okada
+1805,Fall 2017,CSC 877 [01 ],8,20,Rahul Singh
+1806,Fall 2017,CSC 890 [01 ],13,20,Hui Yang
+1807,Fall 2017,CSC 893 [01 ],0,10,To be announced
+1808,Fall 2017,CSC 895 [01 ],0,0,To be announced
+1809,Fall 2017,CSC 897 [01 ],0,24,To be announced
+1810,Fall 2017,CSC 898 [01 ],0,0,To be announced
+1811,Fall 2017,CSC 899 [01 ],0,15,To be announced
+1812,Fall 2017,CSC 720 [01 ],12,20,Arno Puder
+1813,Fall 2017,CSC 745 [01 ],7,10,Hao Yue
+1814,Fall 2017,CSC 775 [01 ],5,10,Anagha Kulkarni
+1815,Fall 2017,CSC 775 [02 ],1,10,Maryam Hasan
+1816,Fall 2017,CSC 780 [01 ],13,20,Christopher Kriese
+1817,Fall 2017,CSC 810 [01 ],29,40,Chin Wong
+1818,Fall 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+1819,Fall 2017,CSC 848 [01 ],3,5,Anthony Souza
+1820,Fall 2017,CSC 848 [02 ],7,10,Anthony Souza
+1821,Fall 2017,CSC 857 [01 ],6,20,Rahul Singh
+1822,Fall 2017,CSC 867 [01 ],12,10,Jd Roberts
+1823,Fall 2017,CSC 872 [01 ],19,20,Kazunori Okada
+1824,Fall 2017,CSC 877 [01 ],8,20,Rahul Singh
+1825,Fall 2017,CSC 890 [01 ],13,20,Hui Yang
+1826,Fall 2017,CSC 893 [01 ],0,10,To be announced
+1827,Fall 2017,CSC 895 [01 ],0,0,To be announced
+1828,Fall 2017,CSC 897 [01 ],0,24,To be announced
+1829,Fall 2017,CSC 898 [01 ],0,0,To be announced
+1830,Fall 2017,CSC 899 [01 ],0,15,To be announced
+1831,Fall 2017,CSC 720 [01 ],12,20,Arno Puder
+1832,Fall 2017,CSC 745 [01 ],7,10,Hao Yue
+1833,Fall 2017,CSC 775 [01 ],5,10,Anagha Kulkarni
+1834,Fall 2017,CSC 775 [02 ],1,10,Maryam Hasan
+1835,Fall 2017,CSC 780 [01 ],13,20,Christopher Kriese
+1836,Fall 2017,CSC 810 [01 ],29,40,Chin Wong
+1837,Fall 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+1838,Fall 2017,CSC 848 [01 ],3,5,Anthony Souza
+1839,Fall 2017,CSC 848 [02 ],7,10,Anthony Souza
+1840,Fall 2017,CSC 857 [01 ],6,20,Rahul Singh
+1841,Fall 2017,CSC 867 [01 ],12,10,Jd Roberts
+1842,Fall 2017,CSC 872 [01 ],19,20,Kazunori Okada
+1843,Fall 2017,CSC 877 [01 ],8,20,Rahul Singh
+1844,Fall 2017,CSC 890 [01 ],13,20,Hui Yang
+1845,Fall 2017,CSC 893 [01 ],0,10,To be announced
+1846,Fall 2017,CSC 895 [01 ],0,0,To be announced
+1847,Fall 2017,CSC 897 [01 ],0,24,To be announced
+1848,Fall 2017,CSC 898 [01 ],0,0,To be announced
+1849,Fall 2017,CSC 899 [01 ],0,15,To be announced
+1850,Spring 2017,CSC 210 [01 ],56,50,Veronica Yuen
+1851,Spring 2017,CSC 210 [02 ],59,60,Rajani Shivaraj Maski
+1852,Spring 2017,CSC 210 [03 ],50,50,Tyler Westerman
+1853,Spring 2017,CSC 210 [04 ],57,55,Paul Sladek
+1854,Spring 2017,CSC 210 [05 ],58,55,Shivam Daryanani
+1855,Spring 2017,CSC 211 [01 ],40,40,Chin Wong
+1856,Spring 2017,CSC 220 [01 ],40,40,Chin Wong
+1857,Spring 2017,CSC 220 [02 ],41,40,Chin Wong
+1858,Spring 2017,CSC 220 [03 ],52,50,Chin Wong
+1859,Spring 2017,CSC 220 [05 ],36,40,Juris Puchin
+1860,Spring 2017,CSC 230 [01 ],47,45,Katherine Fotion
+1861,Spring 2017,CSC 230 [02 ],45,45,Daniel Tomasevich
+1862,Spring 2017,CSC 230 [03 ],49,50,Ulf Wostner
+1863,Spring 2017,CSC 230 [04 ],53,45,Joshua Rhodes
+1864,Spring 2017,CSC 256 [01 ],65,55,Anthony Souza
+1865,Spring 2017,CSC 256 [02 ],66,55,Anthony Souza
+1866,Spring 2017,CSC 300GW [01 ],28,25,Daniel Tomasevich
+1867,Spring 2017,CSC 300GW [02 ],29,25,Daniel Tomasevich
+1868,Spring 2017,CSC 300GW [03 ],28,25,Daniel Tomasevich
+1869,Spring 2017,CSC 300GW [04 ],28,25,Daniel Tomasevich
+1870,Spring 2017,CSC 309 [01 ],47,55,Andrew Scott
+1871,Spring 2017,CSC 340 [01 ],44,45,Hui Yang
+1872,Spring 2017,CSC 340 [02 ],44,45,Hui Yang
+1873,Spring 2017,CSC 340 [03 ],40,40,Omar Shaikh
+1874,Spring 2017,CSC 340 [05 ],38,50,Premdeep Amudala
+1875,Spring 2017,CSC 412 [01 ],41,40,Tsun-Yuk Hsu
+1876,Spring 2017,CSC 412 [02 ],40,40,Tsun-Yuk Hsu
+1877,Spring 2017,CSC 412 [03 ],39,40,Tsun-Yuk Hsu
+1878,Spring 2017,CSC 413 [01 ],22,40,Barry Levine
+1879,Spring 2017,CSC 413 [02 ],24,40,Barry Levine
+1880,Spring 2017,CSC 413 [03 ],50,55,Jd Roberts
+1881,Spring 2017,CSC 415 [01 ],49,50,John Baldwin
+1882,Spring 2017,CSC 415 [03 ],47,45,Omar Shaikh
+1883,Spring 2017,CSC 510 [01 ],45,40,Robert Wall
+1884,Spring 2017,CSC 510 [02 ],46,45,Robert Wall
+1885,Spring 2017,CSC 510 [03 ],14,40,Rahul Singh
+1886,Spring 2017,CSC 520 [01 ],56,50,Matthew Pico
+1887,Spring 2017,CSC 600 [01 ],39,40,Jozo Dujmovic
+1888,Spring 2017,CSC 600 [02 ],66,50,Jozo Dujmovic
+1889,Spring 2017,CSC 621 [01 ],19,20,Kazunori Okada
+1890,Spring 2017,CSC 631 [01 ],43,35,Omar Shaikh
+1891,Spring 2017,CSC 641 [01 ],13,30,Jozo Dujmovic
+1892,Spring 2017,CSC 645 [01 ],35,40,Hao Yue
+1893,Spring 2017,CSC 648 [01 ],44,35,Anthony Souza
+1894,Spring 2017,CSC 648 [02 ],35,35,Anthony Souza
+1895,Spring 2017,CSC 650 [01 ],41,50,Hao Yue
+1896,Spring 2017,CSC 656 [01 ],41,50,Tsun-Yuk Hsu
+1897,Spring 2017,CSC 667 [01 ],45,55,Jd Roberts
+1898,Spring 2017,CSC 668 [01 ],22,30,Barry Levine
+1899,Spring 2017,CSC 675 [01 ],43,40,Anagha Kulkarni
+1900,Spring 2017,CSC 675 [02 ],41,40,Maryam Hasan
+1901,Spring 2017,CSC 694 [01 ],1,15,Dragutin Petkovic
+1902,Spring 2017,CSC 699 [01 ],0,15,To be announced
+1903,Spring 2017,CSC 720 [01 ],10,20,Arno Puder
+1904,Spring 2017,CSC 745 [01 ],9,10,Hao Yue
+1905,Spring 2017,CSC 775 [01 ],3,15,Anagha Kulkarni
+1906,Spring 2017,CSC 775 [02 ],3,10,Maryam Hasan
+1907,Spring 2017,CSC 780 [01 ],18,20,Christopher Kriese
+1908,Spring 2017,CSC 821 [01 ],1,10,Kazunori Okada
+1909,Spring 2017,CSC 831 [01 ],2,10,Omar Shaikh
+1910,Spring 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+1911,Spring 2017,CSC 848 [01 ],2,5,Anthony Souza
+1912,Spring 2017,CSC 848 [02 ],2,5,Anthony Souza
+1913,Spring 2017,CSC 849 [01 ],14,20,Anagha Kulkarni
+1914,Spring 2017,CSC 867 [01 ],6,10,Jd Roberts
+1915,Spring 2017,CSC 868 [01 ],4,10,Barry Levine
+1916,Spring 2017,CSC 869 [01 ],16,20,Hui Yang
+1917,Spring 2017,CSC 877 [01 ],10,20,Rahul Singh
+1918,Spring 2017,CSC 890 [01 ],6,20,Rahul Singh
+1919,Spring 2017,CSC 893 [01 ],2,15,To be announced
+1920,Spring 2017,CSC 895 [01 ],0,5,To be announced
+1921,Spring 2017,CSC 897 [01 ],0,5,To be announced
+1922,Spring 2017,CSC 898 [01 ],0,5,To be announced
+1923,Spring 2017,CSC 899 [01 ],0,10,To be announced
+1924,Spring 2017,CSC 675 [02 ],41,40,Maryam Hasan
+1925,Spring 2017,CSC 694 [01 ],1,15,Dragutin Petkovic
+1926,Spring 2017,CSC 699 [01 ],0,15,To be announced
+1927,Spring 2017,CSC 720 [01 ],10,20,Arno Puder
+1928,Spring 2017,CSC 745 [01 ],9,10,Hao Yue
+1929,Spring 2017,CSC 775 [01 ],3,15,Anagha Kulkarni
+1930,Spring 2017,CSC 775 [02 ],3,10,Maryam Hasan
+1931,Spring 2017,CSC 780 [01 ],18,20,Christopher Kriese
+1932,Spring 2017,CSC 821 [01 ],1,10,Kazunori Okada
+1933,Spring 2017,CSC 831 [01 ],2,10,Omar Shaikh
+1934,Spring 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+1935,Spring 2017,CSC 848 [01 ],2,5,Anthony Souza
+1936,Spring 2017,CSC 848 [02 ],2,5,Anthony Souza
+1937,Spring 2017,CSC 849 [01 ],14,20,Anagha Kulkarni
+1938,Spring 2017,CSC 867 [01 ],6,10,Jd Roberts
+1939,Spring 2017,CSC 868 [01 ],4,10,Barry Levine
+1940,Spring 2017,CSC 869 [01 ],16,20,Hui Yang
+1941,Spring 2017,CSC 877 [01 ],10,20,Rahul Singh
+1942,Spring 2017,CSC 890 [01 ],6,20,Rahul Singh
+1943,Spring 2017,CSC 893 [01 ],2,15,To be announced
+1944,Spring 2017,CSC 895 [01 ],0,5,To be announced
+1945,Spring 2017,CSC 897 [01 ],0,5,To be announced
+1946,Spring 2017,CSC 898 [01 ],0,5,To be announced
+1947,Spring 2017,CSC 899 [01 ],0,10,To be announced
+1948,Spring 2017,CSC 675 [02 ],41,40,Maryam Hasan
+1949,Spring 2017,CSC 694 [01 ],1,15,Dragutin Petkovic
+1950,Spring 2017,CSC 699 [01 ],0,15,To be announced
+1951,Spring 2017,CSC 720 [01 ],10,20,Arno Puder
+1952,Spring 2017,CSC 745 [01 ],9,10,Hao Yue
+1953,Spring 2017,CSC 775 [01 ],3,15,Anagha Kulkarni
+1954,Spring 2017,CSC 775 [02 ],3,10,Maryam Hasan
+1955,Spring 2017,CSC 780 [01 ],18,20,Christopher Kriese
+1956,Spring 2017,CSC 821 [01 ],1,10,Kazunori Okada
+1957,Spring 2017,CSC 831 [01 ],2,10,Omar Shaikh
+1958,Spring 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+1959,Spring 2017,CSC 848 [01 ],2,5,Anthony Souza
+1960,Spring 2017,CSC 848 [02 ],2,5,Anthony Souza
+1961,Spring 2017,CSC 849 [01 ],14,20,Anagha Kulkarni
+1962,Spring 2017,CSC 867 [01 ],6,10,Jd Roberts
+1963,Spring 2017,CSC 868 [01 ],4,10,Barry Levine
+1964,Spring 2017,CSC 869 [01 ],16,20,Hui Yang
+1965,Spring 2017,CSC 877 [01 ],10,20,Rahul Singh
+1966,Spring 2017,CSC 890 [01 ],6,20,Rahul Singh
+1967,Spring 2017,CSC 893 [01 ],2,15,To be announced
+1968,Spring 2017,CSC 895 [01 ],0,5,To be announced
+1969,Spring 2017,CSC 897 [01 ],0,5,To be announced
+1970,Spring 2017,CSC 898 [01 ],0,5,To be announced
+1971,Spring 2017,CSC 899 [01 ],0,10,To be announced
+1972,Spring 2017,CSC 675 [02 ],41,40,Maryam Hasan
+1973,Spring 2017,CSC 694 [01 ],1,15,Dragutin Petkovic
+1974,Spring 2017,CSC 699 [01 ],0,15,To be announced
+1975,Spring 2017,CSC 720 [01 ],10,20,Arno Puder
+1976,Spring 2017,CSC 745 [01 ],9,10,Hao Yue
+1977,Spring 2017,CSC 775 [01 ],3,15,Anagha Kulkarni
+1978,Spring 2017,CSC 775 [02 ],3,10,Maryam Hasan
+1979,Spring 2017,CSC 780 [01 ],18,20,Christopher Kriese
+1980,Spring 2017,CSC 821 [01 ],1,10,Kazunori Okada
+1981,Spring 2017,CSC 831 [01 ],2,10,Omar Shaikh
+1982,Spring 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+1983,Spring 2017,CSC 848 [01 ],2,5,Anthony Souza
+1984,Spring 2017,CSC 848 [02 ],2,5,Anthony Souza
+1985,Spring 2017,CSC 849 [01 ],14,20,Anagha Kulkarni
+1986,Spring 2017,CSC 867 [01 ],6,10,Jd Roberts
+1987,Spring 2017,CSC 868 [01 ],4,10,Barry Levine
+1988,Spring 2017,CSC 869 [01 ],16,20,Hui Yang
+1989,Spring 2017,CSC 877 [01 ],10,20,Rahul Singh
+1990,Spring 2017,CSC 890 [01 ],6,20,Rahul Singh
+1991,Spring 2017,CSC 893 [01 ],2,15,To be announced
+1992,Spring 2017,CSC 895 [01 ],0,5,To be announced
+1993,Spring 2017,CSC 897 [01 ],0,5,To be announced
+1994,Spring 2017,CSC 898 [01 ],0,5,To be announced
+1995,Spring 2017,CSC 899 [01 ],0,10,To be announced
+1996,Fall 2017,CSC 210 [01 ],70,50,Duc Ta
+1997,Fall 2017,CSC 210 [02 ],58,50,Yordanos Mogos
+1998,Fall 2017,CSC 210 [03 ],68,50,Trevor Gokey
+1999,Fall 2017,CSC 210 [04 ],49,50,Christopher Erwin
+2000,Fall 2017,CSC 211 [01 ],31,40,Chin Wong
+2001,Fall 2017,CSC 220 [01 ],45,40,Chin Wong
+2002,Fall 2017,CSC 220 [02 ],43,40,Chin Wong
+2003,Fall 2017,CSC 220 [03 ],49,45,Duc Ta
+2004,Fall 2017,CSC 220 [04 ],51,50,Premdeep Amudala
+2005,Fall 2017,CSC 230 [01 ],52,45,Kazunori Okada
+2006,Fall 2017,CSC 230 [02 ],47,40,Kazunori Okada
+2007,Fall 2017,CSC 230 [03 ],42,40,Daniel Tomasevich
+2008,Fall 2017,CSC 256 [01 ],59,60,Premdeep Amudala
+2009,Fall 2017,CSC 256 [02 ],61,60,Premdeep Amudala
+2010,Fall 2017,CSC 300GW [01 ],31,25,Daniel Tomasevich
+2011,Fall 2017,CSC 300GW [02 ],30,25,Daniel Tomasevich
+2012,Fall 2017,CSC 300GW [03 ],30,25,Daniel Tomasevich
+2013,Fall 2017,CSC 300GW [04 ],29,25,Daniel Tomasevich
+2014,Fall 2017,CSC 340 [01 ],44,45,Hui Yang
+2015,Fall 2017,CSC 340 [02 ],44,45,Hui Yang
+2016,Fall 2017,CSC 340 [03 ],51,50,Brook Thomas
+2017,Fall 2017,CSC 340 [04 ],56,40,Brook Thomas
+2018,Fall 2017,CSC 340 [05 ],39,50,Premdeep Amudala
+2019,Fall 2017,CSC 412 [01 ],43,40,Tsun-Yuk Hsu
+2020,Fall 2017,CSC 412 [02 ],45,40,Tsun-Yuk Hsu
+2021,Fall 2017,CSC 412 [03 ],43,40,Tsun-Yuk Hsu
+2022,Fall 2017,CSC 412 [04 ],44,40,Tsun-Yuk Hsu
+2023,Fall 2017,CSC 413 [01 ],38,40,Anthony Souza
+2024,Fall 2017,CSC 413 [02 ],46,45,Anthony Souza
+2025,Fall 2017,CSC 413 [03 ],18,45,Jd Roberts
+2026,Fall 2017,CSC 413 [04 ],30,45,Brian Parra
+2027,Fall 2017,CSC 415 [01 ],41,50,Hao Yue
+2028,Fall 2017,CSC 415 [02 ],53,50,Anthony Souza
+2029,Fall 2017,CSC 510 [01 ],38,45,Robert Wall
+2030,Fall 2017,CSC 510 [02 ],47,60,Robert Wall
+2031,Fall 2017,CSC 510 [03 ],11,40,Trevor Gokey
+2032,Fall 2017,CSC 520 [01 ],59,60,Matthew Pico
+2033,Fall 2017,CSC 600 [01 ],33,40,Jozo Dujmovic
+2034,Fall 2017,CSC 600 [02 ],43,60,Jozo Dujmovic
+2035,Fall 2017,CSC 600 [03 ],43,40,Anthony Souza
+2036,Fall 2017,CSC 641 [01 ],27,30,Jozo Dujmovic
+2037,Fall 2017,CSC 645 [01 ],29,35,Hao Yue
+2038,Fall 2017,CSC 648 [01 ],35,35,Anthony Souza
+2039,Fall 2017,CSC 648 [02 ],41,35,Anthony Souza
+2040,Fall 2017,CSC 667 [01 ],40,45,Jd Roberts
+2041,Fall 2017,CSC 675 [01 ],46,40,Anagha Kulkarni
+2042,Fall 2017,CSC 675 [02 ],38,40,Maryam Hasan
+2043,Fall 2017,CSC 690 [01 ],32,50,Tsun-Yuk Hsu
+2044,Fall 2017,CSC 694 [01 ],0,36,To be announced
+2045,Fall 2017,CSC 699 [01 ],0,15,To be announced
+2046,Fall 2017,CSC 720 [01 ],12,20,Arno Puder
+2047,Fall 2017,CSC 745 [01 ],7,10,Hao Yue
+2048,Fall 2017,CSC 775 [01 ],5,10,Anagha Kulkarni
+2049,Fall 2017,CSC 775 [02 ],1,10,Maryam Hasan
+2050,Fall 2017,CSC 780 [01 ],13,20,Christopher Kriese
+2051,Fall 2017,CSC 810 [01 ],29,40,Chin Wong
+2052,Fall 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+2053,Fall 2017,CSC 848 [01 ],3,5,Anthony Souza
+2054,Fall 2017,CSC 848 [02 ],7,10,Anthony Souza
+2055,Fall 2017,CSC 857 [01 ],6,20,Rahul Singh
+2056,Fall 2017,CSC 867 [01 ],12,10,Jd Roberts
+2057,Fall 2017,CSC 872 [01 ],19,20,Kazunori Okada
+2058,Fall 2017,CSC 877 [01 ],8,20,Rahul Singh
+2059,Fall 2017,CSC 890 [01 ],13,20,Hui Yang
+2060,Fall 2017,CSC 893 [01 ],0,10,To be announced
+2061,Fall 2017,CSC 895 [01 ],0,0,To be announced
+2062,Fall 2017,CSC 897 [01 ],0,24,To be announced
+2063,Fall 2017,CSC 898 [01 ],0,0,To be announced
+2064,Fall 2017,CSC 899 [01 ],0,15,To be announced
+2065,Fall 2017,CSC 720 [01 ],12,20,Arno Puder
+2066,Fall 2017,CSC 745 [01 ],7,10,Hao Yue
+2067,Fall 2017,CSC 775 [01 ],5,10,Anagha Kulkarni
+2068,Fall 2017,CSC 775 [02 ],1,10,Maryam Hasan
+2069,Fall 2017,CSC 780 [01 ],13,20,Christopher Kriese
+2070,Fall 2017,CSC 810 [01 ],29,40,Chin Wong
+2071,Fall 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+2072,Fall 2017,CSC 848 [01 ],3,5,Anthony Souza
+2073,Fall 2017,CSC 848 [02 ],7,10,Anthony Souza
+2074,Fall 2017,CSC 857 [01 ],6,20,Rahul Singh
+2075,Fall 2017,CSC 867 [01 ],12,10,Jd Roberts
+2076,Fall 2017,CSC 872 [01 ],19,20,Kazunori Okada
+2077,Fall 2017,CSC 877 [01 ],8,20,Rahul Singh
+2078,Fall 2017,CSC 890 [01 ],13,20,Hui Yang
+2079,Fall 2017,CSC 893 [01 ],0,10,To be announced
+2080,Fall 2017,CSC 895 [01 ],0,0,To be announced
+2081,Fall 2017,CSC 897 [01 ],0,24,To be announced
+2082,Fall 2017,CSC 898 [01 ],0,0,To be announced
+2083,Fall 2017,CSC 899 [01 ],0,15,To be announced
+2084,Fall 2017,CSC 720 [01 ],12,20,Arno Puder
+2085,Fall 2017,CSC 745 [01 ],7,10,Hao Yue
+2086,Fall 2017,CSC 775 [01 ],5,10,Anagha Kulkarni
+2087,Fall 2017,CSC 775 [02 ],1,10,Maryam Hasan
+2088,Fall 2017,CSC 780 [01 ],13,20,Christopher Kriese
+2089,Fall 2017,CSC 810 [01 ],29,40,Chin Wong
+2090,Fall 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+2091,Fall 2017,CSC 848 [01 ],3,5,Anthony Souza
+2092,Fall 2017,CSC 848 [02 ],7,10,Anthony Souza
+2093,Fall 2017,CSC 857 [01 ],6,20,Rahul Singh
+2094,Fall 2017,CSC 867 [01 ],12,10,Jd Roberts
+2095,Fall 2017,CSC 872 [01 ],19,20,Kazunori Okada
+2096,Fall 2017,CSC 877 [01 ],8,20,Rahul Singh
+2097,Fall 2017,CSC 890 [01 ],13,20,Hui Yang
+2098,Fall 2017,CSC 893 [01 ],0,10,To be announced
+2099,Fall 2017,CSC 895 [01 ],0,0,To be announced
+2100,Fall 2017,CSC 897 [01 ],0,24,To be announced
+2101,Fall 2017,CSC 898 [01 ],0,0,To be announced
+2102,Fall 2017,CSC 899 [01 ],0,15,To be announced
+2103,Fall 2017,CSC 720 [01 ],12,20,Arno Puder
+2104,Fall 2017,CSC 745 [01 ],7,10,Hao Yue
+2105,Fall 2017,CSC 775 [01 ],5,10,Anagha Kulkarni
+2106,Fall 2017,CSC 775 [02 ],1,10,Maryam Hasan
+2107,Fall 2017,CSC 780 [01 ],13,20,Christopher Kriese
+2108,Fall 2017,CSC 810 [01 ],29,40,Chin Wong
+2109,Fall 2017,CSC 841 [01 ],0,10,Jozo Dujmovic
+2110,Fall 2017,CSC 848 [01 ],3,5,Anthony Souza
+2111,Fall 2017,CSC 848 [02 ],7,10,Anthony Souza
+2112,Fall 2017,CSC 857 [01 ],6,20,Rahul Singh
+2113,Fall 2017,CSC 867 [01 ],12,10,Jd Roberts
+2114,Fall 2017,CSC 872 [01 ],19,20,Kazunori Okada
+2115,Fall 2017,CSC 877 [01 ],8,20,Rahul Singh
+2116,Fall 2017,CSC 890 [01 ],13,20,Hui Yang
+2117,Fall 2017,CSC 893 [01 ],0,10,To be announced
+2118,Fall 2017,CSC 895 [01 ],0,0,To be announced
+2119,Fall 2017,CSC 897 [01 ],0,24,To be announced
+2120,Fall 2017,CSC 898 [01 ],0,0,To be announced
+2121,Fall 2017,CSC 899 [01 ],0,15,To be announced
+2122,Spring 2018,CSC 210 [01 ],57,50,Yordanos Mogos
+2123,Spring 2018,CSC 210 [02 ],69,65,Duc Ta
+2124,Spring 2018,CSC 210 [03 ],61,50,Trevor Gokey
+2125,Spring 2018,CSC 210 [04 ],40,40,Andrew Streckfus
+2126,Spring 2018,CSC 210 [05 ],45,40,Andrew Streckfus
+2127,Spring 2018,CSC 211 [01 ],39,40,Chin Wong
+2128,Spring 2018,CSC 220 [01 ],41,40,Chin Wong
+2129,Spring 2018,CSC 220 [02 ],48,45,Duc Ta
+2130,Spring 2018,CSC 220 [04 ],42,45,Chin Wong
+2131,Spring 2018,CSC 220 [05 ],46,45,Christopher Erwin
+2132,Spring 2018,CSC 230 [01 ],47,45,Kazunori Okada
+2133,Spring 2018,CSC 230 [02 ],41,40,Daniel Tomasevich
+2134,Spring 2018,CSC 230 [03 ],42,45,Trevor Gokey
+2135,Spring 2018,CSC 230 [04 ],44,40,Trevor Gokey
+2136,Spring 2018,CSC 256 [01 ],35,45,Vidhyacharan Bhaskar
+2137,Spring 2018,CSC 256 [03 ],117,100,Anthony Souza
+2138,Spring 2018,CSC 300GW [01 ],30,25,Daniel Tomasevich
+2139,Spring 2018,CSC 300GW [02 ],30,25,Daniel Tomasevich
+2140,Spring 2018,CSC 300GW [03 ],30,25,Daniel Tomasevich
+2141,Spring 2018,CSC 300GW [04 ],31,25,Daniel Tomasevich
+2142,Spring 2018,CSC 309 [01 ],49,50,Andrew Scott
+2143,Spring 2018,CSC 340 [01 ],44,45,Hui Yang
+2144,Spring 2018,CSC 340 [02 ],45,45,Hui Yang
+2145,Spring 2018,CSC 340 [03 ],76,100,Christopher Erwin
+2146,Spring 2018,CSC 340 [04 ],40,45,Garo Bournoutian
+2147,Spring 2018,CSC 412 [01 ],39,40,Tsun-Yuk Hsu
+2148,Spring 2018,CSC 412 [02 ],38,40,Tsun-Yuk Hsu
+2149,Spring 2018,CSC 412 [03 ],22,40,Andrew Streckfus
+2150,Spring 2018,CSC 412 [04 ],36,40,Andrew Streckfus
+2151,Spring 2018,CSC 412 [05 ],35,40,Tsun-Yuk Hsu
+2152,Spring 2018,CSC 413 [01 ],20,40,Barry Levine
+2153,Spring 2018,CSC 413 [02 ],50,50,Anthony Souza
+2154,Spring 2018,CSC 413 [03 ],65,50,Anthony Souza
+2155,Spring 2018,CSC 413 [04 ],22,40,Jd Roberts
+2156,Spring 2018,CSC 413 [05 ],12,45,Brian Parra
+2157,Spring 2018,CSC 415 [01 ],47,50,John Baldwin
+2158,Spring 2018,CSC 415 [02 ],71,45,Anthony Souza
+2159,Spring 2018,CSC 510 [01 ],62,55,Robert Wall
+2160,Spring 2018,CSC 510 [02 ],62,55,Robert Wall
+2161,Spring 2018,CSC 520 [01 ],43,50,Matthew Pico
+2162,Spring 2018,CSC 600 [01 ],66,100,Jozo Dujmovic
+2163,Spring 2018,CSC 600 [02 ],48,50,Jozo Dujmovic
+2164,Spring 2018,CSC 621 [01 ],29,30,Kazunori Okada
+2165,Spring 2018,CSC 631 [01 ],32,30,Ilmi Yoon
+2166,Spring 2018,CSC 641 [01 ],19,30,Jozo Dujmovic
+2167,Spring 2018,CSC 648 [01 ],40,35,Anthony Souza
+2168,Spring 2018,CSC 648 [02 ],34,35,Anthony Souza
+2169,Spring 2018,CSC 656 [01 ],56,45,Tsun-Yuk Hsu
+2170,Spring 2018,CSC 665 [01 ],41,40,Ilmi Yoon
+2171,Spring 2018,CSC 667 [01 ],33,35,Jd Roberts
+2172,Spring 2018,CSC 668 [01 ],21,30,Barry Levine
+2173,Spring 2018,CSC 675 [01 ],39,40,Maryam Hasan
+2174,Spring 2018,CSC 675 [02 ],43,40,Maryam Hasan
+2175,Spring 2018,CSC 690 [01 ],48,40,Axel Ancona Esselmann
+2176,Spring 2018,CSC 694 [01 ],5,15,Dragutin Petkovic
+2177,Spring 2018,CSC 698 [01 ],33,40,Brian Parra
+2178,Spring 2018,CSC 699 [01 ],0,15,To be announced
+2179,Spring 2018,CSC 720 [01 ],8,20,Arno Puder
+2180,Spring 2018,CSC 775 [01 ],10,10,Maryam Hasan
+2181,Spring 2018,CSC 775 [02 ],2,5,Maryam Hasan
+2182,Spring 2018,CSC 780 [01 ],11,20,Christopher Kriese
+2183,Spring 2018,CSC 821 [01 ],0,10,Kazunori Okada
+2184,Spring 2018,CSC 831 [01 ],3,10,Ilmi Yoon
+2185,Spring 2018,CSC 841 [01 ],0,8,Jozo Dujmovic
+2186,Spring 2018,CSC 845 [01 ],9,20,Hao Yue
+2187,Spring 2018,CSC 848 [01 ],6,5,Anthony Souza
+2188,Spring 2018,CSC 848 [02 ],4,5,Anthony Souza
+2189,Spring 2018,CSC 867 [01 ],5,10,Jd Roberts
+2190,Spring 2018,CSC 868 [01 ],3,10,Barry Levine
+2191,Spring 2018,CSC 869 [01 ],17,20,Hui Yang
+2192,Spring 2018,CSC 874 [01 ],6,20,Rahul Singh
+2193,Spring 2018,CSC 890 [01 ],7,20,Rahul Singh
+2194,Spring 2018,CSC 893 [01 ],3,15,To be announced
+2195,Spring 2018,CSC 895 [01 ],0,5,To be announced
+2196,Spring 2018,CSC 897 [01 ],0,5,To be announced
+2197,Spring 2018,CSC 898 [01 ],0,5,To be announced
+2198,Spring 2018,CSC 899 [01 ],0,10,To be announced
+2199,Spring 2018,CSC 898 [01 ],0,5,To be announced
+2200,Spring 2018,CSC 899 [01 ],0,10,To be announced
+2201,Spring 2018,CSC 898 [01 ],0,5,To be announced
+2202,Spring 2018,CSC 899 [01 ],0,10,To be announced
+2203,Fall 2018,CSC 110 [01 ],25,30,Ilmi Yoon
+2204,Fall 2018,CSC 210 [01 ],48,50,Yordanos Mogos
+2205,Fall 2018,CSC 210 [02 ],49,50,Christopher Erwin
+2206,Fall 2018,CSC 210 [03 ],47,40,Vidhyacharan Bhaskar
+2207,Fall 2018,CSC 210 [05 ],39,40,Vidhyacharan Bhaskar
+2208,Fall 2018,CSC 211 [01 ],23,40,Chin Wong
+2209,Fall 2018,CSC 220 [01 ],42,40,Chin Wong
+2210,Fall 2018,CSC 220 [02 ],41,40,Chin Wong
+2211,Fall 2018,CSC 220 [03 ],64,45,Duc Ta
+2212,Fall 2018,CSC 220 [04 ],45,45,Abeer AlJarrah
+2213,Fall 2018,CSC 230 [01 ],40,40,Daniel Tomasevich
+2214,Fall 2018,CSC 230 [02 ],53,45,Daniel Tomasevich
+2215,Fall 2018,CSC 230 [03 ],45,40,Pooyan Fazli
+2216,Fall 2018,CSC 256 [01 ],60,45,Tsun-Yuk Hsu
+2217,Fall 2018,CSC 256 [02 ],49,45,Tsun-Yuk Hsu
+2218,Fall 2018,CSC 300GW [01 ],30,25,Daniel Tomasevich
+2219,Fall 2018,CSC 300GW [02 ],30,25,Daniel Tomasevich
+2220,Fall 2018,CSC 300GW [03 ],31,25,Daniel Tomasevich
+2221,Fall 2018,CSC 300GW [04 ],29,25,Matthew Farrer
+2222,Fall 2018,CSC 340 [01 ],39,45,Hui Yang
+2223,Fall 2018,CSC 340 [02 ],47,45,Hui Yang
+2224,Fall 2018,CSC 340 [03 ],49,45,Duc Ta
+2225,Fall 2018,CSC 340 [04 ],56,45,Duc Ta
+2226,Fall 2018,CSC 340 [05 ],65,45,Duc Ta
+2227,Fall 2018,CSC 412 [01 ],44,40,Tsun-Yuk Hsu
+2228,Fall 2018,CSC 412 [02 ],44,40,Charlie Tuttle
+2229,Fall 2018,CSC 412 [03 ],41,40,Charlie Tuttle
+2230,Fall 2018,CSC 412 [04 ],42,40,Charlie Tuttle
+2231,Fall 2018,CSC 413 [01 ],65,45,Anthony Souza
+2232,Fall 2018,CSC 413 [02 ],47,45,Anthony Souza
+2233,Fall 2018,CSC 413 [03 ],27,40,Raymond Zavodnik
+2234,Fall 2018,CSC 413 [04 ],35,40,Brian Parra
+2235,Fall 2018,CSC 415 [01 ],76,70,Anthony Souza
+2236,Fall 2018,CSC 415 [02 ],76,55,Anthony Souza
+2237,Fall 2018,CSC 510 [01 ],49,45,Robert Wall
+2238,Fall 2018,CSC 510 [02 ],76,60,Robert Wall
+2239,Fall 2018,CSC 510 [03 ],38,40,Rahul Singh
+2240,Fall 2018,CSC 520 [01 ],48,45,Matthew Pico
+2241,Fall 2018,CSC 520 [02 ],41,40,Raymond Zavodnik
+2242,Fall 2018,CSC 600 [01 ],74,40,Jozo Dujmovic
+2243,Fall 2018,CSC 600 [02 ],69,70,Jozo Dujmovic
+2244,Fall 2018,CSC 645 [01 ],23,35,Hao Yue
+2245,Fall 2018,CSC 648 [01 ],38,35,Anthony Souza
+2246,Fall 2018,CSC 648 [02 ],48,35,Anthony Souza
+2247,Fall 2018,CSC 656 [01 ],76,50,Vidhyacharan Bhaskar
+2248,Fall 2018,CSC 658 [01 ],56,40,Abeer AlJarrah
+2249,Fall 2018,CSC 665 [01 ],40,40,Pooyan Fazli
+2250,Fall 2018,CSC 667 [01 ],31,40,Jd Roberts
+2251,Fall 2018,CSC 675 [01 ],38,40,Maryam Hasan
+2252,Fall 2018,CSC 675 [02 ],24,40,Maryam Hasan
+2253,Fall 2018,CSC 690 [02 ],72,40,Axel Ancona Esselmann
+2254,Fall 2018,CSC 694 [01 ],0,36,To be announced
+2255,Fall 2018,CSC 699 [01 ],0,15,To be announced
+2256,Fall 2018,CSC 720 [01 ],21,20,Arno Puder
+2257,Fall 2018,CSC 745 [01 ],9,10,Hao Yue
+2258,Fall 2018,CSC 775 [01 ],3,10,Maryam Hasan
+2259,Fall 2018,CSC 775 [02 ],12,5,Maryam Hasan
+2260,Fall 2018,CSC 780 [01 ],17,20,Christopher Kriese
+2261,Fall 2018,CSC 810 [01 ],20,20,Chin Wong
+2262,Fall 2018,CSC 847 [01 ],17,20,Hui Yang
+2263,Fall 2018,CSC 848 [01 ],5,5,Anthony Souza
+2264,Fall 2018,CSC 848 [02 ],5,5,Anthony Souza
+2265,Fall 2018,CSC 849 [01 ],23,20,Anagha Kulkarni
+2266,Fall 2018,CSC 867 [01 ],4,5,Jd Roberts
+2267,Fall 2018,CSC 874 [01 ],11,20,Rahul Singh
+2268,Fall 2018,CSC 876 [01 ],8,20,Jozo Dujmovic
+2269,Fall 2018,CSC 895 [01 ],0,0,To be announced
+2270,Fall 2018,CSC 897 [01 ],0,24,To be announced
+2271,Fall 2018,CSC 898 [01 ],0,0,To be announced
+2272,Fall 2018,CSC 690 [02 ],72,40,Axel Ancona Esselmann
+2273,Fall 2018,CSC 694 [01 ],0,36,To be announced
+2274,Fall 2018,CSC 699 [01 ],0,15,To be announced
+2275,Fall 2018,CSC 720 [01 ],21,20,Arno Puder
+2276,Fall 2018,CSC 745 [01 ],9,10,Hao Yue
+2277,Fall 2018,CSC 775 [01 ],3,10,Maryam Hasan
+2278,Fall 2018,CSC 775 [02 ],12,5,Maryam Hasan
+2279,Fall 2018,CSC 780 [01 ],17,20,Christopher Kriese
+2280,Fall 2018,CSC 810 [01 ],20,20,Chin Wong
+2281,Fall 2018,CSC 847 [01 ],17,20,Hui Yang
+2282,Fall 2018,CSC 848 [01 ],5,5,Anthony Souza
+2283,Fall 2018,CSC 848 [02 ],5,5,Anthony Souza
+2284,Fall 2018,CSC 849 [01 ],23,20,Anagha Kulkarni
+2285,Fall 2018,CSC 867 [01 ],4,5,Jd Roberts
+2286,Fall 2018,CSC 874 [01 ],11,20,Rahul Singh
+2287,Fall 2018,CSC 876 [01 ],8,20,Jozo Dujmovic
+2288,Fall 2018,CSC 895 [01 ],0,0,To be announced
+2289,Fall 2018,CSC 897 [01 ],0,24,To be announced
+2290,Fall 2018,CSC 898 [01 ],0,0,To be announced
+2291,Fall 2018,CSC 690 [02 ],72,40,Axel Ancona Esselmann
+2292,Fall 2018,CSC 694 [01 ],0,36,To be announced
+2293,Fall 2018,CSC 699 [01 ],0,15,To be announced
+2294,Fall 2018,CSC 720 [01 ],21,20,Arno Puder
+2295,Fall 2018,CSC 745 [01 ],9,10,Hao Yue
+2296,Fall 2018,CSC 775 [01 ],3,10,Maryam Hasan
+2297,Fall 2018,CSC 775 [02 ],12,5,Maryam Hasan
+2298,Fall 2018,CSC 780 [01 ],17,20,Christopher Kriese
+2299,Fall 2018,CSC 810 [01 ],20,20,Chin Wong
+2300,Fall 2018,CSC 847 [01 ],17,20,Hui Yang
+2301,Fall 2018,CSC 848 [01 ],5,5,Anthony Souza
+2302,Fall 2018,CSC 848 [02 ],5,5,Anthony Souza
+2303,Fall 2018,CSC 849 [01 ],23,20,Anagha Kulkarni
+2304,Fall 2018,CSC 867 [01 ],4,5,Jd Roberts
+2305,Fall 2018,CSC 874 [01 ],11,20,Rahul Singh
+2306,Fall 2018,CSC 876 [01 ],8,20,Jozo Dujmovic
+2307,Fall 2018,CSC 895 [01 ],0,0,To be announced
+2308,Fall 2018,CSC 897 [01 ],0,24,To be announced
+2309,Fall 2018,CSC 898 [01 ],0,0,To be announced
+2310,Fall 2018,CSC 690 [02 ],72,40,Axel Ancona Esselmann
+2311,Fall 2018,CSC 694 [01 ],0,36,To be announced
+2312,Fall 2018,CSC 699 [01 ],0,15,To be announced
+2313,Fall 2018,CSC 720 [01 ],21,20,Arno Puder
+2314,Fall 2018,CSC 745 [01 ],9,10,Hao Yue
+2315,Fall 2018,CSC 775 [01 ],3,10,Maryam Hasan
+2316,Fall 2018,CSC 775 [02 ],12,5,Maryam Hasan
+2317,Fall 2018,CSC 780 [01 ],17,20,Christopher Kriese
+2318,Fall 2018,CSC 810 [01 ],20,20,Chin Wong
+2319,Fall 2018,CSC 847 [01 ],17,20,Hui Yang
+2320,Fall 2018,CSC 848 [01 ],5,5,Anthony Souza
+2321,Fall 2018,CSC 848 [02 ],5,5,Anthony Souza
+2322,Fall 2018,CSC 849 [01 ],23,20,Anagha Kulkarni
+2323,Fall 2018,CSC 867 [01 ],4,5,Jd Roberts
+2324,Fall 2018,CSC 874 [01 ],11,20,Rahul Singh
+2325,Fall 2018,CSC 876 [01 ],8,20,Jozo Dujmovic
+2326,Fall 2018,CSC 895 [01 ],0,0,To be announced
+2327,Fall 2018,CSC 897 [01 ],0,24,To be announced
+2328,Fall 2018,CSC 898 [01 ],0,0,To be announced
+2329,Spring 2019,CSC 210 [01 ],50,47,Yordanos Mogos
+2330,Spring 2019,CSC 210 [02 ],52,50,Christopher Erwin
+2331,Spring 2019,CSC 210 [03 ],40,50,Karun Mehta
+2332,Spring 2019,CSC 210 [04 ],58,50,Charlie Tuttle
+2333,Spring 2019,CSC 210 [05 ],53,45,Yordanos Mogos
+2334,Spring 2019,CSC 210 [06 ],50,45,Aung Phyo
+2335,Spring 2019,CSC 210 [07 ],29,40,Brenna Tirumalashetty
+2336,Spring 2019,CSC 211 [01 ],25,40,Chin Wong
+2337,Spring 2019,CSC 220 [01 ],22,45,Chin Wong
+2338,Spring 2019,CSC 220 [02 ],40,45,Chin Wong
+2339,Spring 2019,CSC 220 [03 ],50,45,Duc Ta
+2340,Spring 2019,CSC 220 [04 ],41,45,Abeer AlJarrah
+2341,Spring 2019,CSC 220 [05 ],24,45,Christopher Erwin
+2342,Spring 2019,CSC 220 [06 ],24,40,Hyo Jung Song
+2343,Spring 2019,CSC 230 [01 ],44,45,Daniel Tomasevich
+2344,Spring 2019,CSC 230 [02 ],42,45,Lisa Jones
+2345,Spring 2019,CSC 230 [03 ],42,45,Pooyan Fazli
+2346,Spring 2019,CSC 230 [04 ],36,45,Abdur Sikder
+2347,Spring 2019,CSC 256 [01 ],48,50,Vidhyacharan Bhaskar
+2348,Spring 2019,CSC 256 [02 ],46,50,Vidhyacharan Bhaskar
+2349,Spring 2019,CSC 256 [03 ],44,50,Vidhyacharan Bhaskar
+2350,Spring 2019,CSC 300GW [01 ],30,25,Daniel Tomasevich
+2351,Spring 2019,CSC 300GW [02 ],30,25,Daniel Tomasevich
+2352,Spring 2019,CSC 300GW [03 ],30,25,Daniel Tomasevich
+2353,Spring 2019,CSC 300GW [04 ],30,25,Daniel Tomasevich
+2354,Spring 2019,CSC 309 [01 ],46,45,Andrew Scott
+2355,Spring 2019,CSC 340 [01 ],37,40,Hui Yang
+2356,Spring 2019,CSC 340 [02 ],42,40,Hui Yang
+2357,Spring 2019,CSC 340 [03 ],40,40,Duc Ta
+2358,Spring 2019,CSC 340 [04 ],40,40,Duc Ta
+2359,Spring 2019,CSC 340 [05 ],40,40,Duc Ta
+2360,Spring 2019,CSC 412 [01 ],40,40,Arno Puder
+2361,Spring 2019,CSC 412 [02 ],42,40,Arno Puder
+2362,Spring 2019,CSC 412 [03 ],36,40,Arno Puder
+2363,Spring 2019,CSC 412 [04 ],41,40,Arno Puder
+2364,Spring 2019,CSC 413 [01 ],16,40,Barry Levine
+2365,Spring 2019,CSC 413 [02 ],43,40,Anthony Souza
+2366,Spring 2019,CSC 413 [03 ],52,40,Anthony Souza
+2367,Spring 2019,CSC 413 [04 ],33,40,Brian Parra
+2368,Spring 2019,CSC 413 [05 ],28,40,Jd Roberts
+2369,Spring 2019,CSC 415 [01 ],66,45,Anthony Souza
+2370,Spring 2019,CSC 415 [02 ],46,45,Anthony Souza
+2371,Spring 2019,CSC 415 [03 ],36,45,Livia Pinera
+2372,Spring 2019,CSC 510 [01 ],40,40,Robert Wall
+2373,Spring 2019,CSC 510 [02 ],45,40,Robert Wall
+2374,Spring 2019,CSC 510 [03 ],30,40,Rahul Singh
+2375,Spring 2019,CSC 510 [04 ],48,49,Robert Wall
+2376,Spring 2019,CSC 520 [01 ],31,40,Matthew Pico
+2377,Spring 2019,CSC 600 [01 ],81,80,Jozo Dujmovic
+2378,Spring 2019,CSC 600 [02 ],81,80,Jozo Dujmovic
+2379,Spring 2019,CSC 631 [01 ],30,30,Ilmi Yoon
+2380,Spring 2019,CSC 641 [01 ],19,35,Jozo Dujmovic
+2381,Spring 2019,CSC 645 [01 ],36,35,Jung-Yup Kang
+2382,Spring 2019,CSC 648 [01 ],46,35,Dragutin Petkovic
+2383,Spring 2019,CSC 648 [02 ],42,35,Dragutin Petkovic
+2384,Spring 2019,CSC 648 [03 ],32,35,Hyo Jung Song
+2385,Spring 2019,CSC 648 [04 ],38,40,Jose Ortiz Costa
+2386,Spring 2019,CSC 651 [01 ],38,40,Abdur Sikder
+2387,Spring 2019,CSC 656 [01 ],36,45,Vidhyacharan Bhaskar
+2388,Spring 2019,CSC 665 [01 ],38,40,Alex Kalinin
+2389,Spring 2019,CSC 667 [01 ],37,35,Brian Parra
+2390,Spring 2019,CSC 667 [02 ],45,35,Anthony Souza
+2391,Spring 2019,CSC 668 [01 ],27,35,Jd Roberts
+2392,Spring 2019,CSC 675 [01 ],41,40,Maryam Hasan
+2393,Spring 2019,CSC 675 [02 ],36,40,Maryam Hasan
+2394,Spring 2019,CSC 675 [03 ],29,40,Jose Ortiz Costa
+2395,Spring 2019,CSC 690 [01 ],69,40,Axel Ancona Esselmann
+2396,Spring 2019,CSC 694 [01 ],3,15,Dragutin Petkovic
+2397,Spring 2019,CSC 698 [01 ],29,40,Brian Parra
+2398,Spring 2019,CSC 720 [01 ],11,20,Arno Puder
+2399,Spring 2019,CSC 745 [01 ],6,5,Jung-Yup Kang
+2400,Spring 2019,CSC 775 [01 ],6,5,Maryam Hasan
+2401,Spring 2019,CSC 775 [02 ],3,5,Maryam Hasan
+2402,Spring 2019,CSC 775 [03 ],0,5,Jose Ortiz Costa
+2403,Spring 2019,CSC 780 [01 ],7,20,Christopher Kriese
+2404,Spring 2019,CSC 810 [01 ],19,20,Chin Wong
+2405,Spring 2019,CSC 831 [01 ],6,10,Ilmi Yoon
+2406,Spring 2019,CSC 841 [01 ],0,5,Jozo Dujmovic
+2407,Spring 2019,CSC 845 [01 ],9,20,Hao Yue
+2408,Spring 2019,CSC 848 [01 ],2,5,Dragutin Petkovic
+2409,Spring 2019,CSC 848 [02 ],7,5,Dragutin Petkovic
+2410,Spring 2019,CSC 848 [03 ],4,5,Hyo Jung Song
+2411,Spring 2019,CSC 848 [04 ],3,5,Jose Ortiz Costa
+2412,Spring 2019,CSC 849 [01 ],9,20,Anagha Kulkarni
+2413,Spring 2019,CSC 867 [01 ],4,5,Brian Parra
+2414,Spring 2019,CSC 867 [02 ],7,5,Anthony Souza
+2415,Spring 2019,CSC 868 [01 ],3,5,Jd Roberts
+2416,Spring 2019,CSC 869 [01 ],16,20,Hui Yang
+2417,Spring 2019,CSC 874 [01 ],9,20,Rahul Singh
+2418,Spring 2019,CSC 890 [01 ],5,20,Abeer AlJarrah
+2419,Spring 2019,CSC 890 [02 ],15,20,Pooyan Fazli
+2420,Spring 2019,CSC 893 [01 ],0,15,To be announced
+2421,Spring 2019,CSC 895 [01 ],0,5,To be announced
+2422,Spring 2019,CSC 897 [01 ],0,5,To be announced
+2423,Spring 2019,CSC 898 [01 ],0,5,To be announced
+2424,Spring 2019,CSC 899 [01 ],0,10,To be announced
+2425,Spring 2019,CSC 810 [01 ],19,20,Chin Wong
+2426,Spring 2019,CSC 831 [01 ],6,10,Ilmi Yoon
+2427,Spring 2019,CSC 841 [01 ],0,5,Jozo Dujmovic
+2428,Spring 2019,CSC 845 [01 ],9,20,Hao Yue
+2429,Spring 2019,CSC 848 [01 ],2,5,Dragutin Petkovic
+2430,Spring 2019,CSC 848 [02 ],7,5,Dragutin Petkovic
+2431,Spring 2019,CSC 848 [03 ],4,5,Hyo Jung Song
+2432,Spring 2019,CSC 848 [04 ],3,5,Jose Ortiz Costa
+2433,Spring 2019,CSC 849 [01 ],9,20,Anagha Kulkarni
+2434,Spring 2019,CSC 867 [01 ],4,5,Brian Parra
+2435,Spring 2019,CSC 867 [02 ],7,5,Anthony Souza
+2436,Spring 2019,CSC 868 [01 ],3,5,Jd Roberts
+2437,Spring 2019,CSC 869 [01 ],16,20,Hui Yang
+2438,Spring 2019,CSC 874 [01 ],9,20,Rahul Singh
+2439,Spring 2019,CSC 890 [01 ],5,20,Abeer AlJarrah
+2440,Spring 2019,CSC 890 [02 ],15,20,Pooyan Fazli
+2441,Spring 2019,CSC 893 [01 ],0,15,To be announced
+2442,Spring 2019,CSC 895 [01 ],0,5,To be announced
+2443,Spring 2019,CSC 897 [01 ],0,5,To be announced
+2444,Spring 2019,CSC 898 [01 ],0,5,To be announced
+2445,Spring 2019,CSC 899 [01 ],0,10,To be announced
+2446,Spring 2019,CSC 810 [01 ],19,20,Chin Wong
+2447,Spring 2019,CSC 831 [01 ],6,10,Ilmi Yoon
+2448,Spring 2019,CSC 841 [01 ],0,5,Jozo Dujmovic
+2449,Spring 2019,CSC 845 [01 ],9,20,Hao Yue
+2450,Spring 2019,CSC 848 [01 ],2,5,Dragutin Petkovic
+2451,Spring 2019,CSC 848 [02 ],7,5,Dragutin Petkovic
+2452,Spring 2019,CSC 848 [03 ],4,5,Hyo Jung Song
+2453,Spring 2019,CSC 848 [04 ],3,5,Jose Ortiz Costa
+2454,Spring 2019,CSC 849 [01 ],9,20,Anagha Kulkarni
+2455,Spring 2019,CSC 867 [01 ],4,5,Brian Parra
+2456,Spring 2019,CSC 867 [02 ],7,5,Anthony Souza
+2457,Spring 2019,CSC 868 [01 ],3,5,Jd Roberts
+2458,Spring 2019,CSC 869 [01 ],16,20,Hui Yang
+2459,Spring 2019,CSC 874 [01 ],9,20,Rahul Singh
+2460,Spring 2019,CSC 890 [01 ],5,20,Abeer AlJarrah
+2461,Spring 2019,CSC 890 [02 ],15,20,Pooyan Fazli
+2462,Spring 2019,CSC 893 [01 ],0,15,To be announced
+2463,Spring 2019,CSC 895 [01 ],0,5,To be announced
+2464,Spring 2019,CSC 897 [01 ],0,5,To be announced
+2465,Spring 2019,CSC 898 [01 ],0,5,To be announced
+2466,Spring 2019,CSC 899 [01 ],0,10,To be announced
+2467,Fall 2019,CSC 110 [01 ],23,45,Branden Nguyen
+2468,Fall 2019,CSC 210 [01 ],50,45,$79.50 
+2469,Fall 2019,CSC 210 [02 ],40,40,$79.50 
+2470,Fall 2019,CSC 210 [03 ],51,49,$128.75 
+2471,Fall 2019,CSC 210 [04 ],42,45,Shivam Rai
+2472,Fall 2019,CSC 210 [05 ],40,40,$169.25 
+2473,Fall 2019,CSC 210 [06 ],43,45,Shahrukh Humayoun
+2474,Fall 2019,CSC 210 [07 ],39,45,$169.25 
+2475,Fall 2019,CSC 211 [01 ],37,40,Arno Puder
+2476,Fall 2019,CSC 211 [02 ],34,40,Arno Puder
+2477,Fall 2019,CSC 211 [03 ],36,40,Arno Puder
+2478,Fall 2019,CSC 211 [04 ],34,40,Arno Puder
+2479,Fall 2019,CSC 211 [05 ],34,40,Arno Puder
+2480,Fall 2019,CSC 211 [06 ],12,40,Arno Puder
+2481,Fall 2019,CSC 220 [01 ],44,45,$188.75 
+2482,Fall 2019,CSC 220 [02 ],43,45,$55.00 
+2483,Fall 2019,CSC 220 [03 ],45,45,$55.00 
+2484,Fall 2019,CSC 220 [04 ],43,45,$55.00 
+2485,Fall 2019,CSC 220 [05 ],33,40,$188.75 
+2486,Fall 2019,CSC 220 [06 ],28,45,$55.00 
+2487,Fall 2019,CSC 230 [01 ],48,45,$56.00 
+2488,Fall 2019,CSC 230 [02 ],45,45,$321.50 
+2489,Fall 2019,CSC 230 [03 ],47,45,$240.00 
+2490,Fall 2019,CSC 230 [04 ],34,45,$56.00 
+2491,Fall 2019,CSC 230 [05 ],19,45,Kazunori Okada
+2492,Fall 2019,CSC 256 [01 ],42,50,$89.95 
+2493,Fall 2019,CSC 256 [02 ],58,50,$88.95 
+2494,Fall 2019,CSC 256 [03 ],33,50,Soheil Ansari
+2495,Fall 2019,CSC 300GW [01 ],30,25,$46.50 
+2496,Fall 2019,CSC 300GW [02 ],30,25,$133.75 
+2497,Fall 2019,CSC 300GW [03 ],29,25,$133.75 
+2498,Fall 2019,CSC 300GW [04 ],29,25,$133.75 
+2499,Fall 2019,CSC 300GW [05 ],27,25,$133.75 
+2500,Fall 2019,CSC 306 [01 ],26,49,Pleunie Pennings
+2501,Fall 2019,CSC 307 [01 ],10,45,Charlie Tuttle
+2502,Fall 2019,CSC 317 [01 ],57,49,Anthony Souza
+2503,Fall 2019,CSC 317 [02 ],68,49,Anthony Souza
+2504,Fall 2019,CSC 340 [01 ],43,45,Hui Yang
+2505,Fall 2019,CSC 340 [02 ],43,45,Hui Yang
+2506,Fall 2019,CSC 340 [03 ],39,40,$185.75 
+2507,Fall 2019,CSC 340 [04 ],43,45,$185.75 
+2508,Fall 2019,CSC 340 [05 ],40,40,$185.75 
+2509,Fall 2019,CSC 413 [01 ],40,40,Anthony Souza
+2510,Fall 2019,CSC 413 [02 ],50,40,Anthony Souza
+2511,Fall 2019,CSC 413 [03 ],53,40,Anthony Souza
+2512,Fall 2019,CSC 413 [04 ],44,40,Brian Parra
+2513,Fall 2019,CSC 413 [05 ],39,40,Jd Roberts
+2514,Fall 2019,CSC 415 [01 ],42,45,$98.00 
+2515,Fall 2019,CSC 415 [02 ],47,45,Tsun-Yuk Hsu
+2516,Fall 2019,CSC 415 [03 ],46,45,Tsun-Yuk Hsu
+2517,Fall 2019,CSC 510 [01 ],44,40,$208.95 
+2518,Fall 2019,CSC 510 [02 ],41,40,$135.82 
+2519,Fall 2019,CSC 510 [03 ],43,40,$208.95 
+2520,Fall 2019,CSC 520 [01 ],30,40,$221.50 
+2521,Fall 2019,CSC 600 [01 ],80,80,$77.00 
+2522,Fall 2019,CSC 600 [02 ],80,80,$30.00 
+2523,Fall 2019,CSC 615 [01 ],17,40,$22.99 
+2524,Fall 2019,CSC 620 [01 ],36,35,Anagha Kulkarni
+2525,Fall 2019,CSC 642 [01 ],31,35,Shahrukh Humayoun
+2526,Fall 2019,CSC 645 [01 ],42,70,Jose Ortiz Costa
+2527,Fall 2019,CSC 648 [01 ],39,35,$55.00 
+2528,Fall 2019,CSC 648 [02 ],34,35,$207.25 
+2529,Fall 2019,CSC 648 [03 ],34,35,$55.00 
+2530,Fall 2019,CSC 648 [04 ],26,35,Jose Ortiz Costa
+2531,Fall 2019,CSC 651 [01 ],46,40,$64.99 
+2532,Fall 2019,CSC 656 [01 ],33,45,Tsun-Yuk Hsu
+2533,Fall 2019,CSC 664 [01 ],23,30,Rahul Singh
+2534,Fall 2019,CSC 665 [01 ],39,40,$55.00 
+2535,Fall 2019,CSC 667 [01 ],46,35,Brian Parra
+2536,Fall 2019,CSC 667 [02 ],24,35,Jd Roberts
+2537,Fall 2019,CSC 675 [01 ],37,45,Maryam Hasan
+2538,Fall 2019,CSC 675 [02 ],37,45,Maryam Hasan
+2539,Fall 2019,CSC 675 [03 ],43,40,Jose Ortiz Costa
+2540,Fall 2019,CSC 690 [01 ],48,40,Axel Ancona Esselmann
+2541,Fall 2019,CSC 694 [01 ],0,36,To be announced
+2542,Fall 2019,CSC 698 [04 ],38,40,Jingyi Wang
+2543,Fall 2019,CSC 699 [01 ],1,15,To be announced
+2544,Fall 2019,CSC 720 [01 ],13,20,Arno Puder
+2545,Fall 2019,CSC 775 [01 ],10,10,Maryam Hasan
+2546,Fall 2019,CSC 775 [02 ],5,5,Maryam Hasan
+2547,Fall 2019,CSC 775 [03 ],5,5,Jose Ortiz Costa
+2548,Fall 2019,CSC 780 [01 ],7,20,Christopher Kriese
+2549,Fall 2019,CSC 810 [01 ],20,20,Chin Wong
+2550,Fall 2019,CSC 820 [01 ],2,5,Anagha Kulkarni
+2551,Fall 2019,CSC 847 [01 ],14,20,Hui Yang
+2552,Fall 2019,CSC 848 [01 ],5,5,$55.00 
+2553,Fall 2019,CSC 848 [02 ],5,5,$207.25 
+2554,Fall 2019,CSC 848 [03 ],5,5,$55.00 
+2555,Fall 2019,CSC 848 [04 ],3,5,Jose Ortiz Costa
+2556,Fall 2019,CSC 864 [01 ],2,10,Rahul Singh
+2557,Fall 2019,CSC 867 [01 ],8,5,Brian Parra
+2558,Fall 2019,CSC 867 [02 ],1,5,Jd Roberts
+2559,Fall 2019,CSC 872 [01 ],22,20,$214.25 
+2560,Fall 2019,CSC 876 [01 ],7,20,$116.99 
+2561,Fall 2019,CSC 890 [01 ],2,20,$141.50 
+2562,Fall 2019,CSC 890 [02 ],3,20,Pooyan Fazli
+2563,Fall 2019,CSC 890 [03 ],7,20,Rahul Singh
+2564,Fall 2019,CSC 895 [01 ],0,0,To be announced
+2565,Fall 2019,CSC 895 [16 ],0,7,Hyo Jung Song
+2566,Fall 2019,CSC 897 [01 ],0,24,To be announced
+2567,Fall 2019,CSC 898 [01 ],0,0,To be announced
+2568,Fall 2019,CSC 898 [13 ],0,5,Abeer AlJarrah
+2569,Fall 2019,CSC 898 [14 ],0,5,Pooyan Fazli
+2570,Fall 2019,CSC 898 [15 ],0,5,Hyo Jung Song
+2571,Fall 2019,CSC 898 [01 ],0,0,To be announced
+2572,Fall 2019,CSC 898 [13 ],0,5,Abeer AlJarrah
+2573,Fall 2019,CSC 898 [14 ],0,5,Pooyan Fazli
+2574,Fall 2019,CSC 898 [15 ],0,5,Hyo Jung Song
