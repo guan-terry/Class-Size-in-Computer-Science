@@ -2,8 +2,8 @@ The pdf file is just the PDF for all the IPYNB files if the user does not have a
 
 Running:
 Step 1:
-To get the data, first run preinstall.ipynb , then run parse_(schoolname).ipynb which will be in a school names' folder
-to scrape each website for a raw csv files. Some scrapers may take a long time to run. 
+To get the data, first run preinstall.ipynb , then run parse_(schoolname).ipynb in the school folderwhich will be in 
+a school names' folder to scrape each website for a raw csv files. Some scrapers may take a long time to run. 
 
 Step 2:
 Next run each of the 3 files: (data_classsize.ipynb , data_lowerupper.ipynb , data_subjects.ipynb)
